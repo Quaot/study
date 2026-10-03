@@ -1,0 +1,145 @@
+{
+  "updated": "2026-10-03T14:35:00-04:00",
+  "term": "Fall 2026 · 1A Electrical Engineering",
+  "rhythm": [
+    { "day": "Mon", "kind": "same-day" },
+    { "day": "Tue", "kind": "same-day" },
+    { "day": "Wed", "kind": "same-day" },
+    { "day": "Thu", "kind": "same-day" },
+    { "day": "Fri", "kind": "same-day" },
+    { "day": "Sat", "kind": "cumulative" },
+    { "day": "Sun", "kind": "forward" }
+  ],
+  "kinds": {
+    "same-day": { "label": "Same-day review", "blurb": "Only that day's lectures, the evening after." },
+    "cumulative": { "label": "Cumulative review", "blurb": "Everything taught so far, weak topics first, nothing reviewed in the last two days." },
+    "forward": { "label": "Going forward", "blurb": "Primers for the week ahead, so every lecture is a second look." },
+    "assignment": { "label": "Assignment", "blurb": "Deliverables with a due date." }
+  },
+  "courses": [
+    {
+      "id": "m115", "code": "MATH 115", "name": "Linear Algebra for Engineering", "color": "#1f4fa3",
+      "topics": [
+        { "id": "1.1", "title": "Vectors in Rⁿ", "taught": "2026-09-09" },
+        { "id": "1.2", "title": "Linear combinations", "taught": "2026-09-10" },
+        { "id": "1.3", "title": "Norm and dot product", "taught": "2026-09-12" },
+        { "id": "1.4", "title": "Lines and planes (vector equations)", "taught": "2026-09-15" },
+        { "id": "1.5", "title": "Cross product", "taught": "2026-09-16" },
+        { "id": "1.6", "title": "Scalar equation of a plane", "taught": "2026-09-17" },
+        { "id": "1.7", "title": "Projections", "taught": "2026-09-18" },
+        { "id": "2.1", "title": "Systems: terminology", "taught": "2026-09-18" },
+        { "id": "2.2", "title": "Solving systems, RREF", "taught": "2026-09-19" },
+        { "id": "2.3", "title": "Rank, System–Rank Theorem", "taught": "2026-09-22" },
+        { "id": "2.4", "title": "Homogeneous systems", "taught": "2026-09-24" },
+        { "id": "2.5", "title": "Combining row operations", "taught": "2026-09-24" },
+        { "id": "3.1", "title": "Matrix algebra, transpose", "taught": "2026-09-26" },
+        { "id": "3.2", "title": "Matrix–vector product", "taught": "2026-09-30" },
+        { "id": "3.3", "title": "The equation Ax = b", "taught": "2026-09-30" },
+        { "id": "3.4", "title": "Matrix multiplication", "taught": "2026-10-02" },
+        { "id": "3.5", "title": "Matrix inverses", "expected": "2026-10-05" },
+        { "id": "4.1", "title": "Spanning sets", "expected": "2026-10-07" },
+        { "id": "4.2", "title": "Geometry of spanning sets", "expected": "2026-10-07" }
+      ]
+    },
+    {
+      "id": "m117", "code": "MATH 117", "name": "Calculus 1 for Engineering", "color": "#c8643b",
+      "topics": [
+        { "id": "conics", "title": "Conic sections", "taught": "2026-09-09" },
+        { "id": "ineq", "title": "Inequalities and absolute value", "taught": "2026-09-11" },
+        { "id": "func", "title": "Functions, piecewise, Heaviside", "taught": "2026-09-14" },
+        { "id": "pfrac", "title": "Partial fractions", "taught": "2026-09-16" },
+        { "id": "trig", "title": "Trig functions and equations", "taught": "2026-09-18" },
+        { "id": "invtrig", "title": "Inverse trig", "taught": "2026-09-21" },
+        { "id": "hyp", "title": "Hyperbolic functions", "taught": "2026-09-23" },
+        { "id": "sinus", "title": "Sinusoids, amplitude–phase form", "taught": "2026-09-25" },
+        { "id": "seq", "title": "Sequences and their limits", "taught": "2026-09-28" },
+        { "id": "lim", "title": "Limits of functions, squeeze", "taught": "2026-09-28" },
+        { "id": "lim2", "title": "One-sided, infinite and special limits", "taught": "2026-09-30" },
+        { "id": "cont", "title": "Continuity", "taught": "2026-10-02" },
+        { "id": "ivt", "title": "Intermediate Value Theorem", "expected": "2026-10-05" }
+      ]
+    },
+    {
+      "id": "e150", "code": "ECE 150", "name": "Fundamentals of Programming", "color": "#1e6b4f",
+      "topics": [
+        { "id": "basics", "title": "1.01–1.10 Basics, operators, conditionals", "taught": "2026-09-14" },
+        { "id": "loops", "title": "1.11–1.15 Loops, scope, break, while", "taught": "2026-09-21" },
+        { "id": "stack", "title": "1.16–1.17 Call stack, libraries", "taught": "2026-09-25" },
+        { "id": "func", "title": "1.18 Writing functions", "taught": "2026-09-28" },
+        { "id": "test", "title": "1.19–1.21 Assertions, strategy, testing", "taught": "2026-09-30" },
+        { "id": "debug", "title": "1.22–1.24 Comments, logging, debugger", "taught": "2026-10-02" },
+        { "id": "binhex", "title": "1.25 Binary and hexadecimal", "taught": "2026-10-02", "note": "Started, finishing next lecture" },
+        { "id": "ints", "title": "1.26 Integer types, two's complement", "expected": "2026-10-05" },
+        { "id": "bits", "title": "1.27–1.30 Bitwise, floats, const, defaults", "expected": "2026-10-07" }
+      ]
+    },
+    {
+      "id": "e105", "code": "ECE 105", "name": "Physics of Electrical Engineering 1", "color": "#6b4fd8",
+      "note": "Lecture dates not confirmed. Tell me the current chapter and I'll fix this.",
+      "topics": [
+        { "id": "kin1", "title": "1D kinematics", "taught": "2026-09-14" },
+        { "id": "proj", "title": "Vectors, 2D motion, projectiles", "taught": "2026-09-21" },
+        { "id": "circ", "title": "Relative and circular motion", "taught": "2026-09-28", "unconfirmed": true },
+        { "id": "newton", "title": "Newton's laws, free-body diagrams", "expected": "2026-10-05", "unconfirmed": true },
+        { "id": "dyn2", "title": "Friction, dynamics in 2D, banked curves", "expected": "2026-10-12", "unconfirmed": true },
+        { "id": "energy", "title": "Work, energy, conservation", "expected": "2026-10-19", "unconfirmed": true }
+      ]
+    },
+    {
+      "id": "en192", "code": "ENGL 192", "name": "Communication in Engineering", "color": "#e0a526", "topics": []
+    },
+    {
+      "id": "e198", "code": "ECE 198", "name": "Project Studio", "color": "#10545a", "topics": []
+    },
+    {
+      "id": "e190", "code": "ECE 190", "name": "Engineering Profession", "color": "#e27396",
+      "topics": [ { "id": "design", "title": "Week 4: the design process", "taught": "2026-09-29" } ]
+    }
+  ],
+  "reviews": [
+    { "date": "2026-09-25", "course": "m115", "kind": "practice", "title": "Tutorial 2 practice set", "covers": ["1.4", "1.5", "1.6"] },
+    { "date": "2026-10-01", "course": "m115", "kind": "practice", "title": "Tutorial 3 practice set", "covers": ["1.7", "2.1", "2.2"] },
+    { "date": "2026-09-29", "course": "m117", "kind": "practice", "title": "Tutorial 3 problem set", "covers": ["trig", "invtrig", "hyp", "sinus"] }
+  ],
+  "weak": [],
+  "days": [
+    {
+      "date": "2026-10-02", "kind": "same-day",
+      "blocks": [
+        { "start": "18:00", "end": "18:50", "course": "m115", "title": "Same-day review: matrix multiplication", "doc": "Math 115 - Review (matrix multiplication).pdf", "covers": ["3.4"], "status": "done" },
+        { "start": "19:00", "end": "19:50", "course": "e150", "title": "Same-day review: 1.22–1.25", "doc": "ECE 150 - Review (1.22-1.25).pdf", "covers": ["debug", "binhex"], "status": "done" },
+        { "start": "21:16", "end": "21:41", "course": "m117", "title": "Same-day review: continuity (sections C, A)", "doc": "Math 117 - Review (continuity).pdf", "covers": ["cont"], "status": "done" },
+        { "start": "21:51", "end": "22:41", "course": "en192", "title": "Pitch memo: setup", "status": "done" }
+      ]
+    },
+    {
+      "date": "2026-10-03", "kind": "cumulative",
+      "blocks": [
+        { "start": "14:20", "end": "15:10", "course": "m117", "title": "Cumulative review: everything before continuity", "doc": "Math 117 - Cumulative review (before continuity).pdf", "covers": ["conics", "ineq", "func", "pfrac", "trig", "invtrig", "hyp", "sinus", "seq", "lim", "lim2"], "status": "now" },
+        { "start": "15:20", "end": "16:10", "course": "en192", "title": "Pitch memo, block 1: fill placeholders", "doc": "ENGL 192 - Memo draft v1.pdf", "status": "planned" },
+        { "start": "16:20", "end": "17:10", "course": "en192", "title": "Pitch memo, block 2: revise against rubric", "doc": "ENGL 192 - Memo work plan.pdf", "status": "planned" },
+        { "start": "17:20", "end": "18:10", "course": "m115", "title": "Cumulative review: 1.1–3.3", "doc": "Math 115 - Cumulative review (1.1-3.3).pdf", "covers": ["1.1", "1.2", "1.3", "1.4", "1.5", "1.6", "1.7", "2.1", "2.2", "2.3", "2.4", "2.5", "3.1", "3.2", "3.3"], "status": "planned" },
+        { "start": "18:20", "end": "19:10", "course": "e150", "title": "Cumulative review: 1.11–1.21", "doc": "ECE 150 - Cumulative review (1.11-1.21).pdf", "covers": ["loops", "stack", "func", "test"], "status": "planned" }
+      ]
+    },
+    {
+      "date": "2026-10-04", "kind": "forward", "tentative": true,
+      "blocks": [
+        { "start": "13:00", "end": "13:50", "course": "en192", "title": "Presentation draft", "status": "planned" },
+        { "start": "14:00", "end": "14:50", "course": "en192", "title": "Memo final pass, export PDF", "status": "planned" },
+        { "start": "15:00", "end": "15:50", "course": "m115", "title": "Forward: 3.5 inverses, then 4.1–4.2 primer", "doc": "Week 4 Primer (§3.5), Week 5 Primer - Spanning Sets", "status": "planned" },
+        { "start": "16:00", "end": "16:50", "course": "m117", "title": "Forward: IVT primer", "doc": "Next Lecture Primer - IVT", "status": "planned" },
+        { "start": "17:00", "end": "17:50", "course": "e150", "title": "Forward: finish 1.25, preview 1.26 integer types", "status": "planned" }
+      ]
+    }
+  ],
+  "deadlines": [
+    { "date": "2026-10-04", "course": "en192", "title": "Memo final + presentation draft", "note": "Own target" },
+    { "date": "2026-10-04", "course": "en192", "title": "Swales × Shark-Tank analysis", "weight": "3%", "note": "Confirm the date" },
+    { "date": "2026-10-06", "course": "e198", "title": "Group Deliverable 1, part 1", "weight": "8%", "note": "Oct 6 (groups 1–20) or Oct 7 (21–40), 11:59 pm" },
+    { "date": "2026-10-06", "course": "en192", "title": "Assignment 1 pitch memo", "weight": "10%", "note": "LEARN dropbox on presentation day (Oct 6 or 8)" },
+    { "course": "m117", "title": "Assignment 3 (trig)", "note": "Due date unknown" },
+    { "course": "e198", "title": "Project scope (Crowdmark)", "note": "Due date unknown" },
+    { "course": "e105", "title": "Mastering Physics, weekly", "note": "Due dates on Mastering" }
+  ]
+}

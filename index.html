@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Study — Justin Gu</title>
+  <meta name="description" content="Justin Gu's study schedule: today's blocks, what's due for review, and deadlines for 1A Electrical Engineering at Waterloo.">
+  <meta name="theme-color" content="#f1ebdf">
+  <meta name="robots" content="noindex">
+  <link rel="preload" href="fonts/instrument-serif.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="fonts/inter-tight.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="style.css">
+  <script defer src="app.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap">
+      <a class="mark" href="#top">Study</a>
+      <nav aria-label="Sections">
+        <a href="#today">Today</a>
+        <a href="#courses">Courses</a>
+        <a href="#due">Due</a>
+        <a href="#deadlines">Deadlines</a>
+        <a href="#log">Log</a>
+      </nav>
+    </div>
+  </header>
+
+  <main id="top" class="wrap">
+    <section class="hero" aria-label="Now">
+      <div>
+        <p class="kicker" data-kicker></p>
+        <h1 class="statement" data-statement></h1>
+      </div>
+      <div class="now" data-now>
+        <div class="clock" data-clock>--:--</div>
+        <div class="now-label" data-now-label></div>
+        <div class="bar"><i data-now-bar></i></div>
+      </div>
+    </section>
+
+    <section id="today" aria-labelledby="h-week">
+      <h2 class="section-mark" id="h-week">The <em>week</em> <small data-term></small></h2>
+      <div class="week" data-week></div>
+      <div class="plan-head">
+        <h3 data-plan-title></h3>
+        <p data-plan-blurb></p>
+      </div>
+      <div class="blocks" data-blocks></div>
+      <div class="report">
+        <button class="pill" data-copy>Copy my report for Claude</button>
+        <span class="muted" style="font-size:14px">Tick blocks, type scores like <b>18/26 A3 A7</b>, then paste the report into chat.</span>
+        <span class="toast" data-toast>Copied.</span>
+      </div>
+    </section>
+
+    <section id="courses" aria-labelledby="h-courses">
+      <h2 class="section-mark" id="h-courses">The <em>courses</em> <small>Click one to see every topic</small></h2>
+      <div class="palette" data-palette role="tablist" aria-label="Courses"></div>
+      <div class="course-panel" data-panel></div>
+      <div class="legend">
+        <span style="--k: var(--good)">Reviewed in the last week</span>
+        <span style="--k: var(--accent)">Due again, or weak</span>
+        <span style="--k: var(--warn)">Taught, never reviewed</span>
+        <span style="--k: var(--line)">Not taught yet</span>
+      </div>
+    </section>
+
+    <section id="due" aria-labelledby="h-due">
+      <h2 class="section-mark" id="h-due">Due for <em>review</em> <small>What Saturday's cumulative review pulls from first</small></h2>
+      <div class="due-grid" data-due></div>
+    </section>
+
+    <section id="deadlines" aria-labelledby="h-dl">
+      <h2 class="section-mark" id="h-dl">The <em>deadlines</em></h2>
+      <div class="deadlines" data-deadlines></div>
+    </section>
+
+    <section id="log" aria-labelledby="h-log">
+      <h2 class="section-mark" id="h-log">The <em>log</em> <small>Every review and practice set so far</small></h2>
+      <div class="filters" data-filters></div>
+      <div class="table-scroll"><table class="log" data-log></table></div>
+    </section>
+  </main>
+
+  <footer class="footer wrap">
+    <p class="say">Finish a block, <em>report it</em>.</p>
+    <div class="footer-row">
+      <span data-updated></span>
+      <span><a href="https://quaot.github.io">Portfolio ↗</a></span>
+      <button class="theme" data-theme-toggle>Theme</button>
+    </div>
+  </footer>
+  <noscript><p class="wrap">This page needs JavaScript.</p></noscript>
+</body>
+</html>
