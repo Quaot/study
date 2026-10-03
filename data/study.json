@@ -118,8 +118,8 @@
         { "start": "14:20", "end": "15:10", "course": "m117", "title": "Cumulative review: everything before continuity", "doc": "Math 117 - Cumulative review (before continuity).pdf", "covers": ["conics", "ineq", "func", "pfrac", "trig", "invtrig", "hyp", "sinus", "seq", "lim", "lim2"], "status": "now" },
         { "start": "15:20", "end": "16:10", "course": "en192", "title": "Pitch memo, block 1: fill placeholders", "doc": "ENGL 192 - Memo draft v1.pdf", "status": "planned" },
         { "start": "16:20", "end": "17:10", "course": "en192", "title": "Pitch memo, block 2: revise against rubric", "doc": "ENGL 192 - Memo work plan.pdf", "status": "planned" },
-        { "start": "17:20", "end": "18:10", "course": "m115", "title": "Cumulative review: 1.1–3.3", "doc": "Math 115 - Cumulative review (1.1-3.3).pdf", "covers": ["1.1", "1.2", "1.3", "1.4", "1.5", "1.6", "1.7", "2.1", "2.2", "2.3", "2.4", "2.5", "3.1", "3.2", "3.3"], "status": "planned" },
-        { "start": "18:20", "end": "19:10", "course": "e150", "title": "Cumulative review: 1.11–1.21", "doc": "ECE 150 - Cumulative review (1.11-1.21).pdf", "covers": ["loops", "stack", "func", "test"], "status": "planned" }
+        { "start": "17:20", "end": "18:10", "course": "m115", "title": "Cumulative review: 1.1–3.3", "doc": "Math 115 - Cumulative review (1.1-3.3).pdf", "covers": ["1.1", "1.2", "1.3", "1.4", "1.5", "1.7", "2.1", "2.2", "2.3", "2.4", "2.5", "3.1", "3.2", "3.3"], "note": "1.6 has no question of its own, so it stays due for next Saturday", "status": "planned" },
+        { "start": "18:20", "end": "19:10", "course": "e150", "title": "Cumulative review: 1.11–1.21", "doc": "ECE 150 - Cumulative review (1.11-1.21).pdf", "covers": ["loops", "stack", "func", "test"], "note": "Light on 1.15 and 1.17, so next time adds more", "status": "planned" }
       ]
     },
     {

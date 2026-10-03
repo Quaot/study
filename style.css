@@ -114,6 +114,7 @@ button { font: inherit; color: inherit; }
 .block .title { font-size: 19px; line-height: 1.3; letter-spacing: -0.01em; }
 .block .doc { font-size: 13.5px; color: var(--muted); margin-top: 3px; overflow-wrap: anywhere; }
 .block .doc::before { content: "PDF  "; font-size: 10.5px; letter-spacing: .1em; color: var(--c); font-weight: 600; }
+.block .bnote { font-size: 13px; color: var(--warn); margin-top: 3px; }
 .block.now { background: color-mix(in srgb, var(--c) 10%, transparent); }
 .block.now::before { content: ""; position: absolute; left: calc(-1 * var(--gutter) + 12px); top: 50%; width: 8px; height: 8px; margin-top: -4px; border-radius: 50%; background: var(--accent); animation: pulse 1.6s infinite; }
 @keyframes pulse { 50% { opacity: .25; } }
