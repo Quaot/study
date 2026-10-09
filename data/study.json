@@ -1,145 +1,1422 @@
 {
-  "updated": "2026-10-03T14:35:00-04:00",
+  "updated": "2026-10-09T15:30:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
-    { "day": "Mon", "kind": "same-day" },
-    { "day": "Tue", "kind": "same-day" },
-    { "day": "Wed", "kind": "same-day" },
-    { "day": "Thu", "kind": "same-day" },
-    { "day": "Fri", "kind": "same-day" },
-    { "day": "Sat", "kind": "cumulative" },
-    { "day": "Sun", "kind": "forward" }
+    {
+      "day": "Mon",
+      "kind": "same-day"
+    },
+    {
+      "day": "Tue",
+      "kind": "same-day"
+    },
+    {
+      "day": "Wed",
+      "kind": "same-day"
+    },
+    {
+      "day": "Thu",
+      "kind": "same-day"
+    },
+    {
+      "day": "Fri",
+      "kind": "same-day"
+    },
+    {
+      "day": "Sat",
+      "kind": "cumulative"
+    },
+    {
+      "day": "Sun",
+      "kind": "forward"
+    }
   ],
   "kinds": {
-    "same-day": { "label": "Same-day review", "blurb": "Only that day's lectures, the evening after." },
-    "cumulative": { "label": "Cumulative review", "blurb": "Everything taught so far, weak topics first, nothing reviewed in the last two days." },
-    "forward": { "label": "Going forward", "blurb": "Primers for the week ahead, so every lecture is a second look." },
-    "assignment": { "label": "Assignment", "blurb": "Deliverables with a due date." }
+    "same-day": {
+      "label": "Same-day review",
+      "blurb": "Only that day's lectures, the evening after."
+    },
+    "cumulative": {
+      "label": "Cumulative review",
+      "blurb": "Everything taught so far, weak topics first, nothing reviewed in the last two days."
+    },
+    "forward": {
+      "label": "Going forward",
+      "blurb": "Primers for the week ahead, so every lecture is a second look."
+    },
+    "assignment": {
+      "label": "Assignment",
+      "blurb": "Deliverables with a due date."
+    }
   },
   "courses": [
     {
-      "id": "m115", "code": "MATH 115", "name": "Linear Algebra for Engineering", "color": "#1f4fa3",
+      "id": "m115",
+      "code": "MATH 115",
+      "name": "Linear Algebra for Engineering",
+      "color": "#1f4fa3",
       "topics": [
-        { "id": "1.1", "title": "Vectors in Rⁿ", "taught": "2026-09-09" },
-        { "id": "1.2", "title": "Linear combinations", "taught": "2026-09-10" },
-        { "id": "1.3", "title": "Norm and dot product", "taught": "2026-09-12" },
-        { "id": "1.4", "title": "Lines and planes (vector equations)", "taught": "2026-09-15" },
-        { "id": "1.5", "title": "Cross product", "taught": "2026-09-16" },
-        { "id": "1.6", "title": "Scalar equation of a plane", "taught": "2026-09-17" },
-        { "id": "1.7", "title": "Projections", "taught": "2026-09-18" },
-        { "id": "2.1", "title": "Systems: terminology", "taught": "2026-09-18" },
-        { "id": "2.2", "title": "Solving systems, RREF", "taught": "2026-09-19" },
-        { "id": "2.3", "title": "Rank, System–Rank Theorem", "taught": "2026-09-22" },
-        { "id": "2.4", "title": "Homogeneous systems", "taught": "2026-09-24" },
-        { "id": "2.5", "title": "Combining row operations", "taught": "2026-09-24" },
-        { "id": "3.1", "title": "Matrix algebra, transpose", "taught": "2026-09-26" },
-        { "id": "3.2", "title": "Matrix–vector product", "taught": "2026-09-30" },
-        { "id": "3.3", "title": "The equation Ax = b", "taught": "2026-09-30" },
-        { "id": "3.4", "title": "Matrix multiplication", "taught": "2026-10-02" },
-        { "id": "3.5", "title": "Matrix inverses", "expected": "2026-10-05" },
-        { "id": "4.1", "title": "Spanning sets", "expected": "2026-10-07" },
-        { "id": "4.2", "title": "Geometry of spanning sets", "expected": "2026-10-07" }
+        {
+          "id": "1.1",
+          "title": "Vectors in Rⁿ",
+          "taught": "2026-09-09"
+        },
+        {
+          "id": "1.2",
+          "title": "Linear combinations",
+          "taught": "2026-09-10"
+        },
+        {
+          "id": "1.3",
+          "title": "Norm and dot product",
+          "taught": "2026-09-12"
+        },
+        {
+          "id": "1.4",
+          "title": "Lines and planes (vector equations)",
+          "taught": "2026-09-15"
+        },
+        {
+          "id": "1.5",
+          "title": "Cross product",
+          "taught": "2026-09-16"
+        },
+        {
+          "id": "1.6",
+          "title": "Scalar equation of a plane",
+          "taught": "2026-09-17"
+        },
+        {
+          "id": "1.7",
+          "title": "Projections",
+          "taught": "2026-09-18"
+        },
+        {
+          "id": "2.1",
+          "title": "Systems: terminology",
+          "taught": "2026-09-18"
+        },
+        {
+          "id": "2.2",
+          "title": "Solving systems, RREF",
+          "taught": "2026-09-19"
+        },
+        {
+          "id": "2.3",
+          "title": "Rank, System–Rank Theorem",
+          "taught": "2026-09-22"
+        },
+        {
+          "id": "2.4",
+          "title": "Homogeneous systems",
+          "taught": "2026-09-24"
+        },
+        {
+          "id": "2.5",
+          "title": "Combining row operations",
+          "taught": "2026-09-24"
+        },
+        {
+          "id": "3.1",
+          "title": "Matrix algebra, transpose",
+          "taught": "2026-09-26"
+        },
+        {
+          "id": "3.2",
+          "title": "Matrix–vector product",
+          "taught": "2026-09-30"
+        },
+        {
+          "id": "3.3",
+          "title": "The equation Ax = b",
+          "taught": "2026-09-30"
+        },
+        {
+          "id": "3.4",
+          "title": "Matrix multiplication",
+          "taught": "2026-10-02"
+        },
+        {
+          "id": "3.5",
+          "title": "Matrix inverses",
+          "expected": "2026-10-05"
+        },
+        {
+          "id": "4.1",
+          "title": "Spanning sets",
+          "expected": "2026-10-07"
+        },
+        {
+          "id": "4.2",
+          "title": "Geometry of spanning sets",
+          "expected": "2026-10-07"
+        }
       ]
     },
     {
-      "id": "m117", "code": "MATH 117", "name": "Calculus 1 for Engineering", "color": "#c8643b",
+      "id": "m117",
+      "code": "MATH 117",
+      "name": "Calculus 1 for Engineering",
+      "color": "#c8643b",
       "topics": [
-        { "id": "conics", "title": "Conic sections", "taught": "2026-09-09" },
-        { "id": "ineq", "title": "Inequalities and absolute value", "taught": "2026-09-11" },
-        { "id": "func", "title": "Functions, piecewise, Heaviside", "taught": "2026-09-14" },
-        { "id": "pfrac", "title": "Partial fractions", "taught": "2026-09-16" },
-        { "id": "trig", "title": "Trig functions and equations", "taught": "2026-09-18" },
-        { "id": "invtrig", "title": "Inverse trig", "taught": "2026-09-21" },
-        { "id": "hyp", "title": "Hyperbolic functions", "taught": "2026-09-23" },
-        { "id": "sinus", "title": "Sinusoids, amplitude–phase form", "taught": "2026-09-25" },
-        { "id": "seq", "title": "Sequences and their limits", "taught": "2026-09-28" },
-        { "id": "lim", "title": "Limits of functions, squeeze", "taught": "2026-09-28" },
-        { "id": "lim2", "title": "One-sided, infinite and special limits", "taught": "2026-09-30" },
-        { "id": "cont", "title": "Continuity", "taught": "2026-10-02" },
-        { "id": "ivt", "title": "Intermediate Value Theorem", "expected": "2026-10-05" }
+        {
+          "id": "conics",
+          "title": "Conic sections",
+          "taught": "2026-09-09"
+        },
+        {
+          "id": "ineq",
+          "title": "Inequalities and absolute value",
+          "taught": "2026-09-11"
+        },
+        {
+          "id": "func",
+          "title": "Functions, piecewise, Heaviside",
+          "taught": "2026-09-14"
+        },
+        {
+          "id": "pfrac",
+          "title": "Partial fractions",
+          "taught": "2026-09-16"
+        },
+        {
+          "id": "trig",
+          "title": "Trig functions and equations",
+          "taught": "2026-09-18"
+        },
+        {
+          "id": "invtrig",
+          "title": "Inverse trig",
+          "taught": "2026-09-21"
+        },
+        {
+          "id": "hyp",
+          "title": "Hyperbolic functions",
+          "taught": "2026-09-23"
+        },
+        {
+          "id": "sinus",
+          "title": "Sinusoids, amplitude–phase form",
+          "taught": "2026-09-25"
+        },
+        {
+          "id": "seq",
+          "title": "Sequences and their limits",
+          "taught": "2026-09-28"
+        },
+        {
+          "id": "lim",
+          "title": "Limits of functions, squeeze",
+          "taught": "2026-09-28"
+        },
+        {
+          "id": "lim2",
+          "title": "One-sided, infinite and special limits",
+          "taught": "2026-09-30"
+        },
+        {
+          "id": "cont",
+          "title": "Continuity",
+          "taught": "2026-10-02"
+        },
+        {
+          "id": "ivt",
+          "title": "Intermediate Value Theorem",
+          "taught": "2026-10-05"
+        },
+        {
+          "id": "evt",
+          "title": "Extreme Value Theorem",
+          "taught": "2026-10-05"
+        },
+        {
+          "id": "deriv",
+          "title": "Derivative from the definition, tangent lines",
+          "taught": "2026-10-05"
+        }
       ]
     },
     {
-      "id": "e150", "code": "ECE 150", "name": "Fundamentals of Programming", "color": "#1e6b4f",
+      "id": "e150",
+      "code": "ECE 150",
+      "name": "Fundamentals of Programming",
+      "color": "#1e6b4f",
       "topics": [
-        { "id": "basics", "title": "1.01–1.10 Basics, operators, conditionals", "taught": "2026-09-14" },
-        { "id": "loops", "title": "1.11–1.15 Loops, scope, break, while", "taught": "2026-09-21" },
-        { "id": "stack", "title": "1.16–1.17 Call stack, libraries", "taught": "2026-09-25" },
-        { "id": "func", "title": "1.18 Writing functions", "taught": "2026-09-28" },
-        { "id": "test", "title": "1.19–1.21 Assertions, strategy, testing", "taught": "2026-09-30" },
-        { "id": "debug", "title": "1.22–1.24 Comments, logging, debugger", "taught": "2026-10-02" },
-        { "id": "binhex", "title": "1.25 Binary and hexadecimal", "taught": "2026-10-02", "note": "Started, finishing next lecture" },
-        { "id": "ints", "title": "1.26 Integer types, two's complement", "expected": "2026-10-05" },
-        { "id": "bits", "title": "1.27–1.30 Bitwise, floats, const, defaults", "expected": "2026-10-07" }
+        {
+          "id": "basics",
+          "title": "1.01–1.10 Basics, operators, conditionals",
+          "taught": "2026-09-14"
+        },
+        {
+          "id": "loops",
+          "title": "1.11–1.15 Loops, scope, break, while",
+          "taught": "2026-09-21"
+        },
+        {
+          "id": "stack",
+          "title": "1.16–1.17 Call stack, libraries",
+          "taught": "2026-09-25"
+        },
+        {
+          "id": "func",
+          "title": "1.18 Writing functions",
+          "taught": "2026-09-28"
+        },
+        {
+          "id": "test",
+          "title": "1.19–1.21 Assertions, strategy, testing",
+          "taught": "2026-09-30"
+        },
+        {
+          "id": "debug",
+          "title": "1.22–1.24 Comments, logging, debugger",
+          "taught": "2026-10-02"
+        },
+        {
+          "id": "binhex",
+          "title": "1.25 Binary and hexadecimal",
+          "taught": "2026-10-05",
+          "note": "Started Oct 2, finished Oct 5"
+        },
+        {
+          "id": "ints",
+          "title": "1.26 Integer types, two's complement",
+          "taught": "2026-10-05"
+        },
+        {
+          "id": "bitwise",
+          "title": "1.27 Bitwise and bit-shift operators",
+          "taught": "2026-10-05",
+          "note": "Ended on the bit-shift operators. The print-in-binary example may still be ahead"
+        },
+        {
+          "id": "bits",
+          "title": "1.28–1.30 Floats, const, default parameters",
+          "taught": "2026-10-09"
+        },
+        {
+          "id": "refs",
+          "title": "1.31 References, pass-by-reference",
+          "taught": "2026-10-09"
+        },
+        {
+          "id": "arrays",
+          "title": "1.32–1.33 Arrays, passing arrays to functions",
+          "taught": "2026-10-09",
+          "note": "1.33 continues next lecture"
+        }
       ]
     },
     {
-      "id": "e105", "code": "ECE 105", "name": "Physics of Electrical Engineering 1", "color": "#6b4fd8",
+      "id": "e105",
+      "code": "ECE 105",
+      "name": "Physics of Electrical Engineering 1",
+      "color": "#6b4fd8",
       "note": "Lecture dates not confirmed. Tell me the current chapter and I'll fix this.",
       "topics": [
-        { "id": "kin1", "title": "1D kinematics", "taught": "2026-09-14" },
-        { "id": "proj", "title": "Vectors, 2D motion, projectiles", "taught": "2026-09-21" },
-        { "id": "circ", "title": "Relative and circular motion", "taught": "2026-09-28", "unconfirmed": true },
-        { "id": "newton", "title": "Newton's laws, free-body diagrams", "expected": "2026-10-05", "unconfirmed": true },
-        { "id": "dyn2", "title": "Friction, dynamics in 2D, banked curves", "expected": "2026-10-12", "unconfirmed": true },
-        { "id": "energy", "title": "Work, energy, conservation", "expected": "2026-10-19", "unconfirmed": true }
+        {
+          "id": "kin1",
+          "title": "1D kinematics",
+          "taught": "2026-09-14"
+        },
+        {
+          "id": "proj",
+          "title": "Vectors, 2D motion, projectiles",
+          "taught": "2026-09-21"
+        },
+        {
+          "id": "circ",
+          "title": "Relative and circular motion",
+          "taught": "2026-09-28",
+          "unconfirmed": true
+        },
+        {
+          "id": "newton",
+          "title": "Newton's laws, free-body diagrams",
+          "expected": "2026-10-05",
+          "unconfirmed": true
+        },
+        {
+          "id": "dyn2",
+          "title": "Friction, dynamics in 2D, banked curves",
+          "expected": "2026-10-12",
+          "unconfirmed": true
+        },
+        {
+          "id": "energy",
+          "title": "Work, energy, conservation",
+          "expected": "2026-10-19",
+          "unconfirmed": true
+        }
       ]
     },
     {
-      "id": "en192", "code": "ENGL 192", "name": "Communication in Engineering", "color": "#e0a526", "topics": []
+      "id": "en192",
+      "code": "ENGL 192",
+      "name": "Communication in Engineering",
+      "color": "#e0a526",
+      "topics": []
     },
     {
-      "id": "e198", "code": "ECE 198", "name": "Project Studio", "color": "#10545a", "topics": []
+      "id": "e198",
+      "code": "ECE 198",
+      "name": "Project Studio",
+      "color": "#10545a",
+      "topics": []
     },
     {
-      "id": "e190", "code": "ECE 190", "name": "Engineering Profession", "color": "#e27396",
-      "topics": [ { "id": "design", "title": "Week 4: the design process", "taught": "2026-09-29" } ]
+      "id": "e190",
+      "code": "ECE 190",
+      "name": "Engineering Profession",
+      "color": "#e27396",
+      "topics": [
+        {
+          "id": "design",
+          "title": "Week 4: the design process",
+          "taught": "2026-09-29"
+        }
+      ]
     }
   ],
   "reviews": [
-    { "date": "2026-09-25", "course": "m115", "kind": "practice", "title": "Tutorial 2 practice set", "covers": ["1.4", "1.5", "1.6"] },
-    { "date": "2026-10-01", "course": "m115", "kind": "practice", "title": "Tutorial 3 practice set", "covers": ["1.7", "2.1", "2.2"] },
-    { "date": "2026-09-29", "course": "m117", "kind": "practice", "title": "Tutorial 3 problem set", "covers": ["trig", "invtrig", "hyp", "sinus"] }
+    {
+      "date": "2026-09-25",
+      "course": "m115",
+      "kind": "practice",
+      "title": "Tutorial 2 practice set",
+      "covers": [
+        "1.4",
+        "1.5",
+        "1.6"
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "course": "m115",
+      "kind": "practice",
+      "title": "Tutorial 3 practice set",
+      "covers": [
+        "1.7",
+        "2.1",
+        "2.2"
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "course": "m117",
+      "kind": "practice",
+      "title": "Tutorial 3 problem set",
+      "covers": [
+        "trig",
+        "invtrig",
+        "hyp",
+        "sinus"
+      ]
+    }
   ],
-  "weak": [],
+  "weak": [
+    {
+      "course": "m117",
+      "topic": "ineq",
+      "why": "A3 rational inequality wrong (2026-10-03)"
+    },
+    {
+      "course": "m117",
+      "topic": "hyp",
+      "why": "A8 sinh equation needed hints (2026-10-03)"
+    },
+    {
+      "course": "m117",
+      "topic": "sinus",
+      "why": "A9 R sin(x + phi) needed hints (2026-10-03)"
+    },
+    {
+      "course": "m115",
+      "topic": "2.3",
+      "why": "Stuck on Q3, rank with parameters (2026-10-03). Self-reported weak on the rank theorem (2026-10-04)"
+    },
+    {
+      "course": "m115",
+      "topic": "1.7",
+      "why": "Self-reported weak on proj and perp (2026-10-04)"
+    }
+  ],
   "days": [
     {
-      "date": "2026-10-02", "kind": "same-day",
+      "date": "2026-10-10",
+      "kind": "cumulative",
+      "tentative": true,
       "blocks": [
-        { "start": "18:00", "end": "18:50", "course": "m115", "title": "Same-day review: matrix multiplication", "doc": "Math 115 - Review (matrix multiplication).pdf", "covers": ["3.4"], "status": "done" },
-        { "start": "19:00", "end": "19:50", "course": "e150", "title": "Same-day review: 1.22–1.25", "doc": "ECE 150 - Review (1.22-1.25).pdf", "covers": ["debug", "binhex"], "status": "done" },
-        { "start": "21:16", "end": "21:41", "course": "m117", "title": "Same-day review: continuity (sections C, A)", "doc": "Math 117 - Review (continuity).pdf", "covers": ["cont"], "status": "done" },
-        { "start": "21:51", "end": "22:41", "course": "en192", "title": "Pitch memo: setup", "status": "done" }
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m115",
+          "title": "Exam pack: rank, systems and homogeneous systems",
+          "doc": "Exam pack - rank, systems and homogeneous systems",
+          "status": "planned",
+          "covers": [
+            "2.1",
+            "2.2",
+            "2.3",
+            "2.4"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: rank."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m115",
+          "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
+          "doc": "Exam pack - rank, systems and homogeneous systems",
+          "status": "planned",
+          "covers": [
+            "2.1",
+            "2.2",
+            "2.3",
+            "2.4"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "m117",
+          "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
+          "doc": "Exam pack - inequalities, functions, trig, hyperbolic and sinusoids",
+          "status": "planned",
+          "covers": [
+            "ineq",
+            "func",
+            "trig",
+            "hyp",
+            "sinus"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topics: inequalities, hyperbolic, sinusoids."
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "m117",
+          "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
+          "doc": "Exam pack - inequalities, functions, trig, hyperbolic and sinusoids",
+          "status": "planned",
+          "covers": [
+            "ineq",
+            "func",
+            "trig",
+            "hyp",
+            "sinus"
+          ]
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "e150",
+          "title": "Exam pack: loops and iterative algorithms",
+          "doc": "Exam pack - loops and iterative algorithms",
+          "status": "planned",
+          "covers": [
+            "loops"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
+          "title": "Exam pack: loops and iterative algorithms (part 2, then mark and log)",
+          "doc": "Exam pack - loops and iterative algorithms",
+          "status": "planned",
+          "covers": [
+            "loops"
+          ]
+        }
       ]
     },
     {
-      "date": "2026-10-03", "kind": "cumulative",
+      "date": "2026-10-11",
+      "kind": "forward",
+      "tentative": true,
       "blocks": [
-        { "start": "14:20", "end": "15:10", "course": "m117", "title": "Cumulative review: everything before continuity", "doc": "Math 117 - Cumulative review (before continuity).pdf", "covers": ["conics", "ineq", "func", "pfrac", "trig", "invtrig", "hyp", "sinus", "seq", "lim", "lim2"], "status": "now" },
-        { "start": "15:20", "end": "16:10", "course": "en192", "title": "Pitch memo, block 1: fill placeholders", "doc": "ENGL 192 - Memo draft v1.pdf", "status": "planned" },
-        { "start": "16:20", "end": "17:10", "course": "en192", "title": "Pitch memo, block 2: revise against rubric", "doc": "ENGL 192 - Memo work plan.pdf", "status": "planned" },
-        { "start": "17:20", "end": "18:10", "course": "m115", "title": "Cumulative review: 1.1–3.3", "doc": "Math 115 - Cumulative review (1.1-3.3).pdf", "covers": ["1.1", "1.2", "1.3", "1.4", "1.5", "1.7", "2.1", "2.2", "2.3", "2.4", "2.5", "3.1", "3.2", "3.3"], "note": "1.6 has no question of its own, so it stays due for next Saturday", "status": "planned" },
-        { "start": "18:20", "end": "19:10", "course": "e150", "title": "Cumulative review: 1.11–1.21", "doc": "ECE 150 - Cumulative review (1.11-1.21).pdf", "covers": ["loops", "stack", "func", "test"], "note": "Light on 1.15 and 1.17, so next time adds more", "status": "planned" }
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m115",
+          "title": "Exam pack: lines, planes, cross product and projections",
+          "doc": "Exam pack - lines, planes, cross product and projections",
+          "status": "planned",
+          "covers": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: proj and perp."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m115",
+          "title": "Exam pack: lines, planes, cross product and projections (part 2, then mark and log)",
+          "doc": "Exam pack - lines, planes, cross product and projections",
+          "status": "planned",
+          "covers": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "m117",
+          "title": "Forward: primer for next week's Math 117 lectures",
+          "status": "planned"
+        }
       ]
     },
     {
-      "date": "2026-10-04", "kind": "forward", "tentative": true,
+      "date": "2026-10-12",
+      "kind": "cumulative",
+      "tentative": true,
       "blocks": [
-        { "start": "13:00", "end": "13:50", "course": "en192", "title": "Presentation draft", "status": "planned" },
-        { "start": "14:00", "end": "14:50", "course": "en192", "title": "Memo final pass, export PDF", "status": "planned" },
-        { "start": "15:00", "end": "15:50", "course": "m115", "title": "Forward: 3.5 inverses, then 4.1–4.2 primer", "doc": "Week 4 Primer (§3.5), Week 5 Primer - Spanning Sets", "status": "planned" },
-        { "start": "16:00", "end": "16:50", "course": "m117", "title": "Forward: IVT primer", "doc": "Next Lecture Primer - IVT", "status": "planned" },
-        { "start": "17:00", "end": "17:50", "course": "e150", "title": "Forward: finish 1.25, preview 1.26 integer types", "status": "planned" }
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m117",
+          "title": "Exam pack: limits and continuity",
+          "doc": "Exam pack - limits and continuity",
+          "status": "planned",
+          "covers": [
+            "seq",
+            "lim",
+            "lim2",
+            "cont"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m117",
+          "title": "Exam pack: limits and continuity (part 2, then mark and log)",
+          "doc": "Exam pack - limits and continuity",
+          "status": "planned",
+          "covers": [
+            "seq",
+            "lim",
+            "lim2",
+            "cont"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e150",
+          "title": "Exam pack: functions, the call stack and program structure",
+          "doc": "Exam pack - functions, the call stack and program structure",
+          "status": "planned",
+          "covers": [
+            "func",
+            "stack",
+            "basics"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "e150",
+          "title": "Exam pack: functions, the call stack and program structure (part 2, then mark and log)",
+          "doc": "Exam pack - functions, the call stack and program structure",
+          "status": "planned",
+          "covers": [
+            "func",
+            "stack",
+            "basics"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m115",
+          "title": "Exam pack: vectors, dot product and matrix operations",
+          "doc": "Exam pack - vectors, dot product and matrix operations",
+          "status": "planned",
+          "covers": [
+            "1.1",
+            "1.2",
+            "1.3",
+            "3.1",
+            "3.2",
+            "3.3",
+            "3.4",
+            "3.5"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m115",
+          "title": "Exam pack: vectors, dot product and matrix operations (part 2, then mark and log)",
+          "doc": "Exam pack - vectors, dot product and matrix operations",
+          "status": "planned",
+          "covers": [
+            "1.1",
+            "1.2",
+            "1.3",
+            "3.1",
+            "3.2",
+            "3.3",
+            "3.4",
+            "3.5"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e150",
+          "title": "Exam pack: arrays",
+          "doc": "Exam pack - arrays",
+          "status": "planned",
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Arrays may not be taught yet: treat as pre-test."
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "e150",
+          "title": "Exam pack: arrays (part 2, then mark and log)",
+          "doc": "Exam pack - arrays",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m117",
+          "title": "Exam pack: partial fractions and derivative rules",
+          "doc": "Exam pack - partial fractions and derivative rules",
+          "status": "planned",
+          "covers": [
+            "pfrac"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m117",
+          "title": "Exam pack: partial fractions and derivative rules (part 2, then mark and log)",
+          "doc": "Exam pack - partial fractions and derivative rules",
+          "status": "planned",
+          "covers": [
+            "pfrac"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "m115",
+          "title": "Exam pack: subspaces, bases and dimension",
+          "doc": "Exam pack - subspaces, bases and dimension",
+          "status": "planned",
+          "covers": [
+            "4.4"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "m115",
+          "title": "Exam pack: subspaces, bases and dimension (part 2, then mark and log)",
+          "doc": "Exam pack - subspaces, bases and dimension",
+          "status": "planned",
+          "covers": [
+            "4.4"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m117",
+          "title": "Pre-test retries: questions on topics taught since first attempt",
+          "status": "planned"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "e150",
+          "title": "Pre-test retries: questions on topics taught since first attempt",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e105",
+          "title": "ECE 105 review blocks (Lectures 8-9: forces, FBDs, ramps and pulleys)",
+          "doc": "ECE 105 - Review (lectures 3-4, 8, 9)",
+          "status": "planned"
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "e105",
+          "title": "ECE 105 review blocks (Lectures 10-12: circular motion, energy)",
+          "doc": "ECE 105 - Review (lectures 10-12)",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "e150",
+          "title": "Exam pack: variables, conditionals and integer types",
+          "doc": "Exam pack - variables, conditionals and integer types",
+          "status": "planned",
+          "covers": [
+            "basics",
+            "ints"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "e150",
+          "title": "Exam pack: variables, conditionals and integer types (part 2, then mark and log)",
+          "doc": "Exam pack - variables, conditionals and integer types",
+          "status": "planned",
+          "covers": [
+            "basics",
+            "ints"
+          ]
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e105",
+          "title": "ECE 105 review blocks (Lectures 13-14: energy diagrams, pulleys)",
+          "doc": "ECE 105 - Review (lectures 13-14)",
+          "status": "planned"
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "e105",
+          "title": "ECE 105: redo missed Mastering problems",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-17",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m115",
+          "title": "Pass 2: only the questions you missed (3+ days ago), from the error log",
+          "status": "planned"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m117",
+          "title": "Pass 2: only the questions you missed (3+ days ago), from the error log",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e150",
+          "title": "Pass 2: only the questions you missed (3+ days ago), from the error log",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m117",
+          "title": "Pass 2: misses and weak topics before mock week",
+          "status": "planned"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m115",
+          "title": "Pass 2: misses and weak topics before mock week",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e105",
+          "title": "Pass 2: misses and weak topics before mock week",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "kind": "same-day",
+      "blocks": [
+        {
+          "start": "13:00",
+          "end": "13:15",
+          "course": "m117",
+          "title": "Lecture 15 primer: inverse, implicit and log differentiation, MVT",
+          "doc": "Math 117 - Lecture 15 primer (inverse, implicit, log diff, MVT)",
+          "status": "done"
+        },
+        {
+          "start": "13:40",
+          "end": "15:00",
+          "course": "e150",
+          "title": "Lecture primers 1.28–1.33: floats, const, default parameters, references, arrays",
+          "doc": "ECE 150 - 1.28 to 1.33 primers (dOneSen 1009)",
+          "covers": [
+            "bits",
+            "refs",
+            "arrays"
+          ],
+          "note": "Read during lecture. The arrays primer's two midterm questions (2023F Q8, 2021F Q5) are for tonight",
+          "status": "done"
+        },
+        {
+          "start": "16:00",
+          "end": "16:30",
+          "course": "m117",
+          "title": "Assignment 3 (trig)",
+          "status": "done"
+        },
+        {
+          "start": "16:30",
+          "end": "17:00",
+          "course": "e198",
+          "title": "Project scope (Crowdmark)",
+          "status": "done"
+        },
+        {
+          "start": "17:00",
+          "end": "17:50",
+          "course": "e105",
+          "title": "Mastering Physics A4: last 4 questions (due 11:59 pm)",
+          "note": "Skip if already finished, and start the next block early",
+          "status": "planned"
+        },
+        {
+          "start": "18:00",
+          "end": "18:50",
+          "course": "m117",
+          "title": "Same-day review: Lecture 15, Block 1 (inverse, inverse trig, implicit)",
+          "doc": "Math 117 - Same-day review (lecture 15)",
+          "covers": [
+            "ivt"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "18:50",
+          "end": "19:40",
+          "course": "m117",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "19:40",
+          "end": "20:30",
+          "course": "e150",
+          "title": "Same-day review: bitwise, review section and Block 1 (by hand)",
+          "doc": "ECE 150 - Bitwise practice",
+          "covers": [
+            "bits"
+          ],
+          "status": "planned",
+          "note": "Add: arrays primer E1 (2023F MT Q8) and E2 (2021F MT Q5), on paper then compile."
+        },
+        {
+          "start": "20:40",
+          "end": "21:30",
+          "course": "m115",
+          "title": "Same-day review: Week 5 primer §4.1–4.2 (to shell page 9) and its checks",
+          "doc": "Math 115 - Week 5 primer (4.1-4.4)",
+          "covers": [
+            "4.1",
+            "4.2"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "21:40",
+          "end": "22:30",
+          "course": "m117",
+          "title": "Same-day review: Lecture 15, Block 2 (log differentiation, MVT)",
+          "doc": "Math 117 - Same-day review (lecture 15)",
+          "status": "planned"
+        },
+        {
+          "start": "22:30",
+          "end": "23:00",
+          "course": "e150",
+          "title": "Mark everything, log scores and misses, and plan tomorrow",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "kind": "assignment",
+      "blocks": [
+        {
+          "start": "13:30",
+          "end": "14:15",
+          "course": "en192",
+          "title": "Pitch presentation",
+          "note": "Presented",
+          "status": "done"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "course": "e105",
+          "title": "Mastering Physics Assignment 4 (due Fri 11:59 pm)",
+          "status": "now"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "kind": "same-day",
+      "blocks": [
+        {
+          "start": "18:00",
+          "end": "18:50",
+          "course": "m115",
+          "title": "Same-day review: matrix multiplication",
+          "doc": "Math 115 - Review (matrix multiplication).pdf",
+          "covers": [
+            "3.4"
+          ],
+          "status": "done"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "e150",
+          "title": "Same-day review: 1.22–1.25",
+          "doc": "ECE 150 - Review (1.22-1.25).pdf",
+          "covers": [
+            "debug",
+            "binhex"
+          ],
+          "status": "done"
+        },
+        {
+          "start": "21:16",
+          "end": "21:41",
+          "course": "m117",
+          "title": "Same-day review: continuity (sections C, A)",
+          "doc": "Math 117 - Review (continuity).pdf",
+          "covers": [
+            "cont"
+          ],
+          "status": "done"
+        },
+        {
+          "start": "21:51",
+          "end": "22:41",
+          "course": "en192",
+          "title": "Pitch memo: setup",
+          "status": "done"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "kind": "cumulative",
+      "blocks": [
+        {
+          "start": "14:20",
+          "end": "15:10",
+          "course": "m117",
+          "title": "Cumulative review: everything before continuity",
+          "doc": "Math 117 - Cumulative review (before continuity).pdf",
+          "covers": [
+            "conics",
+            "ineq",
+            "func",
+            "pfrac",
+            "trig",
+            "invtrig"
+          ],
+          "note": "A1–A7 in 50 min (planned 25 for all of Section A). A1 A2 A4 A5 A7 right, A6 arithmetic slip, A3 wrong",
+          "score": "15/21 on A1–A7 (A6 half credit)",
+          "missed": [
+            "A3",
+            "A6 (arithmetic)"
+          ],
+          "status": "done"
+        },
+        {
+          "start": "15:20",
+          "end": "16:10",
+          "course": "m117",
+          "title": "Cumulative review, continued: A8–A9",
+          "doc": "Math 117 - Cumulative review (before continuity).pdf",
+          "covers": [
+            "hyp",
+            "sinus"
+          ],
+          "score": "A8, A9 done with hints",
+          "missed": [
+            "A8 (hints)",
+            "A9 (hints)"
+          ],
+          "note": "Finished Section A (A1–A9). Section B (sequences and limits: seq, lim, lim2) not reached, so it goes first in next Saturday's cumulative review",
+          "status": "done"
+        },
+        {
+          "start": "16:20",
+          "end": "17:10",
+          "course": "en192",
+          "title": "Pitch memo, block 1: rewrite v1 in your own words",
+          "doc": "ENGL 192 - Memo draft v1.pdf",
+          "note": "Wrote Memo draft v2 - Justin",
+          "status": "done"
+        },
+        {
+          "start": "17:20",
+          "end": "18:10",
+          "course": "en192",
+          "title": "Pitch memo, block 2: revise against rubric",
+          "doc": "ENGL 192 - Memo work plan.pdf",
+          "note": "Memo about halfway done. Finish it first thing Sunday",
+          "status": "done"
+        },
+        {
+          "start": "18:45",
+          "end": "19:35",
+          "course": "m115",
+          "title": "Cumulative review: 1.1–3.3",
+          "doc": "Math 115 - Cumulative review (1.1-3.3).pdf",
+          "covers": [
+            "1.1",
+            "1.2",
+            "1.3",
+            "1.4",
+            "1.5",
+            "1.7",
+            "2.1",
+            "2.2",
+            "2.3",
+            "2.4",
+            "2.5",
+            "3.1",
+            "3.2",
+            "3.3"
+          ],
+          "note": "1.6 has no question of its own, so it stays due for next Saturday. Paused at Q3 for dinner, finishing after",
+          "score": "Q1–Q2 done",
+          "missed": [
+            "Q3 (stuck)",
+            "Q4–Q5 not reached"
+          ],
+          "status": "done"
+        },
+        {
+          "start": "19:45",
+          "end": "20:35",
+          "course": "e150",
+          "title": "Cumulative review: 1.11–1.21",
+          "doc": "ECE 150 - Cumulative review (1.11-1.21).pdf",
+          "covers": [
+            "loops",
+            "stack",
+            "func",
+            "test"
+          ],
+          "note": "Light on 1.15 and 1.17, so next time adds more",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "kind": "same-day",
+      "blocks": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "course": "m117",
+          "title": "Math 117 tutorial (V1 Great Hall)",
+          "status": "planned"
+        },
+        {
+          "start": "19:15",
+          "end": "20:05",
+          "course": "m115",
+          "title": "Math 115 tutorial prep (Tue 10:30), block 1: proj and perp",
+          "doc": "Math 115 - Targeted practice (proj, perp, rank)",
+          "covers": [
+            "1.7",
+            "2.3",
+            "2.4"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "20:15",
+          "end": "21:05",
+          "course": "m115",
+          "title": "Math 115 tutorial prep, block 2: the rank theorem",
+          "doc": "Math 115 - Targeted practice (proj, perp, rank)",
+          "covers": [
+            "2.3",
+            "2.4"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "21:15",
+          "end": "21:40",
+          "course": "e150",
+          "title": "Same-day review: 1.25–1.27 bitwise and shifts (25 min)",
+          "covers": [
+            "binhex",
+            "bitwise"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "16:30",
+          "end": "17:20",
+          "course": "en192",
+          "title": "Memo fixes and final PDF export",
+          "status": "planned"
+        },
+        {
+          "start": "17:30",
+          "end": "18:20",
+          "course": "en192",
+          "title": "Pitch draft and 3 timed rehearsals (under 3 min)",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "kind": "assignment",
+      "blocks": [
+        {
+          "start": "12:00",
+          "end": "14:05",
+          "course": "e105",
+          "title": "Mastering Physics assignment",
+          "note": "Done, all 9 questions",
+          "status": "done"
+        },
+        {
+          "start": "14:15",
+          "end": "15:05",
+          "course": "e198",
+          "title": "Workshop 2 homework (oscilloscope lab) Crowdmark",
+          "doc": "Workshop 2 Homework - answer guide",
+          "note": "Submitted",
+          "status": "done"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "m117",
+          "title": "Math 117 tutorial prep: Problem Set 4, block 2 (Q8–Q10)",
+          "doc": "Practice Set 4 - questions with answers",
+          "covers": [
+            "lim",
+            "lim2",
+            "seq"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "20:00",
+          "end": "20:50",
+          "course": "en192",
+          "title": "Worksheet II: Swales × Shark-Tank Analysis",
+          "doc": "Prep - Worksheet II Swales x Shark-Tank",
+          "note": "Hard deadline today, 3%",
+          "status": "planned"
+        },
+        {
+          "start": "21:00",
+          "end": "21:15",
+          "course": "e198",
+          "title": "Electrium Mobility: next week's announcements",
+          "status": "planned"
+        },
+        {
+          "start": "19:45",
+          "end": "20:35",
+          "course": "m115",
+          "title": "Forward: 3.5 inverses (Week 4 Primer) and 4.1–4.2 spanning sets",
+          "doc": "Week 4 Primer (§3.5), Week 5 Primer - Spanning Sets",
+          "covers": [
+            "3.5",
+            "4.1",
+            "4.2"
+          ],
+          "status": "moved",
+          "note": "Moved to Monday"
+        },
+        {
+          "start": "18:00",
+          "end": "18:50",
+          "course": "m117",
+          "title": "Math 117 tutorial prep (Mon 8:30): Problem Set 4, block 1 (Q1–Q7)",
+          "doc": "Next Lecture Primer - IVT",
+          "covers": [
+            "ivt"
+          ],
+          "status": "now"
+        },
+        {
+          "start": "21:45",
+          "end": "22:35",
+          "course": "e150",
+          "title": "Forward: finish 1.25, preview 1.26 integer types",
+          "covers": [
+            "binhex",
+            "ints"
+          ],
+          "status": "moved",
+          "note": "Moved to Monday"
+        }
       ]
     }
   ],
   "deadlines": [
-    { "date": "2026-10-04", "course": "en192", "title": "Memo final + presentation draft", "note": "Own target" },
-    { "date": "2026-10-04", "course": "en192", "title": "Swales × Shark-Tank analysis", "weight": "3%", "note": "Confirm the date" },
-    { "date": "2026-10-06", "course": "e198", "title": "Group Deliverable 1, part 1", "weight": "8%", "note": "Oct 6 (groups 1–20) or Oct 7 (21–40), 11:59 pm" },
-    { "date": "2026-10-06", "course": "en192", "title": "Assignment 1 pitch memo", "weight": "10%", "note": "LEARN dropbox on presentation day (Oct 6 or 8)" },
-    { "course": "m117", "title": "Assignment 3 (trig)", "note": "Due date unknown" },
-    { "course": "e198", "title": "Project scope (Crowdmark)", "note": "Due date unknown" },
-    { "course": "e105", "title": "Mastering Physics, weekly", "note": "Due dates on Mastering" }
+    {
+      "date": "2026-10-05",
+      "course": "m117",
+      "title": "Tutorial",
+      "note": "8:30 am, V1 Great Hall"
+    },
+    {
+      "date": "2026-10-06",
+      "course": "en192",
+      "title": "Pitch presentation and memo due",
+      "note": "Presenting Oct 6. Memo PDF to the LEARN dropbox the same day"
+    },
+    {
+      "date": "2026-10-06",
+      "course": "m115",
+      "title": "Tutorial",
+      "note": "10:30 am"
+    },
+    {
+      "date": "2026-10-09",
+      "course": "e105",
+      "title": "Mastering Physics Assignment 4",
+      "note": "11:59 pm. 6 of 10 done"
+    },
+    {
+      "date": "2026-10-20",
+      "course": "e150",
+      "title": "Marmoset project: Integer Functions",
+      "note": "Due Oct 20"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "en192",
+      "title": "Memo final + presentation draft",
+      "note": "Own target"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "en192",
+      "title": "Swales × Shark-Tank analysis",
+      "weight": "3%",
+      "note": "Confirm the date"
+    },
+    {
+      "date": "2026-10-06",
+      "course": "e198",
+      "title": "Group Deliverable 1, part 1",
+      "weight": "8%",
+      "note": "Oct 6 (groups 1–20) or Oct 7 (21–40), 11:59 pm"
+    },
+    {
+      "course": "m117",
+      "title": "Assignment 3 (trig)",
+      "note": "Done",
+      "done": true
+    },
+    {
+      "date": "2026-10-04",
+      "course": "e198",
+      "title": "Workshop 2 homework (Crowdmark)",
+      "note": "11:30 pm"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "Hard deadline today"
+    },
+    {
+      "course": "m115",
+      "title": "Mock (protected): Math 115 F25-M",
+      "note": "Untouched until the week of the midterm. Timed, closed book, no formula sheet. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "course": "m117",
+      "title": "Mock (protected): Math 117 F23-M",
+      "note": "Untouched until the week of the midterm. Timed, closed book. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "course": "e150",
+      "title": "Mock (protected): ECE 150 F24-M",
+      "note": "Untouched until the week of the midterm. Timed, on paper. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "course": "e105",
+      "title": "ECE 105 F25-M: only past midterm",
+      "note": "Justin's call: use now or keep as the mock. If used now, build style-matched mock questions"
+    }
   ]
 }
