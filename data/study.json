@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:50:00-04:00",
+  "updated": "2026-10-09T18:45:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -937,8 +937,8 @@
           "end": "18:40",
           "course": "e105",
           "title": "Mastering Physics A4: last 4 questions (due 11:59 pm)",
-          "note": "Skip if already finished, and start the next block early",
-          "status": "now"
+          "note": "Submitted",
+          "status": "done"
         },
         {
           "start": "19:30",
@@ -956,7 +956,7 @@
           "end": "19:30",
           "course": "m117",
           "title": "Dinner",
-          "status": "planned"
+          "status": "now"
         },
         {
           "start": "20:30",
@@ -1347,12 +1347,6 @@
       "course": "m115",
       "title": "Tutorial",
       "note": "10:30 am"
-    },
-    {
-      "date": "2026-10-09",
-      "course": "e105",
-      "title": "Mastering Physics Assignment 4",
-      "note": "11:59 pm. 6 of 10 done"
     },
     {
       "date": "2026-10-20",
