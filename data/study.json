@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T12:40:00-04:00",
+  "updated": "2026-10-10T13:20:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -631,7 +631,7 @@
           "end": "14:50",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
-          "doc": "Exam pack - lines, planes, cross product and projections",
+          "doc": "Math 115 - Exam pack (lines, planes, projections)",
           "status": "planned",
           "covers": [
             "1.4",
@@ -639,21 +639,26 @@
             "1.6",
             "1.7"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: proj and perp."
+          "note": "Short review (10 min), weak spot proj/perp is Block 1. Blocks 3-4 are 'if time'",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
           "start": "15:00",
           "end": "15:50",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections (part 2, then mark and log)",
-          "doc": "Exam pack - lines, planes, cross product and projections",
+          "doc": "Math 115 - Exam pack (lines, planes, projections)",
           "status": "planned",
           "covers": [
             "1.4",
             "1.5",
             "1.6",
             "1.7"
-          ]
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf",
+          "note": "Short review (10 min), weak spot proj/perp is Block 1. Blocks 3-4 are 'if time'"
         },
         {
           "start": "16:00",
