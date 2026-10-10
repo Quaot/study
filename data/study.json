@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T20:40:00-04:00",
+  "updated": "2026-10-09T21:00:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -308,7 +308,8 @@
           "taught": "2026-10-09",
           "note": "1.33 continues next lecture"
         }
-      ]
+      ],
+      "weakest_skill": "Writing code from a blank page (reported 2026-10-09)"
     },
     {
       "id": "e105",
@@ -514,6 +515,19 @@
           "start": "15:00",
           "end": "15:50",
           "course": "e150",
+          "title": "Code-writing reps (weakest skill: blank page to C++)",
+          "doc": "ECE 150\\1 Lectures\\Examples",
+          "covers": [
+            "loops",
+            "arrays"
+          ],
+          "note": "Paper first, then type and run. 1-11a to 1-11e Writing-a-for-loop (fill in the for headers); then from a blank file, without opening the course file first: count the digits of n (1-14-Counting-digits), write n backwards (1-14-Writing-a-number-backwards), sum of divisors (1-18-Sum-of-divisors). Compare with the course file after. Finish L4 reverse_array if not done.",
+          "status": "planned"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "Exam pack - loops and iterative algorithms",
           "status": "planned",
@@ -523,8 +537,8 @@
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
         },
         {
-          "start": "16:00",
-          "end": "16:50",
+          "start": "17:00",
+          "end": "17:50",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms (part 2, then mark and log)",
           "doc": "Exam pack - loops and iterative algorithms",
