@@ -148,7 +148,7 @@
         out.push(`<div class="block${done ? ' done' : ''}" style="--c:${c.color}" data-date="${d.date}" data-start="${b.start}" data-end="${b.end}">
           <div class="time">${fmtTime(b.start)} – ${fmtTime(b.end)}</div>
           <span class="sw" aria-hidden="true"></span>
-          <div class="what"><div class="course">${esc(c.code)}</div><div class="title">${esc(b.title)}</div>${b.doc ? `<div class="doc">${esc(b.doc)}</div>` : ''}${b.note ? `<div class="bnote">${esc(b.note)}</div>` : ''}</div>
+          <div class="what"><div class="course">${esc(c.code)}</div><div class="title">${esc(b.title)}</div>${b.doc ? (b.url ? `<a class="doc" href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.doc)}</a>` : `<div class="doc">${esc(b.doc)}</div>`) : ''}${b.note ? `<div class="bnote">${esc(b.note)}</div>` : ''}</div>
           <div class="side">
             <input class="score" data-key="${key}" value="${esc(score)}" placeholder="score" aria-label="Score for ${esc(c.code)} block">
             <button class="check" data-key="${key}" aria-pressed="${done}" aria-label="Mark ${esc(c.code)} block done">✓</button>

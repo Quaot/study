@@ -113,6 +113,8 @@ button { font: inherit; color: inherit; }
 .block .course { font-size: 12px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
 .block .title { font-size: 19px; line-height: 1.3; letter-spacing: -0.01em; }
 .block .doc { font-size: 13.5px; color: var(--muted); margin-top: 3px; overflow-wrap: anywhere; }
+.block a.doc { display: block; color: var(--c); text-decoration: underline; text-underline-offset: 2px; }
+.block a.doc:hover { opacity: .8; }
 .block .doc::before { content: "PDF  "; font-size: 10.5px; letter-spacing: .1em; color: var(--c); font-weight: 600; }
 .block .bnote { font-size: 13px; color: var(--warn); margin-top: 3px; }
 .block.now { background: color-mix(in srgb, var(--c) 10%, transparent); }

@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T21:00:00-04:00",
+  "updated": "2026-10-10T10:40:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -452,40 +452,42 @@
       "tentative": true,
       "blocks": [
         {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "10:45",
+          "end": "11:35",
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems",
-          "doc": "Exam pack - rank, systems and homogeneous systems",
-          "status": "planned",
+          "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
+          "status": "now",
           "covers": [
             "2.1",
             "2.2",
             "2.3",
             "2.4"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: rank."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: rank.",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "11:45",
+          "end": "12:35",
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
-          "doc": "Exam pack - rank, systems and homogeneous systems",
+          "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
           "status": "planned",
           "covers": [
             "2.1",
             "2.2",
             "2.3",
             "2.4"
-          ]
+          ],
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf"
         },
         {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "13:30",
+          "end": "14:20",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
-          "doc": "Exam pack - inequalities, functions, trig, hyperbolic and sinusoids",
+          "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
           "status": "planned",
           "covers": [
             "ineq",
@@ -494,14 +496,15 @@
             "hyp",
             "sinus"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topics: inequalities, hyperbolic, sinusoids."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topics: inequalities, hyperbolic, sinusoids.",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf"
         },
         {
-          "start": "14:00",
-          "end": "14:50",
+          "start": "14:30",
+          "end": "15:20",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
-          "doc": "Exam pack - inequalities, functions, trig, hyperbolic and sinusoids",
+          "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
           "status": "planned",
           "covers": [
             "ineq",
@@ -509,11 +512,12 @@
             "trig",
             "hyp",
             "sinus"
-          ]
+          ],
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf"
         },
         {
-          "start": "15:00",
-          "end": "15:50",
+          "start": "15:30",
+          "end": "16:20",
           "course": "e150",
           "title": "Code-writing reps (weakest skill: blank page to C++)",
           "doc": "ECE 150\\1 Lectures\\Examples",
@@ -525,27 +529,29 @@
           "status": "planned"
         },
         {
-          "start": "16:00",
-          "end": "16:50",
+          "start": "16:30",
+          "end": "17:20",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
-          "doc": "Exam pack - loops and iterative algorithms",
+          "doc": "ECE 150 - Exam pack (loops)",
           "status": "planned",
           "covers": [
             "loops"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf"
         },
         {
-          "start": "17:00",
-          "end": "17:50",
+          "start": "17:30",
+          "end": "18:20",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms (part 2, then mark and log)",
-          "doc": "Exam pack - loops and iterative algorithms",
+          "doc": "ECE 150 - Exam pack (loops)",
           "status": "planned",
           "covers": [
             "loops"
-          ]
+          ],
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf"
         }
       ]
     },
