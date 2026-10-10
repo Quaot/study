@@ -148,7 +148,7 @@
         out.push(`<div class="block${done ? ' done' : ''}" style="--c:${c.color}" data-date="${d.date}" data-start="${b.start}" data-end="${b.end}">
           <div class="time">${fmtTime(b.start)} – ${fmtTime(b.end)}</div>
           <span class="sw" aria-hidden="true"></span>
-          <div class="what"><div class="course">${esc(c.code)}</div><div class="title">${esc(b.title)}</div>${b.doc ? (b.url ? `<a class="doc" href="${esc(b.url)}" target="_blank" rel="noopener">${esc(b.doc)}</a>` : `<div class="doc">${esc(b.doc)}</div>`) : ''}${b.note ? `<div class="bnote">${esc(b.note)}</div>` : ''}</div>
+          <div class="what"><div class="course">${esc(c.code)}</div><div class="title">${esc(b.title)}</div>${b.doc ? `<div class="doc">${esc(b.doc)}</div>` : ''}${(b.path || b.url) ? `<div class="open">${b.path ? `<button class="pc" data-path="${esc(b.path)}" title="Copies the file location. Then press Win+R, Ctrl+V, Enter">Open on PC</button>` : ''}${b.url ? `<a class="web" href="${esc(b.url)}" target="_blank" rel="noopener">Open online</a>` : ''}<span class="pchint" hidden>Copied. Press <kbd>Win</kbd>+<kbd>R</kbd>, <kbd>Ctrl</kbd>+<kbd>V</kbd>, <kbd>Enter</kbd></span></div>` : ''}${b.note ? `<div class="bnote">${esc(b.note)}</div>` : ''}</div>
           <div class="side">
             <input class="score" data-key="${key}" value="${esc(score)}" placeholder="score" aria-label="Score for ${esc(c.code)} block">
             <button class="check" data-key="${key}" aria-pressed="${done}" aria-label="Mark ${esc(c.code)} block done">✓</button>
@@ -157,7 +157,17 @@
       $('[data-blocks]').innerHTML = out.join('');
       tick();
     };
-    $('[data-blocks]').addEventListener('click', e => {
+    $('[data-blocks]').addEventListener('click', async e => {
+      const pc = e.target.closest('.pc');
+      if (pc) {
+        // Browsers can't open local files from a web page, so copy the quoted path for Win+R.
+        const text = '"' + pc.dataset.path + '"';
+        try { await navigator.clipboard.writeText(text); }
+        catch { const t = document.createElement('textarea'); t.value = text; document.body.append(t); t.select(); document.execCommand('copy'); t.remove(); }
+        const hint = pc.parentElement.querySelector('.pchint');
+        hint.hidden = false; clearTimeout(hint._t); hint._t = setTimeout(() => { hint.hidden = true; }, 6000);
+        return;
+      }
       const b = e.target.closest('.check'); if (!b) return;
       const on = b.getAttribute('aria-pressed') !== 'true';
       b.setAttribute('aria-pressed', on);

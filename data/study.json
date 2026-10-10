@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T10:40:00-04:00",
+  "updated": "2026-10-10T10:55:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -465,7 +465,8 @@
             "2.4"
           ],
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topic: rank.",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf"
         },
         {
           "start": "11:45",
@@ -480,7 +481,8 @@
             "2.3",
             "2.4"
           ],
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf"
         },
         {
           "start": "13:30",
@@ -497,7 +499,8 @@
             "sinus"
           ],
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topics: inequalities, hyperbolic, sinusoids.",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
         },
         {
           "start": "14:30",
@@ -513,7 +516,8 @@
             "hyp",
             "sinus"
           ],
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
         },
         {
           "start": "15:30",
@@ -526,7 +530,8 @@
             "arrays"
           ],
           "note": "Paper first, then type and run. 1-11a to 1-11e Writing-a-for-loop (fill in the for headers); then from a blank file, without opening the course file first: count the digits of n (1-14-Counting-digits), write n backwards (1-14-Writing-a-number-backwards), sum of divisors (1-18-Sum-of-divisors). Compare with the course file after. Finish L4 reverse_array if not done.",
-          "status": "planned"
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
         },
         {
           "start": "16:30",
@@ -539,7 +544,8 @@
             "loops"
           ],
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
         {
           "start": "17:30",
@@ -551,7 +557,8 @@
           "covers": [
             "loops"
           ],
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         }
       ]
     },
