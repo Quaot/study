@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T18:45:00-04:00",
+  "updated": "2026-10-09T20:30:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -941,8 +941,8 @@
           "status": "done"
         },
         {
-          "start": "19:30",
-          "end": "20:20",
+          "start": "21:45",
+          "end": "22:35",
           "course": "m117",
           "title": "Same-day review: Lecture 15, Block 1 (inverse, inverse trig, implicit)",
           "doc": "Math 117 - Same-day review (lecture 15)",
@@ -952,17 +952,17 @@
           "status": "planned"
         },
         {
-          "start": "18:40",
-          "end": "19:30",
+          "start": "20:30",
+          "end": "20:45",
           "course": "m117",
-          "title": "Dinner",
+          "title": "Break (eat if you haven't)",
           "status": "now"
         },
         {
-          "start": "20:30",
-          "end": "21:20",
+          "start": "20:45",
+          "end": "21:35",
           "course": "e150",
-          "title": "Same-day review: bitwise, review section and Block 1 (by hand)",
+          "title": "Same-day review: arrays midterm Qs E1 and E2 (2023F Q8, 2021F Q5), then the bitwise review section",
           "doc": "ECE 150 - Bitwise practice",
           "covers": [
             "bits"
@@ -971,8 +971,8 @@
           "note": "Add: arrays primer E1 (2023F MT Q8) and E2 (2021F MT Q5), on paper then compile."
         },
         {
-          "start": "21:30",
-          "end": "22:20",
+          "start": "22:45",
+          "end": "23:35",
           "course": "m115",
           "title": "Same-day review: Week 5 primer §4.1–4.2 (to shell page 9) and its checks",
           "doc": "Math 115 - Week 5 primer (4.1-4.4)",
@@ -988,11 +988,12 @@
           "course": "m117",
           "title": "Same-day review: Lecture 15, Block 2 (log differentiation, MVT)",
           "doc": "Math 117 - Same-day review (lecture 15)",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Saturday's cumulative review (Mastering ran long)"
         },
         {
-          "start": "23:20",
-          "end": "23:35",
+          "start": "23:35",
+          "end": "23:45",
           "course": "e150",
           "title": "Mark everything, log scores and misses, and plan tomorrow",
           "status": "planned"
