@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:50:00-04:00",
+  "updated": "2026-10-11T15:00:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -422,32 +422,44 @@
     {
       "course": "m117",
       "topic": "sinus",
-      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega)"
+      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega)",
+      "exam_retest": "Exam retests: 2019F MT Q2 (sin 2t - cos 2t as A cos(2t+delta)), 2025 review Q2-Q3, 2020F and 2022F finals Q1. Rule: signs of BOTH sin and cos of the angle pick the quadrant",
+      "status": "weak"
     },
     {
       "course": "m115",
       "topic": "2.3",
-      "why": "Stuck on Q3, rank with parameters (2026-10-03). Self-reported weak on the rank theorem (2026-10-04)"
+      "why": "Stuck on Q3, rank with parameters (2026-10-03). Self-reported weak on the rank theorem (2026-10-04)",
+      "exam_retest": "Exam retests: 2019F MT Q5, 2022F MT Q13, 2024W final Q14 (rank pack Blocks 1-3)",
+      "status": "weak"
     },
     {
       "course": "m115",
       "topic": "1.7",
-      "why": "Self-reported weak on proj and perp (2026-10-04)"
+      "why": "Self-reported weak on proj and perp (2026-10-04)",
+      "exam_retest": "Exam retests: 2015F MT Q2, 2019F MT Q2 and Q6, 2022F MT Q6 (lines/planes pack Block 1 today)",
+      "status": "weak"
     },
     {
       "course": "m117",
       "topic": "trig",
-      "why": "Trig equations: forgets the general solution (+2k*pi) (2026-10-11, Q6(b))"
+      "why": "Trig equations: forgets the general solution (+2k*pi) (2026-10-11, Q6(b))",
+      "exam_retest": "Exam retests: 2022F MT Q3, 2022F final Q1. Rule: two angles per cycle, + 2k*pi, then divide by omega",
+      "status": "weak"
     },
     {
       "course": "m117",
       "topic": "hyp",
-      "why": "Retesting (2026-10-11): Q4 right after a near miss (sign in sinh, the factor 2). Clear only after two clean results on different days. Next: Math 117 Block 2 Q8, Q9 (2022F MT Q7) and Q12"
+      "why": "Retesting (2026-10-11): Q4 right after a near miss (sign in sinh, the factor 2). Clear only after two clean results on different days. Next: Math 117 Block 2 Q8, Q9 (2022F MT Q7) and Q12",
+      "exam_retest": "Exam retests: 2022F MT Q7 (inverse of cosh) and 2025 review Q10 and Q6, all in Math 117 Block 2 tonight. 2023F MT stays in the mock",
+      "status": "retesting"
     },
     {
       "course": "m117",
       "topic": "ineq",
-      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it"
+      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it",
+      "exam_retest": "Exam retests: 2019F MT Q3 (|x/(x+1)| < 1-|x|, 9 marks), 2021F MT Q1, 2025 review Q5. Today's Q1-Q3 were practice-set level",
+      "status": "retesting"
     }
   ],
   "days": [
@@ -811,6 +823,14 @@
       "kind": "cumulative",
       "tentative": true,
       "blocks": [
+        {
+          "start": "09:00",
+          "end": "09:50",
+          "course": "m117",
+          "title": "Weak-topic exam retest: real exam questions only",
+          "note": "2019F MT Q3 (inequality, 9 marks), 2019F MT Q2 (amplitude-phase), 2022F MT Q3 (trig equation). Timed, closed book",
+          "status": "planned"
+        },
         {
           "start": "10:00",
           "end": "10:50",
@@ -1585,5 +1605,5 @@
     }
   ],
   "log": [],
-  "weak_rule": "A topic leaves the weak list only after two clean results on different days"
+  "weak_rule": "A topic leaves the weak list only after two clean results on REAL EXAM questions (past midterms, finals or the review session), on two different days. Practice-set or tutorial questions show progress but don't clear it."
 }
