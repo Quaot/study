@@ -443,6 +443,11 @@
       "course": "m117",
       "topic": "hyp",
       "why": "Retesting (2026-10-11): Q4 right after a near miss (sign in sinh, the factor 2). Clear only after two clean results on different days. Next: Math 117 Block 2 Q8, Q9 (2022F MT Q7) and Q12"
+    },
+    {
+      "course": "m117",
+      "topic": "ineq",
+      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it"
     }
   ],
   "days": [
