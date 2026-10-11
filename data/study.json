@@ -878,15 +878,6 @@
         {
           "start": "13:00",
           "end": "13:50",
-          "course": "e150",
-          "title": "Exam pack: arrays",
-          "doc": "Exam pack - arrays",
-          "status": "planned",
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Arrays may not be taught yet: treat as pre-test."
-        },
-        {
-          "start": "13:00",
-          "end": "13:50",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
@@ -900,14 +891,6 @@
           "note": "Moved from Sunday",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
-        },
-        {
-          "start": "14:00",
-          "end": "14:50",
-          "course": "e150",
-          "title": "Exam pack: arrays (part 2, then mark and log)",
-          "doc": "Exam pack - arrays",
-          "status": "planned"
         },
         {
           "start": "14:00",
@@ -926,6 +909,23 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
           "note": "Moved from Sunday"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "e150",
+          "title": "Exam pack: arrays",
+          "doc": "Exam pack - arrays",
+          "status": "planned",
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Arrays may not be taught yet: treat as pre-test."
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
+          "title": "Exam pack: arrays (part 2, then mark and log)",
+          "doc": "Exam pack - arrays",
+          "status": "planned"
         }
       ]
     },
