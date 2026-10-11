@@ -767,27 +767,31 @@
           "end": "14:50",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure",
-          "doc": "Exam pack - functions, the call stack and program structure",
+          "doc": "ECE 150 - Exam pack (functions and call stack)",
           "status": "planned",
           "covers": [
             "func",
             "stack",
             "basics"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
           "start": "15:00",
           "end": "15:50",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure (part 2, then mark and log)",
-          "doc": "Exam pack - functions, the call stack and program structure",
+          "doc": "ECE 150 - Exam pack (functions and call stack)",
           "status": "planned",
           "covers": [
             "func",
             "stack",
             "basics"
-          ]
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         }
       ]
     },
