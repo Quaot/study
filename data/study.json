@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T13:53:00-04:00",
+  "updated": "2026-10-11T14:20:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -421,18 +421,8 @@
   "weak": [
     {
       "course": "m117",
-      "topic": "ineq",
-      "why": "A3 rational inequality wrong (2026-10-03)"
-    },
-    {
-      "course": "m117",
-      "topic": "hyp",
-      "why": "A8 sinh equation needed hints (2026-10-03)"
-    },
-    {
-      "course": "m117",
       "topic": "sinus",
-      "why": "A9 R sin(x + phi) needed hints (2026-10-03)"
+      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega)"
     },
     {
       "course": "m115",
@@ -443,6 +433,11 @@
       "course": "m115",
       "topic": "1.7",
       "why": "Self-reported weak on proj and perp (2026-10-04)"
+    },
+    {
+      "course": "m117",
+      "topic": "trig",
+      "why": "Trig equations: forgets the general solution (+2k*pi) (2026-10-11, Q6(b))"
     }
   ],
   "days": [
@@ -592,9 +587,14 @@
             "hyp",
             "sinus"
           ],
-          "note": "Block 1 done (with a break). Score not reported yet",
+          "note": "Block 1 done and marked",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
+          "score": "Q1-Q4 right, Q5 and Q6(b) wrong",
+          "missed": [
+            "Q5: quadrant of alpha (needed both sin alpha and cos alpha; it's Q2, chose Q3)",
+            "Q6(b): only one solution, no +2k*pi/9 general solution; also mis-chose the quadrant"
+          ]
         },
         {
           "start": "13:55",
@@ -1572,5 +1572,6 @@
       "title": "ECE 105 F25-M: only past midterm",
       "note": "Justin's call: use now or keep as the mock. If used now, build style-matched mock questions"
     }
-  ]
+  ],
+  "log": []
 }
