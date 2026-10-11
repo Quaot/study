@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T15:00:00-04:00",
+  "updated": "2026-10-11T17:00:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -429,7 +429,7 @@
     {
       "course": "m115",
       "topic": "2.3",
-      "why": "Stuck on Q3, rank with parameters (2026-10-03). Self-reported weak on the rank theorem (2026-10-04)",
+      "why": "Still weak (2026-10-11): mixes up m (rows/equations) and n (columns/variables), so rank = m vs rank = n and free variables = n - r. The parameter routine is improving: 2019F MT Q5 done. Two-parameter Q7(iii) missed",
       "exam_retest": "Exam retests: 2019F MT Q5, 2022F MT Q13, 2024W final Q14 (rank pack Blocks 1-3)",
       "status": "weak"
     },
@@ -500,7 +500,14 @@
           ],
           "note": "Block 1 done. Tough day, rest moved to Sunday",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf",
+          "score": "Q1, Q2(a), Q2(b)(i)(iv)(v), Q5, Q6, Q7(i)(ii), Q8 right. Marked and understood on 2026-10-11",
+          "missed": [
+            "Q2(b)(ii)-(iii): number of variables (n = columns) and free variables (n - r)",
+            "Q3 (2024F MT Q1): rank = n means a pivot in every column (unique if consistent), not consistent for every b",
+            "Q4 (2024F MT Q3): underdetermined means n > m, so it can never have exactly one solution",
+            "Q7(iii) (2024W FE Q14): infinitely-many case of a two-parameter system"
+          ]
         },
         {
           "start": "13:30",
