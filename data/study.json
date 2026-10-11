@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:40:00-04:00",
+  "updated": "2026-10-11T14:50:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -438,6 +438,11 @@
       "course": "m117",
       "topic": "trig",
       "why": "Trig equations: forgets the general solution (+2k*pi) (2026-10-11, Q6(b))"
+    },
+    {
+      "course": "m117",
+      "topic": "hyp",
+      "why": "Retesting (2026-10-11): Q4 right after a near miss (sign in sinh, the factor 2). Clear only after two clean results on different days. Next: Math 117 Block 2 Q8, Q9 (2022F MT Q7) and Q12"
     }
   ],
   "days": [
@@ -1574,5 +1579,6 @@
       "note": "Justin's call: use now or keep as the mock. If used now, build style-matched mock questions"
     }
   ],
-  "log": []
+  "log": [],
+  "weak_rule": "A topic leaves the weak list only after two clean results on different days"
 }
