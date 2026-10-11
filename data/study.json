@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T14:25:00-04:00",
+  "updated": "2026-10-11T14:40:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -438,11 +438,6 @@
       "course": "m117",
       "topic": "trig",
       "why": "Trig equations: forgets the general solution (+2k*pi) (2026-10-11, Q6(b))"
-    },
-    {
-      "course": "m117",
-      "topic": "hyp",
-      "why": "Not re-tested yet: skipped Q4 (sinh/cosh equations) on 2026-10-11. Do it at the start of Math 117 Block 2"
     }
   ],
   "days": [
@@ -595,10 +590,11 @@
           "note": "Block 1 done and marked",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "score": "Q1-Q3 right, Q4 skipped, Q5 and Q6(b) wrong",
+          "score": "Q1-Q4 right (Q4 a near miss), Q5 and Q6(b) wrong",
           "missed": [
             "Q5: quadrant of alpha (needed both sin alpha and cos alpha; it's Q2, chose Q3)",
-            "Q6(b): only one solution, no +2k*pi/9 general solution; also mis-chose the quadrant"
+            "Q6(b): only one solution, no +2k*pi/9 general solution; also mis-chose the quadrant",
+            "Q4 near miss: sign of e^(-x) in sinh, and the factor 2 (sinh x = 3/4 means e^x - e^-x = 3/2)"
           ]
         },
         {
@@ -686,7 +682,7 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Start with Block 1 Q4 (sinh/cosh, skipped), then Block 2"
+          "note": "Block 2 (Q4 already done)"
         }
       ],
       "note": "Library day"
