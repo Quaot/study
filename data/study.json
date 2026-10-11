@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:10:00-04:00",
+  "updated": "2026-10-11T17:15:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -679,29 +679,29 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
         {
-          "start": "17:25",
-          "end": "18:15",
+          "start": "20:50",
+          "end": "21:40",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
-          "status": "moved",
+          "status": "planned",
           "covers": [
             "1.4",
             "1.5",
             "1.6",
             "1.7"
           ],
-          "note": "Moved to Tuesday (late start)",
+          "note": "Kept tonight (staying late at the library)",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
-          "start": "18:25",
-          "end": "19:15",
+          "start": "21:50",
+          "end": "22:40",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "moved",
+          "status": "planned",
           "covers": [
             "ineq",
             "func",
@@ -711,7 +711,7 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Moved to Tuesday (late start)"
+          "note": "Kept tonight (staying late at the library)"
         }
       ],
       "note": "Library day"
@@ -874,41 +874,6 @@
             "3.4",
             "3.5"
           ]
-        },
-        {
-          "start": "13:00",
-          "end": "13:50",
-          "course": "m115",
-          "title": "Exam pack: lines, planes, cross product and projections",
-          "doc": "Math 115 - Exam pack (lines, planes, projections)",
-          "status": "planned",
-          "covers": [
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7"
-          ],
-          "note": "Moved from Sunday",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
-        },
-        {
-          "start": "14:00",
-          "end": "14:50",
-          "course": "m117",
-          "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
-          "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "planned",
-          "covers": [
-            "ineq",
-            "func",
-            "trig",
-            "hyp",
-            "sinus"
-          ],
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Moved from Sunday"
         },
         {
           "start": "15:00",
