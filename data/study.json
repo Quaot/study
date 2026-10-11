@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T17:15:00-04:00",
+  "updated": "2026-10-11T18:30:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -460,6 +460,13 @@
       "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it",
       "exam_retest": "Exam retests: 2019F MT Q3 (|x/(x+1)| < 1-|x|, 9 marks), 2021F MT Q1, 2025 review Q5. Today's Q1-Q3 were practice-set level",
       "status": "retesting"
+    },
+    {
+      "course": "m115",
+      "topic": "2.2",
+      "why": "2026-10-11: stopped at REF when RREF was asked. RREF = leading 1s AND zeros above and below each leading 1",
+      "status": "weak",
+      "exam_retest": "2021F MT Q7, 2022F MT Q1, 2024F MT Q10, 2015F MT Q4"
     }
   ],
   "days": [
@@ -632,7 +639,7 @@
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
-          "status": "now",
+          "status": "done",
           "covers": [
             "2.1",
             "2.2",
@@ -641,14 +648,18 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf",
-          "note": "Block 2: RREF and homogeneous systems"
+          "note": "Block 2: RREF and homogeneous systems",
+          "score": "Q10, Q11, most of Q12-Q13 right",
+          "missed": [
+            "Q9, Q12, Q12(b), Q13(iii): stopped at REF. RREF also needs zeros ABOVE each leading 1 (and every leading entry = 1)"
+          ]
         },
         {
           "start": "18:05",
           "end": "18:50",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "now"
         },
         {
           "start": "18:50",
