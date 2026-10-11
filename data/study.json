@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T19:05:00-04:00",
+  "updated": "2026-10-11T12:16:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -579,12 +579,12 @@
       "tentative": true,
       "blocks": [
         {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "12:20",
+          "end": "13:10",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "planned",
+          "status": "now",
           "covers": [
             "ineq",
             "func",
@@ -597,8 +597,8 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "13:20",
+          "end": "14:10",
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
@@ -614,15 +614,15 @@
           "note": "Block 2: RREF and homogeneous systems"
         },
         {
-          "start": "11:50",
-          "end": "12:40",
+          "start": "14:10",
+          "end": "14:50",
           "course": "m115",
           "title": "Lunch",
           "status": "planned"
         },
         {
-          "start": "12:40",
-          "end": "13:30",
+          "start": "14:50",
+          "end": "15:40",
           "course": "e150",
           "title": "Code-writing reps (weakest skill: blank page to C++)",
           "doc": "ECE 150\\1 Lectures\\Examples",
@@ -635,8 +635,8 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
         },
         {
-          "start": "13:40",
-          "end": "14:30",
+          "start": "15:50",
+          "end": "16:40",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "ECE 150 - Exam pack (loops)",
@@ -649,8 +649,8 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
         {
-          "start": "14:40",
-          "end": "15:30",
+          "start": "16:50",
+          "end": "17:40",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
@@ -666,8 +666,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
-          "start": "15:40",
-          "end": "16:30",
+          "start": "17:50",
+          "end": "18:40",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
