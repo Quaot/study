@@ -727,7 +727,7 @@
           "end": "11:50",
           "course": "m117",
           "title": "Exam pack: limits and continuity",
-          "doc": "Exam pack - limits and continuity",
+          "doc": "Math 117 - Exam pack (limits and continuity)",
           "status": "planned",
           "covers": [
             "seq",
@@ -735,7 +735,9 @@
             "lim2",
             "cont"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
         },
         {
           "start": "12:00",
@@ -749,14 +751,16 @@
           "end": "13:50",
           "course": "m117",
           "title": "Exam pack: limits and continuity (part 2, then mark and log)",
-          "doc": "Exam pack - limits and continuity",
+          "doc": "Math 117 - Exam pack (limits and continuity)",
           "status": "planned",
           "covers": [
             "seq",
             "lim",
             "lim2",
             "cont"
-          ]
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
         },
         {
           "start": "14:00",
