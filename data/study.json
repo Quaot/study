@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T12:16:00-04:00",
+  "updated": "2026-10-11T13:30:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -584,7 +584,7 @@
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "now",
+          "status": "done",
           "covers": [
             "ineq",
             "func",
@@ -592,7 +592,7 @@
             "hyp",
             "sinus"
           ],
-          "note": "Weak spots first (rational inequalities, sinh equations, R sin(x+phi))",
+          "note": "Block 1 done (with a break). Score not reported yet",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
         },
@@ -602,7 +602,7 @@
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
-          "status": "planned",
+          "status": "now",
           "covers": [
             "2.1",
             "2.2",
