@@ -464,7 +464,7 @@
     {
       "course": "m115",
       "topic": "2.2",
-      "why": "2026-10-11: stopped at REF when RREF was asked. RREF = leading 1s AND zeros above and below each leading 1",
+      "why": "2026-10-11: stopped at REF when RREF was asked. RREF = leading 1s AND zeros above and below each leading 1. Also: in vector form, each free variable gets its own row (x3 = s gives a 1 in the x3 slot of s's vector)",
       "status": "weak",
       "exam_retest": "2021F MT Q7, 2022F MT Q1, 2024F MT Q10, 2015F MT Q4"
     }
@@ -651,7 +651,8 @@
           "note": "Block 2: RREF and homogeneous systems",
           "score": "Q10, Q11, most of Q12-Q13 right",
           "missed": [
-            "Q9, Q12, Q12(b), Q13(iii): stopped at REF. RREF also needs zeros ABOVE each leading 1 (and every leading entry = 1)"
+            "Q9, Q12, Q12(b), Q13(iii): stopped at REF. RREF also needs zeros ABOVE each leading 1 (and every leading entry = 1)",
+            "Vector form: forgot the free variables' own rows (x3 = s puts a 1 in the x3 slot)"
           ]
         },
         {
