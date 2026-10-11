@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T13:20:00-04:00",
+  "updated": "2026-10-10T19:05:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -474,14 +474,14 @@
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems",
           "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
-          "status": "now",
+          "status": "done",
           "covers": [
             "2.1",
             "2.2",
             "2.3",
             "2.4"
           ],
-          "note": "Review ran long (read to the System-Rank Theorem by 12:40). Finish the review in 10 min, then Block 1",
+          "note": "Block 1 done. Tough day, rest moved to Sunday",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf"
         },
@@ -490,7 +490,8 @@
           "end": "14:10",
           "course": "m115",
           "title": "Lunch",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Sunday (library day)"
         },
         {
           "start": "14:10",
@@ -498,7 +499,7 @@
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "ineq",
             "func",
@@ -506,7 +507,7 @@
             "hyp",
             "sinus"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Weak topics: inequalities, hyperbolic, sinusoids.",
+          "note": "Moved to Sunday (library day)",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
         },
@@ -538,8 +539,8 @@
             "loops",
             "arrays"
           ],
-          "note": "Paper first, then type and run. 1-11a to 1-11e Writing-a-for-loop (fill in the for headers); then from a blank file, without opening the course file first: count the digits of n (1-14-Counting-digits), write n backwards (1-14-Writing-a-number-backwards), sum of divisors (1-18-Sum-of-divisors). Compare with the course file after. Finish L4 reverse_array if not done.",
-          "status": "planned",
+          "note": "Moved to Sunday (library day)",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
         },
         {
@@ -548,11 +549,11 @@
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "ECE 150 - Exam pack (loops)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "loops"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "note": "Moved to Sunday (library day)",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
@@ -574,12 +575,30 @@
     },
     {
       "date": "2026-10-11",
-      "kind": "forward",
+      "kind": "cumulative",
       "tentative": true,
       "blocks": [
         {
           "start": "10:00",
           "end": "10:50",
+          "course": "m117",
+          "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids",
+          "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
+          "status": "planned",
+          "covers": [
+            "ineq",
+            "func",
+            "trig",
+            "hyp",
+            "sinus"
+          ],
+          "note": "Weak spots first (rational inequalities, sinh equations, R sin(x+phi))",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
           "course": "m115",
           "title": "Exam pack: rank, systems and homogeneous systems (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (rank, systems, homogeneous)",
@@ -592,11 +611,63 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20115%20-%20Exam%20pack%20%28rank%2C%20systems%2C%20homogeneous%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 115 - Exam pack (rank, systems, homogeneous).pdf",
-          "note": "Moved from Saturday"
+          "note": "Block 2: RREF and homogeneous systems"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "11:50",
+          "end": "12:40",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "12:40",
+          "end": "13:30",
+          "course": "e150",
+          "title": "Code-writing reps (weakest skill: blank page to C++)",
+          "doc": "ECE 150\\1 Lectures\\Examples",
+          "covers": [
+            "loops",
+            "arrays"
+          ],
+          "note": "Moved from Saturday",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+        },
+        {
+          "start": "13:40",
+          "end": "14:30",
+          "course": "e150",
+          "title": "Exam pack: loops and iterative algorithms",
+          "doc": "ECE 150 - Exam pack (loops)",
+          "status": "planned",
+          "covers": [
+            "loops"
+          ],
+          "note": "Moved from Saturday",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
+        },
+        {
+          "start": "14:40",
+          "end": "15:30",
+          "course": "m115",
+          "title": "Exam pack: lines, planes, cross product and projections",
+          "doc": "Math 115 - Exam pack (lines, planes, projections)",
+          "status": "planned",
+          "covers": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7"
+          ],
+          "note": "Weak spot proj/perp. Short review (10 min)",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
+        },
+        {
+          "start": "15:40",
+          "end": "16:30",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
@@ -610,11 +681,19 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Moved from Saturday"
-        },
+          "note": "Math 117 pack, Block 2"
+        }
+      ],
+      "note": "Library day"
+    },
+    {
+      "date": "2026-10-12",
+      "kind": "cumulative",
+      "tentative": true,
+      "blocks": [
         {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "09:00",
+          "end": "09:50",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms (part 2, then mark and log)",
           "doc": "ECE 150 - Exam pack (loops)",
@@ -624,28 +703,11 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf",
-          "note": "Moved from Saturday"
+          "note": "Moved from Sunday"
         },
         {
-          "start": "14:00",
-          "end": "14:50",
-          "course": "m115",
-          "title": "Exam pack: lines, planes, cross product and projections",
-          "doc": "Math 115 - Exam pack (lines, planes, projections)",
-          "status": "planned",
-          "covers": [
-            "1.4",
-            "1.5",
-            "1.6",
-            "1.7"
-          ],
-          "note": "Short review (10 min), weak spot proj/perp is Block 1. Blocks 3-4 are 'if time'",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
-        },
-        {
-          "start": "15:00",
-          "end": "15:50",
+          "start": "10:00",
+          "end": "10:50",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
@@ -658,25 +720,11 @@
           ],
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf",
-          "note": "Short review (10 min), weak spot proj/perp is Block 1. Blocks 3-4 are 'if time'"
+          "note": "Moved from Sunday"
         },
         {
-          "start": "16:00",
-          "end": "16:50",
-          "course": "m117",
-          "title": "Forward: primer for next week's Math 117 lectures",
-          "status": "planned"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "kind": "cumulative",
-      "tentative": true,
-      "blocks": [
-        {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "11:00",
+          "end": "11:50",
           "course": "m117",
           "title": "Exam pack: limits and continuity",
           "doc": "Exam pack - limits and continuity",
@@ -690,8 +738,15 @@
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "12:00",
+          "end": "13:00",
+          "course": "m117",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
           "course": "m117",
           "title": "Exam pack: limits and continuity (part 2, then mark and log)",
           "doc": "Exam pack - limits and continuity",
@@ -704,8 +759,8 @@
           ]
         },
         {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "14:00",
+          "end": "14:50",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure",
           "doc": "Exam pack - functions, the call stack and program structure",
@@ -718,8 +773,8 @@
           "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
         },
         {
-          "start": "14:00",
-          "end": "14:50",
+          "start": "15:00",
+          "end": "15:50",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure (part 2, then mark and log)",
           "doc": "Exam pack - functions, the call stack and program structure",
