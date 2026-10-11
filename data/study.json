@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:35:00-04:00",
+  "updated": "2026-10-11T18:45:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -656,8 +656,15 @@
           ]
         },
         {
-          "start": "18:35",
-          "end": "19:25",
+          "start": "18:45",
+          "end": "19:30",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "now"
+        },
+        {
+          "start": "19:30",
+          "end": "19:45",
           "course": "e150",
           "title": "Code-writing reps (weakest skill: blank page to C++)",
           "doc": "ECE 150\\1 Lectures\\Examples",
@@ -665,13 +672,13 @@
             "loops",
             "arrays"
           ],
-          "note": "Moved from Saturday",
-          "status": "now",
+          "note": "Finish 1-11b to 1-11e by hand (11b started), then straight to the loops pack",
+          "status": "planned",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
         },
         {
-          "start": "19:35",
-          "end": "20:25",
+          "start": "19:45",
+          "end": "20:35",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "ECE 150 - Exam pack (loops)",
@@ -684,15 +691,8 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
         {
-          "start": "20:25",
-          "end": "21:05",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
-        },
-        {
-          "start": "21:05",
-          "end": "21:55",
+          "start": "20:45",
+          "end": "21:35",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
@@ -708,8 +708,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
-          "start": "22:05",
-          "end": "22:55",
+          "start": "21:45",
+          "end": "22:35",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
