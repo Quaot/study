@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:45:00-04:00",
+  "updated": "2026-10-11T20:13:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -657,14 +657,14 @@
         },
         {
           "start": "18:45",
-          "end": "19:30",
+          "end": "20:10",
           "course": "m115",
           "title": "Dinner",
-          "status": "now"
+          "status": "done"
         },
         {
-          "start": "19:30",
-          "end": "19:45",
+          "start": "20:15",
+          "end": "20:30",
           "course": "e150",
           "title": "Code-writing reps (weakest skill: blank page to C++)",
           "doc": "ECE 150\\1 Lectures\\Examples",
@@ -673,12 +673,12 @@
             "arrays"
           ],
           "note": "Finish 1-11b to 1-11e by hand (11b started), then straight to the loops pack",
-          "status": "planned",
+          "status": "now",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
         },
         {
-          "start": "19:45",
-          "end": "20:35",
+          "start": "20:30",
+          "end": "21:20",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "ECE 150 - Exam pack (loops)",
@@ -691,8 +691,8 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
         },
         {
-          "start": "20:45",
-          "end": "21:35",
+          "start": "21:30",
+          "end": "22:20",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
@@ -708,8 +708,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
-          "start": "21:45",
-          "end": "22:35",
+          "start": "22:30",
+          "end": "23:20",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
@@ -723,7 +723,7 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Kept tonight (staying late at the library)"
+          "note": "Optional tonight. If skipped, it goes to Tuesday 2:00"
         }
       ],
       "note": "Library day"
