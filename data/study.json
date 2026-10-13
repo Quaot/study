@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T20:13:00-04:00",
+  "updated": "2026-10-12T23:45:04-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -436,7 +436,7 @@
     {
       "course": "m115",
       "topic": "1.7",
-      "why": "Self-reported weak on proj and perp (2026-10-04)",
+      "why": "Self-reported weak on proj and perp (2026-10-04) | 2026-10-12: clean on 3 exam questions (22F MT Q6, 19F MT Q2a, 15F MT Q2c) = clean exam day 1 of 2. Still mixed up proj vs perp on CN 1.7.2(a): the point ON the line comes from proj, the distance from perp",
       "exam_retest": "Exam retests: 2015F MT Q2, 2019F MT Q2 and Q6, 2022F MT Q6 (lines/planes pack Block 1 today)",
       "status": "weak"
     },
@@ -467,6 +467,13 @@
       "why": "2026-10-11: stopped at REF when RREF was asked. RREF = leading 1s AND zeros above and below each leading 1. Also: in vector form, each free variable gets its own row (x3 = s gives a 1 in the x3 slot of s's vector)",
       "status": "weak",
       "exam_retest": "2021F MT Q7, 2022F MT Q1, 2024F MT Q10, 2015F MT Q4"
+    },
+    {
+      "course": "e150",
+      "topic": "loops",
+      "why": "2026-10-12: loops Block 1. A counter must go up by 1 (++m), not by the loop index (m += k). Stop conditions are off by one: test the NEXT step before taking it (or trace n = 8 by hand). Edge cases missed: negative n, n = 0. Needed hints on 3 of 6 questions",
+      "exam_retest": "Redo WITHOUT help on Saturday Pass 2: 22F FE Q2 (ilog2), 22F FE Q1, 22F MT Q5. New exam retests: loops Block 2 (23F MT Q9, 23F MT Q3, 23F MT Q4)",
+      "status": "weak"
     }
   ],
   "days": [
@@ -672,48 +679,56 @@
             "loops",
             "arrays"
           ],
-          "note": "Finish 1-11b to 1-11e by hand (11b started), then straight to the loops pack",
-          "status": "now",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+          "note": "Done. Handwriting was slow: drill templates so the loop skeleton is automatic",
+          "status": "done",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
+          "score": "1-11b to 1-11e done by hand"
         },
         {
-          "start": "20:30",
-          "end": "21:20",
+          "start": "21:00",
+          "end": "23:45",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms",
           "doc": "ECE 150 - Exam pack (loops)",
-          "status": "planned",
+          "status": "done",
           "covers": [
             "loops"
           ],
           "note": "Moved from Saturday",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf",
+          "score": "Q5 right, Q4 minor slips. Q2 partly (missed negative n). Q1, Q3, Q6 needed AI hints",
+          "missed": [
+            "Q1 (22F FE Q2, ilog2): m += k instead of ++m; stopped one step late",
+            "Q2 (22F MT Q4, divisors): negative n not handled (use |n|)",
+            "Q3 (22F FE Q1): needed hints",
+            "Q6 (22F MT Q5): needed hints"
+          ]
         },
         {
-          "start": "21:30",
-          "end": "22:20",
+          "start": "22:00",
+          "end": "22:50",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "1.4",
             "1.5",
             "1.6",
             "1.7"
           ],
-          "note": "Kept tonight (staying late at the library)",
+          "note": "Moved to Monday 2:00 (loops Block 1 ran late)",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf"
         },
         {
-          "start": "22:30",
-          "end": "23:20",
+          "start": "23:00",
+          "end": "23:50",
           "course": "m117",
           "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "ineq",
             "func",
@@ -723,7 +738,7 @@
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
-          "note": "Optional tonight. If skipped, it goes to Tuesday 2:00"
+          "note": "Moved to Tuesday 2:00"
         }
       ],
       "note": "Library day"
@@ -734,26 +749,86 @@
       "tentative": true,
       "blocks": [
         {
-          "start": "09:00",
-          "end": "09:50",
+          "start": "13:30",
+          "end": "13:50",
+          "course": "e150",
+          "title": "Mark loops Block 1 and tell me the misses",
+          "doc": "ECE 150 - Exam pack (loops)",
+          "status": "done",
+          "covers": [
+            "loops"
+          ],
+          "note": "Answers are at the back of the pack. Type in any wrong answer and run it to see why",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf",
+          "score": "Only Q7 (23F MT Q9, reverse digits) done, not yet marked"
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "m115",
+          "title": "Exam pack: lines, planes, cross product and projections",
+          "doc": "Math 115 - Exam pack (lines, planes, projections)",
+          "status": "done",
+          "covers": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7"
+          ],
+          "note": "Moved from Sunday",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf",
+          "score": "Q1-Q3 right (22F MT Q6, 19F MT Q2a, 15F MT Q2c, all exam). Q4 (CN 1.7.2) partly",
+          "missed": [
+            "Q4(a) second part: used perp instead of proj to find OQ",
+            "Q4(b): arithmetic slips finding the point on the plane, and reduced the normal vector wrongly"
+          ]
+        },
+        {
+          "start": "16:05",
+          "end": "16:55",
+          "course": "m117",
+          "title": "Exam pack: limits and continuity",
+          "doc": "Math 117 - Exam pack (limits and continuity)",
+          "status": "done",
+          "covers": [
+            "seq",
+            "lim",
+            "lim2",
+            "cont"
+          ],
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
+          "score": "15/20 on 2019F MT Q5 (a, c, d, e, f right)",
+          "missed": [
+            "(b) (1+ln x)/(2+3 ln x) as x->0+: divide top and bottom by ln x, 1/ln x -> 0, answer 1/3",
+            "(g) x tan(1/x) as x->0+: tan(1/x) is undefined at x = 1/(pi/2 + k pi), points that pile up at 0, so DNE (squeeze fails: tan is unbounded)"
+          ]
+        },
+        {
+          "start": "17:20",
+          "end": "18:10",
           "course": "e150",
           "title": "Exam pack: loops and iterative algorithms (part 2, then mark and log)",
           "doc": "ECE 150 - Exam pack (loops)",
-          "status": "planned",
+          "status": "done",
           "covers": [
             "loops"
           ],
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf",
-          "note": "Moved from Sunday"
+          "note": "Moved from Sunday",
+          "score": "Only Q7 (23F MT Q9, reverse digits) done, not yet marked"
         },
         {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "18:20",
+          "end": "19:10",
           "course": "m115",
           "title": "Exam pack: lines, planes, cross product and projections (part 2, then mark and log)",
           "doc": "Math 115 - Exam pack (lines, planes, projections)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "1.4",
             "1.5",
@@ -762,39 +837,22 @@
           ],
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf",
-          "note": "Moved from Sunday"
+          "note": "Moved to Tuesday (catch-up day)"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
           "course": "m117",
-          "title": "Exam pack: limits and continuity",
-          "doc": "Math 117 - Exam pack (limits and continuity)",
-          "status": "planned",
-          "covers": [
-            "seq",
-            "lim",
-            "lim2",
-            "cont"
-          ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
+          "title": "Dinner",
+          "status": "done",
+          "start": "19:10",
+          "end": "19:50"
         },
         {
-          "start": "12:00",
-          "end": "13:00",
-          "course": "m117",
-          "title": "Lunch",
-          "status": "planned"
-        },
-        {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "19:50",
+          "end": "20:40",
           "course": "m117",
           "title": "Exam pack: limits and continuity (part 2, then mark and log)",
           "doc": "Math 117 - Exam pack (limits and continuity)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "seq",
             "lim",
@@ -802,38 +860,40 @@
             "cont"
           ],
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
+          "note": "Moved to Tuesday (catch-up day)"
         },
         {
-          "start": "14:00",
-          "end": "14:50",
+          "start": "20:50",
+          "end": "21:40",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure",
           "doc": "ECE 150 - Exam pack (functions and call stack)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "func",
             "stack",
             "basics"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "note": "Moved to Tuesday (catch-up day)",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "15:00",
-          "end": "15:50",
+          "start": "21:50",
+          "end": "22:40",
           "course": "e150",
           "title": "Exam pack: functions, the call stack and program structure (part 2, then mark and log)",
           "doc": "ECE 150 - Exam pack (functions and call stack)",
-          "status": "planned",
+          "status": "moved",
           "covers": [
             "func",
             "stack",
             "basics"
           ],
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf",
+          "note": "Moved to Tuesday (catch-up day)"
         }
       ]
     },
@@ -855,7 +915,7 @@
           "end": "10:50",
           "course": "m115",
           "title": "Exam pack: vectors, dot product and matrix operations",
-          "doc": "Exam pack - vectors, dot product and matrix operations",
+          "doc": "Math 115 - Exam pack (vectors, dot product, matrix operations)",
           "status": "planned",
           "covers": [
             "1.1",
@@ -867,14 +927,16 @@
             "3.4",
             "3.5"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1013\\Math 115 - Exam pack (vectors, dot product, matrix operations).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Exam%20pack%20%28vectors%2C%20dot%20product%2C%20matrix%20operations%29.pdf"
         },
         {
           "start": "11:00",
           "end": "11:50",
           "course": "m115",
           "title": "Exam pack: vectors, dot product and matrix operations (part 2, then mark and log)",
-          "doc": "Exam pack - vectors, dot product and matrix operations",
+          "doc": "Math 115 - Exam pack (vectors, dot product, matrix operations)",
           "status": "planned",
           "covers": [
             "1.1",
@@ -885,24 +947,142 @@
             "3.3",
             "3.4",
             "3.5"
-          ]
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1013\\Math 115 - Exam pack (vectors, dot product, matrix operations).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Exam%20pack%20%28vectors%2C%20dot%20product%2C%20matrix%20operations%29.pdf"
         },
         {
-          "start": "15:00",
-          "end": "15:50",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned",
+          "start": "11:50",
+          "end": "12:30"
+        },
+        {
+          "start": "12:30",
+          "end": "13:20",
+          "course": "e150",
+          "title": "Exam pack: loops, rest of Block 2 (Q8 on), then mark Q7 too",
+          "doc": "ECE 150 - Exam pack (loops)",
+          "status": "planned",
+          "covers": [
+            "loops"
+          ],
+          "note": "Catch-up from Monday",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/ECE%20150%20-%20Exam%20pack%20%28loops%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\ECE 150 - Exam pack (loops).pdf"
+        },
+        {
+          "start": "13:30",
+          "end": "14:20",
+          "course": "m117",
+          "title": "Exam pack: inequalities, functions, trig, hyperbolic and sinusoids (part 2, then mark and log)",
+          "doc": "Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids)",
+          "status": "planned",
+          "covers": [
+            "ineq",
+            "func",
+            "trig",
+            "hyp",
+            "sinus"
+          ],
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1010/Math%20117%20-%20Exam%20pack%20%28inequalities%2C%20functions%2C%20trig%2C%20hyperbolic%2C%20sinusoids%29.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1010\\Math 117 - Exam pack (inequalities, functions, trig, hyperbolic, sinusoids).pdf",
+          "note": "Moved from Sunday"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
           "course": "e150",
           "title": "Exam pack: arrays",
-          "doc": "Exam pack - arrays",
+          "doc": "ECE 150 - Exam pack (arrays)",
           "status": "planned",
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Arrays may not be taught yet: treat as pre-test."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss. Arrays may not be taught yet: treat as pre-test.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1013\\ECE 150 - Exam pack (arrays).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf"
         },
         {
-          "start": "16:00",
-          "end": "16:50",
+          "start": "15:30",
+          "end": "16:20",
           "course": "e150",
           "title": "Exam pack: arrays (part 2, then mark and log)",
-          "doc": "Exam pack - arrays",
-          "status": "planned"
+          "doc": "ECE 150 - Exam pack (arrays)",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1013\\ECE 150 - Exam pack (arrays).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf"
+        },
+        {
+          "start": "16:30",
+          "end": "17:20",
+          "course": "m115",
+          "title": "Exam pack: lines, planes, cross product and projections (part 2, then mark and log)",
+          "doc": "Math 115 - Exam pack (lines, planes, projections)",
+          "status": "planned",
+          "covers": [
+            "1.4",
+            "1.5",
+            "1.6",
+            "1.7"
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1011\\Math 115 - Exam pack (lines, planes, projections).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1011/Math%20115%20-%20Exam%20pack%20%28lines%2C%20planes%2C%20projections%29.pdf",
+          "note": "Catch-up from Monday"
+        },
+        {
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned",
+          "start": "17:20",
+          "end": "18:00"
+        },
+        {
+          "start": "18:00",
+          "end": "18:50",
+          "course": "m117",
+          "title": "Exam pack: limits and continuity (part 2, then mark and log)",
+          "doc": "Math 117 - Exam pack (limits and continuity)",
+          "status": "planned",
+          "covers": [
+            "seq",
+            "lim",
+            "lim2",
+            "cont"
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\Math 117 - Exam pack (limits and continuity).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
+          "note": "Catch-up from Monday"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "e150",
+          "title": "Exam pack: functions, the call stack and program structure",
+          "doc": "ECE 150 - Exam pack (functions and call stack)",
+          "status": "planned",
+          "covers": [
+            "func",
+            "stack",
+            "basics"
+          ],
+          "note": "Catch-up from Monday",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
+        },
+        {
+          "start": "20:00",
+          "end": "20:50",
+          "course": "e150",
+          "title": "Exam pack: functions, the call stack and program structure (part 2, then mark and log)",
+          "doc": "ECE 150 - Exam pack (functions and call stack)",
+          "status": "planned",
+          "covers": [
+            "func",
+            "stack",
+            "basics"
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1012\\ECE 150 - Exam pack (functions and call stack).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf",
+          "note": "Catch-up from Monday. If it doesn't happen, it goes to Saturday 2:00"
         }
       ]
     },
@@ -916,23 +1096,27 @@
           "end": "10:50",
           "course": "m117",
           "title": "Exam pack: partial fractions and derivative rules",
-          "doc": "Exam pack - partial fractions and derivative rules",
+          "doc": "Math 117 - Exam pack (partial fractions, derivative rules)",
           "status": "planned",
           "covers": [
             "pfrac"
           ],
-          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss."
+          "note": "Exam pack: real past exam/tutorial questions on this topic (protected mocks excluded). Review page first, solutions at the end. Untaught questions: 5-min attempt, mark 'pre-test'. Log every miss.",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1014\\Math 117 - Exam pack (partial fractions, derivative rules).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf"
         },
         {
           "start": "11:00",
           "end": "11:50",
           "course": "m117",
           "title": "Exam pack: partial fractions and derivative rules (part 2, then mark and log)",
-          "doc": "Exam pack - partial fractions and derivative rules",
+          "doc": "Math 117 - Exam pack (partial fractions, derivative rules)",
           "status": "planned",
           "covers": [
             "pfrac"
-          ]
+          ],
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1014\\Math 117 - Exam pack (partial fractions, derivative rules).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf"
         },
         {
           "start": "13:00",
@@ -957,6 +1141,31 @@
             "4.4"
           ],
           "note": "Replaces the subspaces pack: chapter 4 is not on the midterm"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "m115",
+          "title": "Exam pack: matrix multiplication and inverses, Block 3 (proofs)",
+          "status": "planned"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "m117",
+          "title": "Lecture 15 derivatives pack, Block 1 (inverse, inverse trig, implicit)",
+          "doc": "Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "status": "planned"
+        },
+        {
+          "start": "17:00",
+          "end": "17:50",
+          "course": "m117",
+          "title": "Lecture 15 derivatives pack, Block 2 (log differentiation, MVT)",
+          "doc": "Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "status": "planned"
         }
       ]
     },
@@ -969,8 +1178,11 @@
           "start": "10:00",
           "end": "10:50",
           "course": "m117",
-          "title": "Pre-test retries: questions on topics taught since first attempt",
-          "status": "planned"
+          "title": "Limits pack, Block 3 (exam questions: 21F MT Q4, 18F FE Q1)",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (limits and continuity).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
+          "note": "Replaces the retries block"
         },
         {
           "start": "11:00",
@@ -993,6 +1205,37 @@
           "course": "e105",
           "title": "ECE 105 review blocks (Lectures 10-12: circular motion, energy)",
           "doc": "ECE 105 - Review (lectures 10-12)",
+          "status": "planned"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "e190",
+          "title": "ECE 190 midterm prep: Weeks 1-2 (read, then self-tests)",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "Midterm Wed Oct 21, 3:00 pm, 41 MC, one aid sheet",
+          "status": "planned"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
+          "title": "Marmoset project: Integer Functions (part 1)",
+          "doc": "ECE 150\\5 Projects",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects",
+          "note": "Due Oct 20",
+          "status": "planned"
+        },
+        {
+          "start": "17:00",
+          "end": "17:50",
+          "course": "e150",
+          "title": "Marmoset project: Integer Functions (part 2)",
+          "doc": "ECE 150\\5 Projects",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects",
+          "note": "Due Oct 20",
           "status": "planned"
         }
       ]
@@ -1041,6 +1284,37 @@
           "course": "e105",
           "title": "ECE 105: redo missed Mastering problems",
           "status": "planned"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "e190",
+          "title": "ECE 190 midterm prep: Weeks 4-5 (read, then self-tests)",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "Includes the four fixes to your Week 4 notes",
+          "status": "planned"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
+          "title": "Marmoset project: Integer Functions (part 3)",
+          "doc": "ECE 150\\5 Projects",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects",
+          "note": "Due Oct 20",
+          "status": "planned"
+        },
+        {
+          "start": "17:00",
+          "end": "17:50",
+          "course": "e150",
+          "title": "Marmoset project: Integer Functions (part 4, submit and test)",
+          "doc": "ECE 150\\5 Projects",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects",
+          "note": "Due Oct 20",
+          "status": "planned"
         }
       ]
     },
@@ -1069,6 +1343,24 @@
           "course": "e150",
           "title": "Pass 2: only the questions you missed (3+ days ago), from the error log",
           "status": "planned"
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
+          "course": "m117",
+          "title": "Limits pack, Block 4 (exam questions)",
+          "doc": "Math 117 - Exam pack (limits and continuity).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
+          "status": "planned"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "m117",
+          "title": "Limits pack, Block 5 (continuity and IVT exam questions)",
+          "doc": "Math 117 - Exam pack (limits and continuity).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
+          "status": "planned"
         }
       ]
     },
@@ -1096,6 +1388,17 @@
           "end": "13:50",
           "course": "e105",
           "title": "Pass 2: misses and weak topics before mock week",
+          "status": "planned"
+        },
+        {
+          "start": "15:00",
+          "end": "15:50",
+          "course": "e190",
+          "title": "ECE 190: write your handwritten aid sheet",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "One sheet allowed. Put exact-wording lists on it",
           "status": "planned"
         }
       ]
@@ -1621,6 +1924,13 @@
       "course": "e105",
       "title": "ECE 105 F25-M: only past midterm",
       "note": "Justin's call: use now or keep as the mock. If used now, build style-matched mock questions"
+    },
+    {
+      "date": "2026-10-21",
+      "course": "e190",
+      "title": "ECE 190 midterm",
+      "weight": "20%",
+      "note": "Wed 3:00-4:00 pm. 41 multiple-choice questions, one handwritten aid sheet. Weeks 1-5 (Week 1: boilerplate and Overview of ECE only). From the Week 5 slides"
     }
   ],
   "log": [],
