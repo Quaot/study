@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T14:25:02-04:00",
+  "updated": "2026-10-14T15:54:56-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1649,11 +1649,11 @@
           "end": "14:50",
           "course": "m115",
           "title": "Lunch",
-          "status": "now"
+          "status": "done"
         },
         {
-          "start": "14:50",
-          "end": "15:40",
+          "start": "16:00",
+          "end": "16:50",
           "course": "m117",
           "unit": "m117-lim",
           "title": "Math 117: limits and continuity, Block 2, then mark",
@@ -1663,8 +1663,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
         },
         {
-          "start": "15:50",
-          "end": "16:40",
+          "start": "17:00",
+          "end": "17:50",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 1 (read the 3-page review first)",
@@ -1674,8 +1674,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "16:50",
-          "end": "17:40",
+          "start": "18:00",
+          "end": "18:50",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 2",
@@ -1685,8 +1685,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "17:50",
-          "end": "18:40",
+          "start": "19:00",
+          "end": "19:50",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: inverses, Block 3 (proofs), then mark",
@@ -1696,8 +1696,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "18:50",
-          "end": "19:40",
+          "start": "20:00",
+          "end": "20:50",
           "course": "e150",
           "unit": "e150-arr",
           "title": "ECE 150: arrays Q4, then Block 2, then mark",
@@ -1707,15 +1707,15 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf"
         },
         {
-          "start": "19:40",
-          "end": "20:20",
+          "start": "20:50",
+          "end": "21:30",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
         },
         {
-          "start": "20:20",
-          "end": "21:10",
+          "start": "21:30",
+          "end": "22:20",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections, Block 1 (read the review first)",
@@ -1725,8 +1725,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
         },
         {
-          "start": "21:20",
-          "end": "22:10",
+          "start": "22:30",
+          "end": "23:20",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections, Block 2, then mark",
@@ -1736,14 +1736,15 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
         },
         {
-          "start": "22:20",
-          "end": "23:10",
+          "start": "23:30",
+          "end": "24:20",
           "course": "e150",
           "unit": "e150-reps",
           "title": "ECE 150 code reps: redo loops Q1, Q3, Q6 from blank, typed and compiled",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150\\1 Lectures\\Examples",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
+          "note": "Moved to Sunday 4:10 (late start)"
         }
       ]
     },
@@ -2209,6 +2210,17 @@
           "status": "planned",
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+        },
+        {
+          "start": "16:10",
+          "end": "17:00",
+          "course": "e150",
+          "unit": "e150-reps",
+          "title": "ECE 150 code reps: redo loops Q1, Q3, Q6 from blank, typed and compiled",
+          "status": "planned",
+          "doc": "ECE 150\\1 Lectures\\Examples",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
+          "note": "Moved from Wednesday"
         }
       ]
     },
