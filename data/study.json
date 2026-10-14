@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:54:56-04:00",
+  "updated": "2026-10-14T15:55:53-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1690,10 +1690,22 @@
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: inverses, Block 3 (proofs), then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
+          "note": "Moved to Sat Oct 24, 9:00"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "e150",
+          "unit": "e150-bit",
+          "status": "planned",
+          "title": "ECE 150: bitwise and integer types pack, Block 1 (read the review first)",
+          "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf"
         },
         {
           "start": "20:00",
@@ -2135,6 +2147,17 @@
           "status": "planned",
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+        },
+        {
+          "start": "18:40",
+          "end": "19:30",
+          "course": "e150",
+          "unit": "e150-bit",
+          "status": "planned",
+          "title": "ECE 150: bitwise and integer types pack, Block 2, then mark",
+          "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf"
         }
       ]
     },
@@ -2419,6 +2442,18 @@
       "date": "2026-10-24",
       "kind": "exam",
       "blocks": [
+        {
+          "start": "09:00",
+          "end": "09:50",
+          "course": "m115",
+          "unit": "m115-inv",
+          "title": "Math 115: inverses, Block 3 (proofs), then mark",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
+          "note": "Moved from Wed Oct 14 to make room for ECE 150"
+        },
         {
           "start": "10:00",
           "end": "10:50",
@@ -2854,6 +2889,11 @@
       "exam": "2026-10-23",
       "time": "2:30 pm",
       "units": [
+        {
+          "id": "e150-bit",
+          "title": "Bitwise, binary/hex, integer types",
+          "kind": "learn"
+        },
         {
           "id": "e150-loops",
           "title": "Loops",
