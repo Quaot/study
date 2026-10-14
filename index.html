@@ -9,14 +9,15 @@
   <meta name="robots" content="noindex">
   <link rel="preload" href="fonts/instrument-serif.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="preload" href="fonts/inter-tight.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="stylesheet" href="style.css?v=3">
-  <script defer src="app.js?v=3"></script>
+  <link rel="stylesheet" href="style.css?v=4">
+  <script defer src="app.js?v=4"></script>
 </head>
 <body>
   <header class="topbar">
     <div class="wrap">
       <a class="mark" href="#top">Study</a>
       <nav aria-label="Sections">
+        <a href="#road">Exams</a>
         <a href="#today">Today</a>
         <a href="#courses">Courses</a>
         <a href="#due">Due</a>
@@ -37,6 +38,20 @@
         <div class="now-label" data-now-label></div>
         <div class="bar"><i data-now-bar></i></div>
       </div>
+    </section>
+
+    <section id="road" aria-labelledby="h-road">
+      <h2 class="section-mark" id="h-road">Road to the <em>exams</em> <small>Every block until each midterm. Click a day to see its plan</small></h2>
+      <div class="road-head" data-road-head></div>
+      <div class="road-scroll"><div class="road" data-road></div></div>
+      <div class="legend road-legend">
+        <span class="lg lg-done">Done</span>
+        <span class="lg lg-plan">Planned</span>
+        <span class="lg lg-late">Missed, needs a new slot</span>
+        <span class="lg lg-mock">Mock exam</span>
+        <span class="lg lg-exam">Midterm</span>
+      </div>
+      <div class="units" data-units></div>
     </section>
 
     <section id="today" aria-labelledby="h-week">

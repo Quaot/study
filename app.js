@@ -82,8 +82,9 @@
       const label = $('[data-now-label]'), bar = $('[data-now-bar]'), box = $('[data-now]');
       let html = 'Nothing scheduled today.', pct = 0, col = '';
       if (d) {
-        const cur = d.blocks.find(b => mins(b.start) <= m && m < mins(b.end));
-        const next = d.blocks.find(b => mins(b.start) > m);
+        const live = d.blocks.filter(b => b.status !== 'moved');
+        const cur = live.find(b => mins(b.start) <= m && m < mins(b.end));
+        const next = live.find(b => mins(b.start) > m);
         if (cur) {
           col = courses[cur.course].color;
           const left = mins(cur.end) - m;
@@ -110,7 +111,7 @@
 
     // ---------- week ----------
     const renderWeek = () => {
-      const t = parse(today), mon = new Date(t - ((t.getDay() + 6) % 7) * DAY);
+      const t = parse(selected), mon = new Date(t - ((t.getDay() + 6) % 7) * DAY);
       const html = [];
       for (let i = 0; i < 7; i++) {
         const d = new Date(mon.getTime() + i * DAY), s = iso(d), k = kindOf(s), dd = dayData(s);
@@ -279,6 +280,75 @@
       filter = b.dataset.f; renderLog();
     });
 
+    // ---------- road to the exams: every block tagged with a unit, laid out day by day ----------
+    const renderRoad = () => {
+      if (!D.roadmap) { $('#road').hidden = true; return; }
+      const now = new Date(), nowM = now.getHours() * 60 + now.getMinutes();
+      const late = (date, b) => b.status !== 'done' && (date < today || (date === today && mins(b.end) <= nowM));
+      const all = [];
+      D.days.forEach(d => d.blocks.forEach(b => { if (b.unit && b.status !== 'moved') all.push({ date: d.date, b }); }));
+      const lastExam = D.roadmap.reduce((m, r) => r.exam > m ? r.exam : m, today);
+      const first = iso(new Date(parse(today) - 2 * DAY));
+      const dates = [];
+      for (let t = parse(first); iso(t) <= lastExam; t = new Date(t.getTime() + DAY)) dates.push(iso(t));
+      const road = $('[data-road]');
+      road.style.gridTemplateColumns = `minmax(150px, 1.6fr) repeat(${dates.length}, minmax(34px, 1fr))`;
+      const out = ['<div></div>'];
+      dates.forEach(s => out.push(`<button class="rh${s === today ? ' today' : ''}" data-date="${s}">${esc(parse(s).toLocaleDateString('en-CA', { weekday: 'short' }))}<b>${parse(s).getDate()}</b></button>`));
+      let lateTotal = 0, contentEnd = today;
+      const cols = [];
+      for (const r of D.roadmap) {
+        const c = courses[r.course];
+        const mine = all.filter(x => x.b.unit.startsWith(r.course + '-'));
+        const kindOfUnit = Object.fromEntries(r.units.map(u => [u.id, u.kind]));
+        const work = mine.filter(x => kindOfUnit[x.b.unit] !== 'exam');
+        const done = work.filter(x => x.b.status === 'done').length;
+        const nLate = work.filter(x => late(x.date, x.b)).length;
+        lateTotal += nLate;
+        const learn = mine.filter(x => kindOfUnit[x.b.unit] === 'learn').map(x => x.date).sort();
+        const finish = learn[learn.length - 1] || today;
+        if (finish > contentEnd) contentEnd = finish;
+        const mock = mine.find(x => kindOfUnit[x.b.unit] === 'mock');
+        const daysLeft = daysBetween(today, r.exam);
+        out.push(`<div class="rl" style="--c:${c.color}"><b>${esc(c.code)}</b><span>${daysLeft > 0 ? `exam in ${daysLeft} day${daysLeft === 1 ? '' : 's'}` : daysLeft === 0 ? 'exam today' : 'exam done'} · ${done}/${work.length} blocks</span><div class="bar"><i style="width:${work.length ? Math.round(100 * done / work.length) : 0}%"></i></div></div>`);
+        dates.forEach(s => {
+          const here = mine.filter(x => x.date === s);
+          const sq = here.filter(x => kindOfUnit[x.b.unit] !== 'exam').map(x => {
+            const k = kindOfUnit[x.b.unit];
+            const cls = x.b.status === 'done' ? 'done' : late(s, x.b) ? 'late' : '';
+            return `<i class="sq ${cls}${k === 'mock' ? ' mock' : ''}" title="${esc(x.b.title)}"></i>`;
+          }).join('');
+          const ex = here.some(x => kindOfUnit[x.b.unit] === 'exam') ? `<span class="ex">Exam</span>` : '';
+          const fin = s === finish && !ex ? `<span class="fin" title="Last new-content block">✓</span>` : '';
+          out.push(`<div class="cell${s === today ? ' istoday' : ''}${s > r.exam ? ' after' : ''}" style="--c:${c.color};--on:${onColour(c.color)}" data-date="${s}">${sq}${ex}${fin}</div>`);
+        });
+        // unit checklist column
+        const units = r.units.filter(u => u.kind !== 'exam').map(u => {
+          const ub = mine.filter(x => x.b.unit === u.id);
+          const ud = ub.filter(x => x.b.status === 'done').length;
+          const ul = ub.filter(x => late(x.date, x.b)).length;
+          const s = ub.length && ud === ub.length ? 'done' : ul ? 'late' : ud ? 'part' : 'plan';
+          const next = ub.find(x => x.b.status !== 'done');
+          const when = s === 'done' ? 'done' : s === 'late' ? `${ul} missed` : next ? fmtDate(next.date, { weekday: 'short', month: 'short', day: 'numeric' }) : '';
+          return `<div class="unit" data-s="${s}"><span class="st"></span><span class="ut">${esc(u.title)}</span><span class="ud">${esc(when)}</span></div>`;
+        }).join('');
+        cols.push(`<div class="ucol" style="--c:${c.color}"><h4>${esc(c.code)}</h4><div class="when">New content done <b>${esc(fmtDate(finish))}</b>${mock ? ` · mock <b>${esc(fmtDate(mock.date))}</b>` : ''} · exam <b>${esc(fmtDate(r.exam))}, ${esc(r.time)}</b></div>${units}</div>`);
+      }
+      road.innerHTML = out.join('');
+      $('[data-units]').innerHTML = cols.join('');
+      const allWork = all.filter(x => !x.b.unit.endsWith('-exam'));
+      const doneAll = allWork.filter(x => x.b.status === 'done').length;
+      $('[data-road-head]').innerHTML = `
+        <div class="stat"><b>${esc(fmtDate(contentEnd, { weekday: 'short', month: 'short', day: 'numeric' }))}</b><span>Every topic learned and practised by this day</span></div>
+        <div class="stat ${lateTotal ? 'late' : 'ok'}"><b>${lateTotal ? `${lateTotal} block${lateTotal === 1 ? '' : 's'} behind` : 'On schedule'}</b><span>${lateTotal ? 'Missed blocks need a new slot. Tell Claude' : 'Nothing missed so far'}</span></div>
+        <div class="stat"><b>${doneAll} / ${allWork.length}</b><span>Blocks done on the road to the exams</span></div>`;
+    };
+    $('#road').addEventListener('click', e => {
+      const el = e.target.closest('[data-date]'); if (!el) return;
+      selected = el.dataset.date; renderWeek(); renderPlan();
+      $('#today').scrollIntoView({ behavior: 'smooth' });
+    });
+
     // ---------- footer ----------
     const up = new Date(D.updated);
     $('[data-updated]').textContent = `Updated ${up.toLocaleDateString('en-CA', { weekday: 'short', month: 'short', day: 'numeric' })}, ${up.toLocaleTimeString('en-CA', { hour: 'numeric', minute: '2-digit' })}`;
@@ -290,7 +360,7 @@
     });
     label();
 
-    renderWeek(); renderPlan(); renderCourses(); renderDue(); renderDeadlines(); renderLog();
-    tick(); setInterval(tick, 20e3);
+    renderRoad(); renderWeek(); renderPlan(); renderCourses(); renderDue(); renderDeadlines(); renderLog();
+    tick(); setInterval(tick, 20e3); setInterval(renderRoad, 300e3);
   }
 })();
