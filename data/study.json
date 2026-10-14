@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:56:05-04:00",
+  "updated": "2026-10-14T17:04:45-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1768,29 +1768,35 @@
         },
         {
           "start": "09:40",
-          "end": "10:30",
+          "end": "11:20",
           "course": "m117",
-          "unit": "m117-l15",
-          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
+          "unit": "m117-diag",
+          "title": "Math 117 DIAGNOSTIC: F25 midterm, 100 min, timed, closed book, formula sheet only",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
+          "doc": "F25-M (MOCK).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf",
+          "note": "Exam conditions. Don't look anything up. This shows what to fix"
         },
         {
-          "start": "10:40",
-          "end": "11:30",
+          "start": "11:30",
+          "end": "12:20",
           "course": "m117",
-          "unit": "m117-l15",
-          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "unit": "m117-diag",
+          "title": "Mark the F25 diagnostic with the answer key, send Claude every miss",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
+          "doc": "F25-M (MOCK) - ANSWER KEY.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK) - ANSWER KEY.pdf"
         },
         {
-          "start": "11:40",
-          "end": "12:30",
+          "start": "12:20",
+          "end": "13:00",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
@@ -1800,15 +1806,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "12:30",
-          "end": "13:10",
-          "course": "m115",
-          "title": "Lunch",
-          "status": "planned"
-        },
-        {
-          "start": "13:10",
-          "end": "14:00",
+          "start": "14:00",
+          "end": "14:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
@@ -1816,17 +1815,6 @@
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
-        },
-        {
-          "start": "14:10",
-          "end": "15:00",
-          "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 1 (functions, inverses, hyperbolic, Heaviside)",
-          "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf"
         },
         {
           "start": "15:10",
@@ -1871,16 +1859,27 @@
           "start": "18:40",
           "end": "19:30",
           "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 2 (sinusoids, trig equations)",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf"
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
         },
         {
           "start": "19:40",
           "end": "20:30",
+          "course": "m117",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
+        },
+        {
+          "start": "20:40",
+          "end": "21:30",
           "course": "e150",
           "unit": "e150-reps",
           "title": "ECE 150 code reps: array patterns (sum, max with index, search, shift)",
@@ -1951,7 +1950,7 @@
           "end": "14:00",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 3 (inverse trig, inequality, limits)",
+          "title": "Math 117: F23 midterm questions, part 1 (in the F23/F24 pack, do ONLY the F23 ones)",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
@@ -1962,7 +1961,7 @@
           "end": "15:00",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 4 (limits, continuity, IVT)",
+          "title": "Math 117: F23 midterm questions, part 2, then mark",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
@@ -2021,11 +2020,12 @@
           "end": "20:30",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 5 (derivatives)",
+          "title": "Math 117: targeted practice on your F25 diagnostic misses (Claude picks the questions)",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Skip every F24 question in the F23/F24 pack: F24 is now your mock"
         }
       ]
     },
@@ -2059,11 +2059,12 @@
           "end": "11:30",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117 F23/F24 midterms, Block 6 (implicit tangent, partial fractions), then mark",
+          "title": "Math 117: targeted practice on your F25 diagnostic misses (Claude picks the questions)",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Skip every F24 question in the F23/F24 pack: F24 is now your mock"
         },
         {
           "start": "11:40",
@@ -2234,6 +2235,28 @@
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
           "note": "Moved from Wednesday"
+        },
+        {
+          "start": "17:10",
+          "end": "18:00",
+          "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Block 1 (multiple choice + Q7)",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
+        },
+        {
+          "start": "18:10",
+          "end": "19:25",
+          "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
         }
       ]
     },
@@ -2246,10 +2269,10 @@
           "end": "19:40",
           "course": "m117",
           "unit": "m117-mock",
-          "title": "Math 117 MOCK: F25 midterm, 100 min, timed, closed book",
+          "title": "Math 117 MOCK: F24 midterm, whole paper, 100 min, timed, closed book",
           "status": "planned",
-          "doc": "F25-M (MOCK).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf",
+          "doc": "F24-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F24-M.pdf",
           "note": "Formula sheet only. Exam conditions"
         },
         {
@@ -2257,7 +2280,7 @@
           "end": "20:40",
           "course": "m117",
           "unit": "m117-mock",
-          "title": "Mark the Math 117 mock, log every miss",
+          "title": "Mark the F24 mock with the F23/F24 pack solutions (the F24 ones), log every miss",
           "status": "planned",
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf"
@@ -2408,23 +2431,9 @@
           "start": "18:00",
           "end": "18:50",
           "course": "m115",
-          "unit": "m115-s1",
-          "title": "Math 115 Sample Midterm 1, Block 1 (multiple choice + Q7)",
-          "status": "planned",
-          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
-        },
-        {
-          "start": "19:00",
-          "end": "20:15",
-          "course": "m115",
-          "unit": "m115-s1",
-          "title": "Math 115 Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
-          "status": "planned",
-          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
+          "unit": "m115-pass2",
+          "title": "Math 115: redo the Sample 1 diagnostic misses from blank",
+          "status": "planned"
         }
       ]
     },
@@ -2848,8 +2857,13 @@
           "kind": "learn"
         },
         {
+          "id": "m117-diag",
+          "title": "Diagnostic: F25 midterm, timed",
+          "kind": "learn"
+        },
+        {
           "id": "m117-pap",
-          "title": "F23 + F24 midterms by topic",
+          "title": "F23 midterm questions + diagnostic misses",
           "kind": "learn"
         },
         {
@@ -2859,7 +2873,7 @@
         },
         {
           "id": "m117-mock",
-          "title": "Mock: F25 midterm",
+          "title": "Mock: F24 midterm (whole paper)",
           "kind": "mock"
         },
         {
@@ -2968,7 +2982,7 @@
         },
         {
           "id": "m115-s1",
-          "title": "Sample Midterm 1",
+          "title": "Diagnostic: Sample Midterm 1",
           "kind": "learn"
         },
         {
