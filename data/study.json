@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:41:45-04:00",
+  "updated": "2026-10-14T19:29:37-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1683,10 +1683,14 @@
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 1 (read the 3-page review first)",
-          "status": "planned",
+          "status": "done",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
+          "score": "All right except Q4 (copying slip in [A|I]: an entry written one column too far, right block came out zeros)",
+          "missed": [
+            "Q4 (PF Q4): copying slip in the augmented matrix. Draw the bar | clearly and check each row has n entries on each side"
+          ]
         },
         {
           "start": "18:35",
@@ -1694,7 +1698,7 @@
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 2",
-          "status": "planned",
+          "status": "now",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
