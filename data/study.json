@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:55:53-04:00",
+  "updated": "2026-10-14T15:56:05-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1730,22 +1730,12 @@
           "end": "22:20",
           "course": "m117",
           "unit": "m117-con",
-          "title": "Math 117: conic sections, Block 1 (read the review first)",
+          "title": "Math 117 conics check: Block 2 only (midterm-style, incl. ellipse + tangent), then mark",
           "status": "planned",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
-        },
-        {
-          "start": "22:30",
-          "end": "23:20",
-          "course": "m117",
-          "unit": "m117-con",
-          "title": "Math 117: conic sections, Block 2, then mark",
-          "status": "planned",
-          "doc": "Math 117 - Exam pack (conic sections).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
+          "note": "You said you are confident. If you miss anything, Block 1 goes into Saturday Pass 2"
         },
         {
           "start": "23:30",
