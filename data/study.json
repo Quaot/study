@@ -433,7 +433,7 @@
     {
       "course": "m115",
       "topic": "2.3",
-      "why": "Still weak (2026-10-11): mixes up m (rows/equations) and n (columns/variables), so rank = m vs rank = n and free variables = n - r. The parameter routine is improving: 2019F MT Q5 done. Two-parameter Q7(iii) missed | 2026-10-13: missed 24F MT Q4 (sizes from AC = CB), the same m vs n idea",
+      "why": "Still weak (2026-10-11): mixes up m (rows/equations) and n (columns/variables), so rank = m vs rank = n and free variables = n - r. The parameter routine is improving: 2019F MT Q5 done. Two-parameter Q7(iii) missed | 2026-10-13: missed 24F MT Q4 (sizes from AC = CB), the same m vs n idea | 2026-10-14: parameter question 24F MT Q11 stopped one step early",
       "exam_retest": "Exam retests: 2019F MT Q5, 2022F MT Q13, 2024W final Q14 (rank pack Blocks 1-3)",
       "status": "weak"
     },
@@ -1687,8 +1687,9 @@
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
-          "score": "All right except Q4 (copying slip in [A|I]: an entry written one column too far, right block came out zeros)",
+          "score": "All right except Q2 and Q4 (copying slip in [A|I]: an entry written one column too far, right block came out zeros)",
           "missed": [
+            "Q2 (24F MT Q11, parameter): stopped one step early, did not finish reducing the second 12-6a, so the answer was incomplete. With a parameter, never divide by an expression in a without splitting cases, and check every pivot for values that make it 0",
             "Q4 (PF Q4): copying slip in the augmented matrix. Draw the bar | clearly and check each row has n entries on each side"
           ]
         },
