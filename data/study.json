@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T17:06:40-04:00",
+  "updated": "2026-10-14T17:41:45-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -491,6 +491,13 @@
       "topic": "pfd",
       "why": "2026-10-14: needed help with irreducible quadratic factors (Ax+B on top) and factoring sums/differences of cubes | 2026-10-14 Block 2: polynomial long division slips twice (forgot to bring down a term). Write every power with 0 placeholders, check by multiplying back",
       "exam_retest": "F23/F24 midterms pack Block 6 (partial fractions), then Pass 2",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "lim",
+      "why": "2026-10-14 limits Block 2: squeeze bounds with a sign-changing factor (use absolute values), conjugate with no fraction, rescaling the inside, IVT write-up (continuity reason + both endpoint values + conclusion)",
+      "exam_retest": "Limits Blocks 3-5 (Fri, Sat), F23 limits questions, Pass 2",
       "status": "weak"
     }
   ],
@@ -1661,7 +1668,14 @@
           "doc": "Math 117 - Exam pack (limits and continuity).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
-          "score": "Done, marking after break"
+          "score": "Q3 right. Q2(a)(b), Q4 first part, Q6 missed. Q5 IVT logic right but incomplete",
+          "missed": [
+            "Q2(a) squeeze: bounds were -1 and 1 times a factor that can be negative. Use -|g| <= g cos(...) <= |g|, both ends go to 0",
+            "Q2(b): multiply by the conjugate over itself even when there is no fraction",
+            "Q4: rescale so the inside matches, e.g. multiply and divide by a constant",
+            "Q5 IVT: state why f is continuous (polynomial), plug in BOTH endpoints with numbers, state the sign change, conclude",
+            "Q6: did not know the method (understood after reading the solution)"
+          ]
         },
         {
           "start": "17:35",
