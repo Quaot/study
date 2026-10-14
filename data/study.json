@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:29:37-04:00",
+  "updated": "2026-10-14T19:29:48-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1698,10 +1698,11 @@
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 2",
-          "status": "now",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
+          "note": "Moved to Sat Oct 24, 8:00 (Block 1 ran long; ECE 150 first)"
         },
         {
           "start": "19:00",
@@ -1720,7 +1721,7 @@
           "end": "20:25",
           "course": "e150",
           "unit": "e150-bit",
-          "status": "planned",
+          "status": "now",
           "title": "ECE 150: bitwise and integer types pack, Block 1 (read the review first)",
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
@@ -2460,6 +2461,18 @@
       "date": "2026-10-24",
       "kind": "exam",
       "blocks": [
+        {
+          "start": "08:00",
+          "end": "08:50",
+          "course": "m115",
+          "unit": "m115-inv",
+          "title": "Math 115: matrix multiplication and inverses, Block 2",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
+          "note": "Moved from Wed Oct 14"
+        },
         {
           "start": "09:00",
           "end": "09:50",
