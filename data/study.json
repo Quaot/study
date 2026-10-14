@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T11:35:49-04:00",
+  "updated": "2026-10-14T14:25:02-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -484,6 +484,13 @@
       "topic": "heav",
       "why": "2026-10-13: forgot how to write a piecewise function with Heaviside. Rule: start value, then at each break c add (new piece - old piece) H(x - c). Check by plugging in one x per piece",
       "exam_retest": "Saturday Pass 2: 22F MT Q1(a) from blank, then F24 midterm Heaviside question (Math 117 F23/F24 pack Block 1)",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "pfd",
+      "why": "2026-10-14: needed help with irreducible quadratic factors (Ax+B on top) and factoring sums/differences of cubes | 2026-10-14 Block 2: polynomial long division slips twice (forgot to bring down a term). Write every power with 0 placeholders, check by multiplying back",
+      "exam_retest": "F23/F24 midterms pack Block 6 (partial fractions), then Pass 2",
       "status": "weak"
     }
   ],
@@ -1611,10 +1618,15 @@
           "course": "m117",
           "unit": "m117-pfd",
           "title": "Math 117: partial fractions and derivative rules, Block 1",
-          "status": "now",
+          "status": "done",
           "doc": "Math 117 - Exam pack (partial fractions, derivative rules).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Partial fractions and derivative rules.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf",
+          "score": "About 5/21 alone (19F Q4(a)). 19F Q4(b), 22F Q2(a), (b)(i), (b)(ii) needed the two skills (16 marks)",
+          "missed": [
+            "Irreducible quadratic factors: the numerator over x^2+bx+c is Ax+B, not just A. Check with the discriminant b^2-4c < 0",
+            "Sum/difference of cubes: a^3 + b^3 = (a+b)(a^2-ab+b^2), a^3 - b^3 = (a-b)(a^2+ab+b^2)"
+          ]
         },
         {
           "start": "12:40",
@@ -1622,21 +1634,26 @@
           "course": "m117",
           "unit": "m117-pfd",
           "title": "Math 117: partial fractions and derivative rules, Block 2, then mark",
-          "status": "planned",
+          "status": "done",
           "doc": "Math 117 - Exam pack (partial fractions, derivative rules).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Partial fractions and derivative rules.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28partial%20fractions%2C%20derivative%20rules%29.pdf",
+          "score": "Q5 (limit definition) right, Q6 right (d, e not fully simplified). Q3, Q4: long division slips (error carried forward)",
+          "missed": [
+            "Q3 (21F MT Q3(a)): long division botched, rest correct with ECF",
+            "Q4 (25F review Q13): long division, forgot to bring down the 2"
+          ]
         },
         {
-          "start": "13:40",
-          "end": "14:20",
+          "start": "14:10",
+          "end": "14:50",
           "course": "m115",
           "title": "Lunch",
-          "status": "planned"
+          "status": "now"
         },
         {
-          "start": "14:20",
-          "end": "15:10",
+          "start": "14:50",
+          "end": "15:40",
           "course": "m117",
           "unit": "m117-lim",
           "title": "Math 117: limits and continuity, Block 2, then mark",
@@ -1646,8 +1663,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf"
         },
         {
-          "start": "15:20",
-          "end": "16:10",
+          "start": "15:50",
+          "end": "16:40",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 1 (read the 3-page review first)",
@@ -1657,8 +1674,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "16:20",
-          "end": "17:10",
+          "start": "16:50",
+          "end": "17:40",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 2",
@@ -1668,8 +1685,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "17:20",
-          "end": "18:10",
+          "start": "17:50",
+          "end": "18:40",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: inverses, Block 3 (proofs), then mark",
@@ -1679,8 +1696,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf"
         },
         {
-          "start": "18:20",
-          "end": "19:10",
+          "start": "18:50",
+          "end": "19:40",
           "course": "e150",
           "unit": "e150-arr",
           "title": "ECE 150: arrays Q4, then Block 2, then mark",
@@ -1690,15 +1707,15 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf"
         },
         {
-          "start": "19:10",
-          "end": "19:50",
+          "start": "19:40",
+          "end": "20:20",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
         },
         {
-          "start": "19:50",
-          "end": "20:40",
+          "start": "20:20",
+          "end": "21:10",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections, Block 1 (read the review first)",
@@ -1708,8 +1725,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
         },
         {
-          "start": "20:50",
-          "end": "21:40",
+          "start": "21:20",
+          "end": "22:10",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections, Block 2, then mark",
@@ -1719,8 +1736,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf"
         },
         {
-          "start": "21:50",
-          "end": "22:40",
+          "start": "22:20",
+          "end": "23:10",
           "course": "e150",
           "unit": "e150-reps",
           "title": "ECE 150 code reps: redo loops Q1, Q3, Q6 from blank, typed and compiled",
