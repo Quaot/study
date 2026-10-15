@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T22:19:06-04:00",
+  "updated": "2026-10-15T13:06:09-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1784,25 +1784,26 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: chapter 1, read then recite",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved to Fri 9:00 (late start)"
         },
         {
-          "start": "09:40",
-          "end": "11:20",
+          "start": "13:10",
+          "end": "14:50",
           "course": "m117",
           "unit": "m117-diag",
           "title": "Math 117 DIAGNOSTIC: F25 midterm, 100 min, timed, closed book, formula sheet only",
-          "status": "planned",
+          "status": "now",
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf",
           "note": "Exam conditions. Don't look anything up. This shows what to fix"
         },
         {
-          "start": "11:30",
-          "end": "12:20",
+          "start": "15:00",
+          "end": "15:50",
           "course": "m117",
           "unit": "m117-diag",
           "title": "Mark the F25 diagnostic with the answer key, send Claude every miss",
@@ -1811,15 +1812,8 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK) - ANSWER KEY.pdf"
         },
         {
-          "start": "12:20",
-          "end": "13:00",
-          "course": "m115",
-          "title": "Lunch",
-          "status": "planned"
-        },
-        {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "16:00",
+          "end": "16:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
@@ -1829,8 +1823,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "14:00",
-          "end": "14:50",
+          "start": "17:00",
+          "end": "17:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
@@ -1840,8 +1834,15 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "15:10",
-          "end": "16:00",
+          "start": "17:50",
+          "end": "18:30",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "18:30",
+          "end": "19:20",
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
@@ -1851,8 +1852,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
         },
         {
-          "start": "16:10",
-          "end": "17:00",
+          "start": "19:30",
+          "end": "20:20",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: Integer Functions, part 1",
@@ -1862,39 +1863,23 @@
           "note": "Due Tue Oct 20"
         },
         {
-          "start": "17:10",
-          "end": "18:00",
-          "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset project: part 2",
-          "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
-        },
-        {
-          "start": "18:00",
-          "end": "18:40",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
-        },
-        {
-          "start": "18:40",
-          "end": "19:30",
-          "course": "m117",
-          "unit": "m117-l15",
-          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
-          "status": "planned",
-          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
-        },
-        {
           "start": "19:40",
           "end": "20:30",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "status": "moved",
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
+          "note": "Moved to Fri 7:40 pm"
+        },
+        {
+          "start": "20:30",
+          "end": "21:20",
+          "course": "m117",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
           "status": "planned",
           "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
@@ -1906,9 +1891,20 @@
           "course": "e150",
           "unit": "e150-reps",
           "title": "ECE 150 code reps: array patterns (sum, max with index, search, shift)",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150\\1 Lectures\\Examples",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
+          "note": "Folded into Saturday's mixed code reps (late start)"
+        },
+        {
+          "start": "21:30",
+          "end": "22:20",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset project: part 2",
+          "status": "planned",
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
         }
       ]
     },
@@ -1919,10 +1915,10 @@
       "blocks": [
         {
           "start": "09:00",
-          "end": "09:30",
+          "end": "09:40",
           "course": "m115",
           "unit": "m115-thm",
-          "title": "Math 115 theorems: chapter 2, recite from memory",
+          "title": "Math 115 theorems: chapters 1 and 2, read then recite",
           "status": "planned",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
@@ -2042,13 +2038,13 @@
           "start": "19:40",
           "end": "20:30",
           "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117: targeted practice on your F25 diagnostic misses (Claude picks the questions)",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Skip every F24 question in the F23/F24 pack: F24 is now your mock"
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
+          "note": "Moved from Thursday"
         }
       ]
     },
