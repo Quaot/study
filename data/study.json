@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:06:09-04:00",
+  "updated": "2026-10-15T15:21:25-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1796,10 +1796,11 @@
           "course": "m117",
           "unit": "m117-diag",
           "title": "Math 117 DIAGNOSTIC: F25 midterm, 100 min, timed, closed book, formula sheet only",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf",
-          "note": "Exam conditions. Don't look anything up. This shows what to fix"
+          "note": "Exam conditions. Don't look anything up. This shows what to fix",
+          "score": "32/54 (59%), strict marking. Finished in time"
         },
         {
           "start": "15:00",
@@ -1807,7 +1808,7 @@
           "course": "m117",
           "unit": "m117-diag",
           "title": "Mark the F25 diagnostic with the answer key, send Claude every miss",
-          "status": "planned",
+          "status": "now",
           "doc": "F25-M (MOCK) - ANSWER KEY.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK) - ANSWER KEY.pdf"
         },
