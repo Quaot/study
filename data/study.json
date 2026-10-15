@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:40:52-04:00",
+  "updated": "2026-10-15T15:46:48-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1851,19 +1851,27 @@
           "score": "Marked: 32/54. Right: limits at infinity, squeeze, partial fractions, Heaviside, inverse trig, hyperbolic inverse"
         },
         {
-          "start": "16:00",
-          "end": "16:50",
+          "start": "15:45",
+          "end": "16:25",
+          "course": "m117",
+          "unit": "m117-diag",
+          "title": "Redo every F25 part you lost marks on, from blank (key closed), then check",
+          "status": "now"
+        },
+        {
+          "start": "16:30",
+          "end": "17:20",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
-          "status": "now",
+          "status": "planned",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "17:00",
-          "end": "17:50",
+          "start": "17:30",
+          "end": "18:20",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
@@ -1873,15 +1881,15 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "17:50",
-          "end": "18:30",
+          "start": "18:20",
+          "end": "19:00",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
         },
         {
-          "start": "18:30",
-          "end": "19:20",
+          "start": "19:00",
+          "end": "19:50",
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
@@ -1889,17 +1897,6 @@
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
-        },
-        {
-          "start": "19:30",
-          "end": "20:20",
-          "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset project: Integer Functions, part 1",
-          "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue Oct 20"
         },
         {
           "start": "19:40",
@@ -1914,15 +1911,15 @@
           "note": "Moved to Fri 7:40 pm"
         },
         {
-          "start": "20:30",
-          "end": "21:20",
-          "course": "m117",
-          "unit": "m117-l15",
-          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
+          "start": "20:00",
+          "end": "20:50",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset project: Integer Functions, part 1",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Due Tue Oct 20"
         },
         {
           "start": "20:40",
@@ -1936,8 +1933,19 @@
           "note": "Folded into Saturday's mixed code reps (late start)"
         },
         {
-          "start": "21:30",
-          "end": "22:20",
+          "start": "21:00",
+          "end": "21:50",
+          "course": "m117",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
+        },
+        {
+          "start": "22:00",
+          "end": "22:50",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: part 2",
