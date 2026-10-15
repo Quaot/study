@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T19:29:48-04:00",
+  "updated": "2026-10-14T22:19:06-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1722,11 +1722,12 @@
           "end": "20:25",
           "course": "e150",
           "unit": "e150-bit",
-          "status": "now",
+          "status": "done",
           "title": "ECE 150: bitwise and integer types pack, Block 1 (read the review first)",
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
+          "score": "Q1-Q6 done (to mark). Q7 on goes to Saturday"
         },
         {
           "start": "20:35",
@@ -1734,17 +1735,18 @@
           "course": "e150",
           "unit": "e150-arr",
           "title": "ECE 150: arrays Q4, then Block 2, then mark",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE 150 - Exam pack (arrays).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-13 - Arrays.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/ECE%20150%20-%20Exam%20pack%20%28arrays%29.pdf",
+          "score": "Up to Q5 (Q4 with help in the fork). Rest to Saturday Pass 2"
         },
         {
           "start": "21:25",
           "end": "22:05",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "22:05",
@@ -1752,11 +1754,11 @@
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117 conics check: Block 2 only (midterm-style, incl. ellipse + tangent), then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
-          "note": "You said you are confident. If you miss anything, Block 1 goes into Saturday Pass 2"
+          "note": "Moved to Sat 7:40 pm (stopped for the night)"
         },
         {
           "start": "23:30",
@@ -2170,6 +2172,18 @@
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf"
+        },
+        {
+          "start": "19:40",
+          "end": "20:30",
+          "course": "m117",
+          "unit": "m117-con",
+          "title": "Math 117 conics check: Block 2 only (midterm-style, incl. ellipse + tangent), then mark",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (conic sections).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
+          "note": "Moved from Wed"
         }
       ]
     },
