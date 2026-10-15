@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T16:24:10-04:00",
+  "updated": "2026-10-15T16:56:23-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1861,7 +1861,14 @@
         },
         {
           "start": "16:30",
-          "end": "17:20",
+          "end": "16:55",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "done"
+        },
+        {
+          "start": "17:00",
+          "end": "17:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
@@ -1871,8 +1878,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
         },
         {
-          "start": "17:30",
-          "end": "18:20",
+          "start": "18:00",
+          "end": "18:50",
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
@@ -1880,13 +1887,6 @@
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
-        },
-        {
-          "start": "18:20",
-          "end": "19:00",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
         },
         {
           "start": "19:00",
