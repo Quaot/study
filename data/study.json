@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:46:48-04:00",
+  "updated": "2026-10-15T16:24:10-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1856,7 +1856,8 @@
           "course": "m117",
           "unit": "m117-diag",
           "title": "Redo every F25 part you lost marks on, from blank (key closed), then check",
-          "status": "now"
+          "status": "done",
+          "score": "Redid 4(b) amplitude-phase, 5(a) log differentiation, 5(b) outside-point tangent. 2(a), 3(b) and the write-ups go to Saturday targeted"
         },
         {
           "start": "16:30",
@@ -1864,7 +1865,7 @@
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
-          "status": "planned",
+          "status": "now",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
