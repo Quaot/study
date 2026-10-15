@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T18:29:21-04:00",
+  "updated": "2026-10-15T19:13:57-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -526,6 +526,13 @@
       "topic": "writeup",
       "why": "2026-10-15 diagnostic: lost marks for missing reasons. Continuity: name the reason (polynomial, sqrt of a positive, composition). Neither even nor odd: compute f(1) and f(-1) and show both f(-1) != f(1) and f(-1) != -f(1)",
       "exam_retest": "Every Math 117 block: write the reason line",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "fn",
+      "why": "2026-10-15: functions/call stack Block 1 needed the answer key throughout (references vs values, tracing the stack)",
+      "exam_retest": "Saturday Pass 2: functions Block 1 from blank, then the ECE 150 mock (Tue)",
       "status": "weak"
     }
   ],
@@ -1872,10 +1879,11 @@
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1 (extended: new topic), then mark",
-          "status": "now",
+          "status": "done",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf",
+          "score": "Done and marked, but needed the answer key to get through it (new topic: references, pass-by-value vs reference, call stack)"
         },
         {
           "start": "19:00",
@@ -1883,7 +1891,7 @@
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
-          "status": "planned",
+          "status": "now",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
@@ -2177,7 +2185,7 @@
           "end": "16:00",
           "course": "e150",
           "unit": "e150-pass2",
-          "title": "ECE 150 Pass 2: arrays and functions misses",
+          "title": "ECE 150 Pass 2: functions Block 1 from blank (no key), then arrays misses",
           "status": "planned",
           "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
