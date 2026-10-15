@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T15:21:25-04:00",
+  "updated": "2026-10-15T15:40:52-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -426,8 +426,8 @@
     {
       "course": "m117",
       "topic": "sinus",
-      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega)",
-      "exam_retest": "Exam retests: 2019F MT Q2 (sin 2t - cos 2t as A cos(2t+delta)), 2025 review Q2-Q3, 2020F and 2022F finals Q1. Rule: signs of BOTH sin and cos of the angle pick the quadrant",
+      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega) | 2026-10-15 diagnostic: dropped the sign of cos(alpha) again (4/6 lost with the range part). Write cos(alpha) = ..., sin(alpha) = ... WITH signs before picking alpha. For a range like (-pi, pi), list k = -2..2 and keep those inside",
+      "exam_retest": "Sat targeted: 19F MT Q2(a), Tutorial 3 Q6, 2020F final Q1, 2022F final Q1",
       "status": "weak"
     },
     {
@@ -461,8 +461,8 @@
     {
       "course": "m117",
       "topic": "ineq",
-      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it | 2026-10-13 retest: could not start 19F MT Q3 (tried squaring). Back to weak",
-      "exam_retest": "Exam retests: 2019F MT Q3 (|x/(x+1)| < 1-|x|, 9 marks), 2021F MT Q1, 2025 review Q5. Today's Q1-Q3 were practice-set level",
+      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it | 2026-10-13 retest: could not start 19F MT Q3 (tried squaring). Back to weak | 2026-10-15 diagnostic: mixed |A| > B (A > B or A < -B) with splitting at the zero of the inside. Pick one method and use it fully",
+      "exam_retest": "Sat targeted: 2021F MT Q1, 2025 review Q5, 19F MT Q3 solo",
       "status": "weak"
     },
     {
@@ -498,6 +498,34 @@
       "topic": "lim",
       "why": "2026-10-14 limits Block 2: squeeze bounds with a sign-changing factor (use absolute values), conjugate with no fraction, rescaling the inside, IVT write-up (continuity reason + both endpoint values + conclusion)",
       "exam_retest": "Limits Blocks 3-5 (Fri, Sat), F23 limits questions, Pass 2",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "ivt",
+      "why": "2026-10-15 diagnostic: for two roots, evaluate a middle point (often 0) to get a sign change on each side, then use the IVT on two intervals. Always state continuity with a reason",
+      "exam_retest": "Limits pack Block 5 (Sat), 19F MT Q2(b), 19F MT Q6",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "tangent",
+      "why": "2026-10-15 diagnostic: tangent through a point NOT on the curve. Let the touching point be (a, f(a)), set f'(a) = (f(a) - y0)/(a - x0), solve for a",
+      "exam_retest": "Problem Set 5 Q18 (partial fractions pack Block 4), F23/F24 pack implicit-tangent question (F23 only)",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "logdiff",
+      "why": "2026-10-15 diagnostic 0/4: variable in both base and exponent (or a messy product) -> take ln of both sides first",
+      "exam_retest": "Lecture 15 pack Blocks 1-2 (Thu 8:30 pm, Fri 7:40 pm)",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "writeup",
+      "why": "2026-10-15 diagnostic: lost marks for missing reasons. Continuity: name the reason (polynomial, sqrt of a positive, composition). Neither even nor odd: compute f(1) and f(-1) and show both f(-1) != f(1) and f(-1) != -f(1)",
+      "exam_retest": "Every Math 117 block: write the reason line",
       "status": "weak"
     }
   ],
@@ -1800,7 +1828,16 @@
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf",
           "note": "Exam conditions. Don't look anything up. This shows what to fix",
-          "score": "32/54 (59%), strict marking. Finished in time"
+          "score": "32/54 (59%), strict marking. Finished in time",
+          "missed": [
+            "2(a) 2/6 abs inequality: mixed the |A| > B rule with splitting at x = -1 (method)",
+            "2(b) 2/3 continuity: right answer, no reason given for sqrt(5x-1) being continuous when x > 1 (write-up)",
+            "3(b) IVT: didn't compute g(0), so couldn't split into two intervals for two roots (method)",
+            "4(b) 2/6 amplitude-phase: sign of cos(alpha) dropped -> wrong quadrant, AGAIN. Unsure how to list solutions in (-pi, pi) (method)",
+            "5(a) 0/4 log differentiation: didn't know to take ln (Lecture 15 not practised yet)",
+            "5(b) tangent through an outside point: plugged the outside point into the tangent line as if it were on f (method)",
+            "6(b) 4/6 even/odd: couldn't justify 'neither' (write-up)"
+          ]
         },
         {
           "start": "15:00",
@@ -1808,9 +1845,10 @@
           "course": "m117",
           "unit": "m117-diag",
           "title": "Mark the F25 diagnostic with the answer key, send Claude every miss",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M (MOCK) - ANSWER KEY.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK) - ANSWER KEY.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK) - ANSWER KEY.pdf",
+          "score": "Marked: 32/54. Right: limits at infinity, squeeze, partial fractions, Heaviside, inverse trig, hyperbolic inverse"
         },
         {
           "start": "16:00",
@@ -1818,7 +1856,7 @@
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 1",
-          "status": "planned",
+          "status": "now",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
@@ -2079,12 +2117,12 @@
           "end": "11:30",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117: targeted practice on your F25 diagnostic misses (Claude picks the questions)",
+          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Skip every F24 question in the F23/F24 pack: F24 is now your mock"
+          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
         },
         {
           "start": "11:40",
