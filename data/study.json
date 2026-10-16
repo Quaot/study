@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:24:36-04:00",
+  "updated": "2026-10-16T19:37:40-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2047,7 +2047,8 @@
           "status": "done",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "score": "Chapter 2: System-Rank (a)(b)(c), rank <= min(m,n), 0/1/infinity, homogeneous, underdetermined"
         },
         {
           "start": "16:00",
@@ -2093,7 +2094,24 @@
           "note": "Answers are the table on the last page. Skip Weeks 8-13 (final exam only). Write down every miss: they go on your aid sheet",
           "doc": "F26 sample midterm questions.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\6 Exams\\F26 sample midterm questions.pdf",
-          "score": "35/41 (85%) with a partly copied aid sheet"
+          "score": "35/41 (85%), timed, with a partly copied aid sheet",
+          "missed": [
+            "W1 Q1: the three academic-integrity responsibilities",
+            "W1 Q4: computing timeline (1890 tabulator not general purpose, that was 1944)",
+            "W2b Q2: Storming = struggling over roles",
+            "W2b Q6: PEO complaints + discipline committees",
+            "W2b Q8: decision methods are consensus, voting, executive (Norming is a stage)",
+            "W5 Q9: identify the graph: temperature change since 1850"
+          ]
+        },
+        {
+          "start": "18:30",
+          "end": "19:20",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: copied pages 1-4 of the readable version (side 1 started)",
+          "status": "done",
+          "score": "Pages 1-4 copied, page 5 started"
         },
         {
           "start": "18:40",
@@ -2107,22 +2125,11 @@
           "note": "Moved to 10-17 17:40"
         },
         {
-          "start": "19:00",
-          "end": "19:40",
+          "start": "19:40",
+          "end": "20:20",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
-        },
-        {
-          "start": "19:40",
-          "end": "20:30",
-          "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset project: Integer Functions, part 1",
-          "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Moved from Thursday"
         },
         {
           "start": "19:40",
@@ -2137,14 +2144,15 @@
           "note": "Moved to 10-17 20:40"
         },
         {
-          "start": "20:40",
-          "end": "21:30",
+          "start": "20:20",
+          "end": "21:10",
           "course": "e150",
           "unit": "e150-mar",
-          "title": "Marmoset project: part 3",
+          "title": "Marmoset project: Integer Functions, part 1",
           "status": "planned",
           "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Moved from Thursday"
         },
         {
           "start": "21:00",
@@ -2159,8 +2167,18 @@
           "note": "Moved to Sun 7:30 pm"
         },
         {
-          "start": "21:40",
-          "end": "22:30",
+          "start": "21:20",
+          "end": "22:10",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset project: part 3",
+          "status": "planned",
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
+        },
+        {
+          "start": "22:20",
+          "end": "23:10",
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
@@ -2413,7 +2431,7 @@
           "end": "14:00",
           "course": "e190",
           "unit": "e190-aid",
-          "title": "ECE 190: write your handwritten aid sheet",
+          "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
           "status": "planned",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
