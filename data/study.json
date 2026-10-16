@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:45:56-04:00",
+  "updated": "2026-10-16T14:50:07-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3052,7 +3052,7 @@
       "date": "2026-10-21",
       "course": "e190",
       "title": "ECE 190 midterm",
-      "note": "Wed 3:00-4:00 pm. 41 MC, one handwritten aid sheet, 20%"
+      "note": "Wed 3:00-4:00 pm. 41 MC, 1 h. Aid: ONE double-sided 8.5x11 sheet, handwritten in pen/pencil by you (no printing). Bring pencil, eraser, non-programmable calculator"
     },
     {
       "date": "2026-10-22",
@@ -3077,6 +3077,18 @@
       "course": "e105",
       "title": "ECE 105 midterm",
       "note": "Tue 4:30-6:20 pm"
+    },
+    {
+      "date": "2026-10-28",
+      "course": "e190",
+      "title": "Deliverable 1 (Part 2)",
+      "note": "Group deliverable, 7%. Grp 1-20 Wed Oct 28, Grp 21-40 Thu Oct 29, 11:59 pm"
+    },
+    {
+      "date": "2026-12-19",
+      "course": "e190",
+      "title": "ECE 190 final exam",
+      "note": "Sat 4:00-6:00 pm, 72 MC, two aid sheets, 35%"
     }
   ],
   "log": [],
