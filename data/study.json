@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T19:13:57-04:00",
+  "updated": "2026-10-15T20:58:58-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1891,10 +1891,11 @@
           "course": "e150",
           "unit": "e150-fn",
           "title": "ECE 150: functions and the call stack, Block 2, then mark",
-          "status": "now",
+          "status": "done",
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf",
+          "score": "Q8-Q13 done (marking now). Q14-15 to Saturday Pass 2"
         },
         {
           "start": "19:40",
@@ -1907,17 +1908,6 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
           "note": "Moved to Fri 7:40 pm"
-        },
-        {
-          "start": "20:00",
-          "end": "20:50",
-          "course": "e190",
-          "unit": "e190-w12",
-          "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
-          "status": "planned",
-          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
         },
         {
           "start": "20:40",
@@ -1936,14 +1926,14 @@
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: Integer Functions, part 1",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue Oct 20"
+          "note": "Moved to Fri 8:40 pm"
         },
         {
-          "start": "22:00",
-          "end": "22:50",
+          "start": "21:15",
+          "end": "22:05",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
@@ -1962,6 +1952,17 @@
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
           "note": "Folded into Friday Marmoset blocks (functions ran long)"
+        },
+        {
+          "start": "22:15",
+          "end": "23:05",
+          "course": "e190",
+          "unit": "e190-w12",
+          "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
+          "status": "planned",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
         }
       ]
     },
@@ -2101,6 +2102,17 @@
           "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
+          "note": "Moved from Thursday"
+        },
+        {
+          "start": "20:40",
+          "end": "21:30",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset project: Integer Functions, part 1",
+          "status": "planned",
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
           "note": "Moved from Thursday"
         }
       ]
