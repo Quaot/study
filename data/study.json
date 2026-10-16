@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:11:42-04:00",
+  "updated": "2026-10-16T19:24:36-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2055,7 +2055,7 @@
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
-          "status": "now",
+          "status": "done",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
@@ -2067,7 +2067,7 @@
           "course": "e190",
           "unit": "e190-w45",
           "title": "ECE 190: Weeks 4-5 sheets, then the self-tests",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
@@ -2088,11 +2088,12 @@
           "end": "19:00",
           "course": "e190",
           "unit": "e190-mock",
-          "status": "planned",
+          "status": "done",
           "title": "ECE 190 official sample questions, Weeks 1, 2a, 2b, 4, 5 only (41 questions = a full midterm), 60 min, closed book",
           "note": "Answers are the table on the last page. Skip Weeks 8-13 (final exam only). Write down every miss: they go on your aid sheet",
           "doc": "F26 sample midterm questions.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\6 Exams\\F26 sample midterm questions.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\6 Exams\\F26 sample midterm questions.pdf",
+          "score": "35/41 (85%) with a partly copied aid sheet"
         },
         {
           "start": "18:40",
