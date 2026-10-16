@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T20:58:58-04:00",
+  "updated": "2026-10-15T21:01:02-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -1895,7 +1895,11 @@
           "doc": "ECE 150 - Exam pack (functions and call stack).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-12 - Functions, the call stack and program structure.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20150%20-%20Exam%20pack%20%28functions%20and%20call%20stack%29.pdf",
-          "score": "Q8-Q13 done (marking now). Q14-15 to Saturday Pass 2"
+          "score": "Q8, Q9, Q11, Q12 right without the key, Q10 mostly. Q13: loop order (increment before the if)",
+          "missed": [
+            "Q10: partly",
+            "Q13: put the increment before the if, so the check used the wrong value. Order inside a loop body matters: check, then update"
+          ]
         },
         {
           "start": "19:40",
@@ -1937,7 +1941,7 @@
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
-          "status": "planned",
+          "status": "now",
           "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
