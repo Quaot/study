@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T14:50:07-04:00",
+  "updated": "2026-10-16T15:53:54-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2044,7 +2044,7 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: chapter 2 (System-Rank, homogeneous), recite from memory",
-          "status": "now",
+          "status": "done",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
@@ -2055,7 +2055,7 @@
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
-          "status": "planned",
+          "status": "now",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
