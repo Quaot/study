@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T16:03:47-04:00",
+  "updated": "2026-10-16T16:04:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2638,7 +2638,7 @@
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
-          "note": "41 multiple choice, one handwritten aid sheet"
+          "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser"
         },
         {
           "start": "18:00",
@@ -2679,7 +2679,8 @@
           "course": "m117",
           "unit": "m117-exam",
           "title": "MATH 117 MIDTERM",
-          "status": "planned"
+          "status": "planned",
+          "note": "STC 0040, seat F-14. Bring WatCard, pencil, eraser"
         },
         {
           "start": "19:30",
@@ -2709,7 +2710,8 @@
           "course": "e150",
           "unit": "e150-exam",
           "title": "ECE 150 MIDTERM",
-          "status": "planned"
+          "status": "planned",
+          "note": "EXP 1689, seat H-9. Bring WatCard, pencil, eraser"
         },
         {
           "start": "18:00",
@@ -2957,7 +2959,8 @@
           "course": "m115",
           "unit": "m115-exam",
           "title": "MATH 115 MIDTERM",
-          "status": "planned"
+          "status": "planned",
+          "note": "room TBA (check Odyssey ~Oct 21). Bring WatCard, pencil, eraser"
         }
       ]
     },
@@ -2990,7 +2993,8 @@
           "course": "e105",
           "unit": "e105-exam",
           "title": "ECE 105 MIDTERM",
-          "status": "planned"
+          "status": "planned",
+          "note": "room TBA (check Odyssey ~Oct 22). Bring WatCard, pencil, eraser"
         }
       ]
     }
@@ -3077,31 +3081,31 @@
       "date": "2026-10-21",
       "course": "e190",
       "title": "ECE 190 midterm",
-      "note": "Wed 3:00-4:00 pm. 41 MC, 1 h. Aid: ONE double-sided 8.5x11 sheet, handwritten in pen/pencil by you (no printing). Bring pencil, eraser, non-programmable calculator"
+      "note": "RCH 307, seat A-1. Bring WatCard. Wed 3:00-4:00 pm. 41 MC, 1 h. Aid: ONE double-sided 8.5x11 sheet, handwritten in pen/pencil by you (no printing). Bring pencil, eraser, non-programmable calculator"
     },
     {
       "date": "2026-10-22",
       "course": "m117",
       "title": "Math 117 midterm",
-      "note": "Thu 4:30-6:10 pm"
+      "note": "STC 0040, seat F-14. Bring WatCard. Thu 4:30-6:10 pm"
     },
     {
       "date": "2026-10-23",
       "course": "e150",
       "title": "ECE 150 midterm",
-      "note": "Fri 2:30-4:00 pm"
+      "note": "EXP 1689, seat H-9. Bring WatCard. Fri 2:30-4:00 pm"
     },
     {
       "date": "2026-10-26",
       "course": "m115",
       "title": "Math 115 midterm",
-      "note": "Mon 8:00-9:30 pm"
+      "note": "room TBA (check Odyssey ~Oct 21). Bring WatCard. Mon 8:00-9:30 pm"
     },
     {
       "date": "2026-10-27",
       "course": "e105",
       "title": "ECE 105 midterm",
-      "note": "Tue 4:30-6:20 pm"
+      "note": "room TBA (check Odyssey ~Oct 22). Bring WatCard. Tue 4:30-6:20 pm"
     },
     {
       "date": "2026-10-28",
