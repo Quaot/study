@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T15:53:54-04:00",
+  "updated": "2026-10-16T16:03:47-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2050,8 +2050,8 @@
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
         },
         {
-          "start": "15:30",
-          "end": "16:20",
+          "start": "16:00",
+          "end": "16:50",
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
@@ -2062,8 +2062,8 @@
           "note": "Moved from Thursday"
         },
         {
-          "start": "16:30",
-          "end": "17:20",
+          "start": "17:00",
+          "end": "17:50",
           "course": "e190",
           "unit": "e190-w45",
           "title": "ECE 190: Weeks 4-5 sheets, then the self-tests",
@@ -2084,22 +2084,15 @@
           "note": "Moved to 10-18 11:40"
         },
         {
-          "start": "17:30",
-          "end": "18:20",
-          "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset project: Integer Functions, part 1",
-          "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Moved from Thursday"
-        },
-        {
-          "start": "18:20",
+          "start": "18:00",
           "end": "19:00",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
+          "course": "e190",
+          "unit": "e190-mock",
+          "status": "planned",
+          "title": "ECE 190 official sample questions, Weeks 1, 2a, 2b, 4, 5 only (41 questions = a full midterm), 60 min, closed book",
+          "note": "Answers are the table on the last page. Skip Weeks 8-13 (final exam only). Write down every miss: they go on your aid sheet",
+          "doc": "F26 sample midterm questions.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\6 Exams\\F26 sample midterm questions.pdf"
         },
         {
           "start": "18:40",
@@ -2114,13 +2107,21 @@
         },
         {
           "start": "19:00",
-          "end": "19:50",
+          "end": "19:40",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "19:40",
+          "end": "20:30",
           "course": "e150",
           "unit": "e150-mar",
-          "title": "Marmoset project: part 3",
+          "title": "Marmoset project: Integer Functions, part 1",
           "status": "planned",
           "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Moved from Thursday"
         },
         {
           "start": "19:40",
@@ -2135,8 +2136,30 @@
           "note": "Moved to 10-17 20:40"
         },
         {
-          "start": "20:00",
-          "end": "20:50",
+          "start": "20:40",
+          "end": "21:30",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset project: part 3",
+          "status": "planned",
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf"
+        },
+        {
+          "start": "21:00",
+          "end": "21:50",
+          "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 2, then mark",
+          "status": "moved",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
+          "note": "Moved to Sun 7:30 pm"
+        },
+        {
+          "start": "21:40",
+          "end": "22:30",
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
@@ -2145,17 +2168,6 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
           "note": "Paper-light: type code answers and run them, trace programs in a text file"
-        },
-        {
-          "start": "21:00",
-          "end": "21:50",
-          "course": "e150",
-          "unit": "e150-var",
-          "title": "ECE 150: variables, expressions, conditionals, Block 2, then mark",
-          "status": "planned",
-          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf"
         }
       ]
     },
@@ -2381,7 +2393,8 @@
           "status": "planned",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
         },
         {
           "start": "14:10",
@@ -2461,6 +2474,18 @@
           "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
+        },
+        {
+          "start": "19:30",
+          "end": "20:20",
+          "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 2, then mark",
+          "status": "planned",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
+          "note": "Moved from Friday"
         }
       ]
     },
@@ -3108,6 +3133,11 @@
           "id": "e190-w45",
           "title": "Weeks 4-5 sheets + self-tests",
           "kind": "learn"
+        },
+        {
+          "id": "e190-mock",
+          "title": "Official sample questions, Weeks 1-5 (41, timed)",
+          "kind": "mock"
         },
         {
           "id": "e190-aid",
