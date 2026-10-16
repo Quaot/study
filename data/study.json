@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T21:01:02-04:00",
+  "updated": "2026-10-15T21:04:12-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -715,6 +715,17 @@
           "status": "done"
         },
         {
+          "start": "18:00",
+          "end": "18:50",
+          "course": "m117",
+          "title": "Math 117 tutorial prep (Mon 8:30): Problem Set 4, block 1 (Q1–Q7)",
+          "doc": "Next Lecture Primer - IVT",
+          "covers": [
+            "ivt"
+          ],
+          "status": "now"
+        },
+        {
           "start": "19:00",
           "end": "19:50",
           "course": "m117",
@@ -725,22 +736,6 @@
             "lim2",
             "seq"
           ],
-          "status": "planned"
-        },
-        {
-          "start": "20:00",
-          "end": "20:50",
-          "course": "en192",
-          "title": "Worksheet II: Swales × Shark-Tank Analysis",
-          "doc": "Prep - Worksheet II Swales x Shark-Tank",
-          "note": "Hard deadline today, 3%",
-          "status": "planned"
-        },
-        {
-          "start": "21:00",
-          "end": "21:15",
-          "course": "e198",
-          "title": "Electrium Mobility: next week's announcements",
           "status": "planned"
         },
         {
@@ -758,15 +753,20 @@
           "note": "Moved to Monday"
         },
         {
-          "start": "18:00",
-          "end": "18:50",
-          "course": "m117",
-          "title": "Math 117 tutorial prep (Mon 8:30): Problem Set 4, block 1 (Q1–Q7)",
-          "doc": "Next Lecture Primer - IVT",
-          "covers": [
-            "ivt"
-          ],
-          "status": "now"
+          "start": "20:00",
+          "end": "20:50",
+          "course": "en192",
+          "title": "Worksheet II: Swales × Shark-Tank Analysis",
+          "doc": "Prep - Worksheet II Swales x Shark-Tank",
+          "note": "Hard deadline today, 3%",
+          "status": "planned"
+        },
+        {
+          "start": "21:00",
+          "end": "21:15",
+          "course": "e198",
+          "title": "Electrium Mobility: next week's announcements",
+          "status": "planned"
         },
         {
           "start": "21:45",
@@ -791,6 +791,20 @@
           "end": "09:20",
           "course": "m117",
           "title": "Math 117 tutorial (V1 Great Hall)",
+          "status": "planned"
+        },
+        {
+          "start": "16:30",
+          "end": "17:20",
+          "course": "en192",
+          "title": "Memo fixes and final PDF export",
+          "status": "planned"
+        },
+        {
+          "start": "17:30",
+          "end": "18:20",
+          "course": "en192",
+          "title": "Pitch draft and 3 timed rehearsals (under 3 min)",
           "status": "planned"
         },
         {
@@ -827,20 +841,6 @@
             "binhex",
             "bitwise"
           ],
-          "status": "planned"
-        },
-        {
-          "start": "16:30",
-          "end": "17:20",
-          "course": "en192",
-          "title": "Memo fixes and final PDF export",
-          "status": "planned"
-        },
-        {
-          "start": "17:30",
-          "end": "18:20",
-          "course": "en192",
-          "title": "Pitch draft and 3 timed rehearsals (under 3 min)",
           "status": "planned"
         }
       ]
@@ -915,17 +915,6 @@
           "status": "done"
         },
         {
-          "start": "21:45",
-          "end": "22:35",
-          "course": "m117",
-          "title": "Same-day review: Lecture 15, Block 1 (inverse, inverse trig, implicit)",
-          "doc": "Math 117 - Same-day review (lecture 15)",
-          "covers": [
-            "ivt"
-          ],
-          "status": "planned"
-        },
-        {
           "start": "20:30",
           "end": "20:45",
           "course": "m117",
@@ -945,6 +934,26 @@
           "note": "Add: arrays primer E1 (2023F MT Q8) and E2 (2021F MT Q5), on paper then compile."
         },
         {
+          "start": "21:45",
+          "end": "22:35",
+          "course": "m117",
+          "title": "Same-day review: Lecture 15, Block 1 (inverse, inverse trig, implicit)",
+          "doc": "Math 117 - Same-day review (lecture 15)",
+          "covers": [
+            "ivt"
+          ],
+          "status": "planned"
+        },
+        {
+          "start": "22:30",
+          "end": "23:20",
+          "course": "m117",
+          "title": "Same-day review: Lecture 15, Block 2 (log differentiation, MVT)",
+          "doc": "Math 117 - Same-day review (lecture 15)",
+          "status": "moved",
+          "note": "Moved to Saturday's cumulative review (Mastering ran long)"
+        },
+        {
           "start": "22:45",
           "end": "23:35",
           "course": "m115",
@@ -956,15 +965,6 @@
           ],
           "status": "moved",
           "note": "Dropped: Week 5 (chapter 4) is not on the midterm. Read it after midterms"
-        },
-        {
-          "start": "22:30",
-          "end": "23:20",
-          "course": "m117",
-          "title": "Same-day review: Lecture 15, Block 2 (log differentiation, MVT)",
-          "doc": "Math 117 - Same-day review (lecture 15)",
-          "status": "moved",
-          "note": "Moved to Saturday's cumulative review (Mastering ran long)"
         },
         {
           "start": "23:35",
@@ -1937,11 +1937,22 @@
         },
         {
           "start": "21:15",
-          "end": "22:05",
+          "end": "21:45",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: chapter 1, read each box, cover it, recite it",
+          "status": "now",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
+        {
+          "start": "21:50",
+          "end": "22:40",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (inverse, implicit), Block 1",
-          "status": "now",
+          "status": "planned",
           "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf"
@@ -1958,15 +1969,16 @@
           "note": "Folded into Friday Marmoset blocks (functions ran long)"
         },
         {
-          "start": "22:15",
-          "end": "23:05",
+          "start": "22:50",
+          "end": "23:40",
           "course": "e190",
           "unit": "e190-w12",
           "title": "ECE 190: Weeks 1-2 sheets, then the self-tests",
           "status": "planned",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "If you're too tired, skip it: it moves to Mon 4:00 pm"
         }
       ]
     },
@@ -1977,10 +1989,10 @@
       "blocks": [
         {
           "start": "09:00",
-          "end": "09:40",
+          "end": "09:30",
           "course": "m115",
           "unit": "m115-thm",
-          "title": "Math 115 theorems: chapters 1 and 2, read then recite",
+          "title": "Math 115 theorems: chapter 2 (System-Rank, homogeneous), recite from memory",
           "status": "planned",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
@@ -2407,6 +2419,17 @@
       "kind": "exam",
       "blocks": [
         {
+          "start": "16:00",
+          "end": "16:20",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall of the theorem map (page 2), check the ones you blank on",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
+        {
           "start": "17:00",
           "end": "18:30",
           "course": "e150",
@@ -2440,6 +2463,17 @@
       "date": "2026-10-21",
       "kind": "exam",
       "blocks": [
+        {
+          "start": "09:30",
+          "end": "09:50",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, chapter 3 inverse rules",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
         {
           "start": "10:00",
           "end": "10:50",
@@ -2485,6 +2519,17 @@
       "date": "2026-10-22",
       "kind": "exam",
       "blocks": [
+        {
+          "start": "09:30",
+          "end": "09:50",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
         {
           "start": "10:00",
           "end": "10:50",
@@ -2538,6 +2583,17 @@
           "unit": "m115-pass2",
           "title": "Math 115: redo the Sample 1 diagnostic misses from blank",
           "status": "planned"
+        },
+        {
+          "start": "20:30",
+          "end": "20:50",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, chapters 1-2",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
         }
       ]
     },
@@ -2545,6 +2601,17 @@
       "date": "2026-10-24",
       "kind": "exam",
       "blocks": [
+        {
+          "start": "07:40",
+          "end": "08:00",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall before the inverses blocks",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
         {
           "start": "08:00",
           "end": "08:50",
