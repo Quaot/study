@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:42:01-04:00",
+  "updated": "2026-10-17T16:42:18-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2258,17 +2258,6 @@
           "note": "Moved to 10-18 09:40"
         },
         {
-          "start": "14:20",
-          "end": "14:50",
-          "course": "e150",
-          "unit": "e150-diag",
-          "status": "now",
-          "title": "Mark the F23 diagnostic (type wrong code in and run it), send Claude every miss",
-          "doc": "ECE 150 - F23 final (midterm topics).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1017/ECE%20150%20-%20F23%20final%20%28midterm%20topics%29.pdf"
-        },
-        {
           "start": "14:50",
           "end": "15:40",
           "course": "m117",
@@ -2279,18 +2268,6 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
           "note": "Moved to the 'if time' pool (limits Blocks 3 and the diagnostic show what's left)"
-        },
-        {
-          "start": "15:10",
-          "end": "16:00",
-          "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
-          "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
         },
         {
           "start": "15:10",
@@ -2319,8 +2296,19 @@
           "course": "m117",
           "unit": "m117-pass2",
           "title": "Math 117 Pass 2: trig, hyperbolic, Heaviside, inequality, partial fractions misses",
-          "status": "planned",
-          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
+          "status": "moved",
+          "note": "Merged into Sun 8:50 Math 117 Pass 2"
+        },
+        {
+          "start": "16:45",
+          "end": "17:15",
+          "course": "e150",
+          "unit": "e150-diag",
+          "status": "now",
+          "title": "Mark the F23 diagnostic (type wrong code in and run it), send Claude every miss",
+          "doc": "ECE 150 - F23 final (midterm topics).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1017/ECE%20150%20-%20F23%20final%20%28midterm%20topics%29.pdf"
         },
         {
           "start": "16:50",
@@ -2332,23 +2320,23 @@
           "note": "Moved to Sun 8:50 (merged)"
         },
         {
-          "start": "17:00",
-          "end": "17:40",
+          "start": "17:20",
+          "end": "18:10",
+          "course": "m117",
+          "unit": "m117-pap",
+          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
+        },
+        {
+          "start": "18:10",
+          "end": "18:50",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
-        },
-        {
-          "start": "17:40",
-          "end": "18:30",
-          "course": "e150",
-          "unit": "e150-var",
-          "title": "ECE 150: variables, expressions, conditionals, Block 1",
-          "status": "planned",
-          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Friday"
         },
         {
           "start": "18:20",
@@ -2366,15 +2354,28 @@
           "end": "19:30",
           "course": "e150",
           "unit": "e150-bit",
-          "status": "planned",
+          "status": "moved",
           "title": "ECE 150: bitwise and integer types pack, Block 2, then mark",
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
+          "note": "Moved to Mon 2:00 pm"
         },
         {
-          "start": "19:40",
-          "end": "20:30",
+          "start": "18:50",
+          "end": "19:40",
+          "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 1",
+          "status": "planned",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
+          "note": "Moved from Friday"
+        },
+        {
+          "start": "19:50",
+          "end": "20:40",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: count, then pattern",
@@ -2396,8 +2397,8 @@
           "note": "Moved to Tue 9:00 pm (short)"
         },
         {
-          "start": "20:40",
-          "end": "21:30",
+          "start": "20:50",
+          "end": "21:40",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
@@ -2575,19 +2576,20 @@
           "start": "14:00",
           "end": "14:50",
           "course": "e150",
-          "unit": "e150-reps",
-          "title": "ECE 150 code reps: every question missed this week, from blank",
+          "unit": "e150-bit",
           "status": "planned",
-          "doc": "ECE 150\\1 Lectures\\Examples",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
-          "note": "Moved from Sunday"
+          "title": "ECE 150: bitwise and integer types pack, Block 2, then mark",
+          "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
+          "note": "Moved from Saturday"
         },
         {
           "start": "15:00",
           "end": "15:50",
           "course": "e150",
           "unit": "e150-reps",
-          "title": "ECE 150 code reps: redo loops Q1, Q3, Q6 from blank, typed and compiled",
+          "title": "ECE 150 code reps: every question missed this week, incl. loops Q1, Q3, Q6, from blank",
           "status": "planned",
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
