@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T19:37:40-04:00",
+  "updated": "2026-10-16T20:14:01-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2153,6 +2153,14 @@
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
           "note": "Moved from Thursday"
+        },
+        {
+          "start": "20:20",
+          "end": "20:50",
+          "course": "e190",
+          "unit": "e190-final",
+          "title": "ECE 190: reread Weeks 1-5 in full (28 min)",
+          "status": "done"
         },
         {
           "start": "21:00",
