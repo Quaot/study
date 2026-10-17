@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:44:11-04:00",
+  "updated": "2026-10-17T16:48:41-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2349,8 +2349,15 @@
           "note": "Moved to Sun 8:50 (merged)"
         },
         {
-          "start": "17:20",
-          "end": "18:10",
+          "start": "17:05",
+          "end": "17:45",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "now"
+        },
+        {
+          "start": "17:45",
+          "end": "18:35",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
@@ -2359,13 +2366,6 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
           "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
-        },
-        {
-          "start": "18:10",
-          "end": "18:50",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
         },
         {
           "start": "18:20",
@@ -2391,8 +2391,8 @@
           "note": "Moved to Mon 2:00 pm"
         },
         {
-          "start": "18:50",
-          "end": "19:40",
+          "start": "18:45",
+          "end": "19:35",
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
@@ -2403,8 +2403,8 @@
           "note": "Moved from Friday"
         },
         {
-          "start": "19:50",
-          "end": "20:40",
+          "start": "19:45",
+          "end": "20:35",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: count, then pattern",
@@ -2426,8 +2426,8 @@
           "note": "Moved to Tue 9:00 pm (short)"
         },
         {
-          "start": "20:50",
-          "end": "21:40",
+          "start": "20:45",
+          "end": "21:35",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
