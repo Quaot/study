@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T12:57:29-04:00",
+  "updated": "2026-10-17T16:42:01-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2237,12 +2237,13 @@
           "end": "14:10",
           "course": "e150",
           "unit": "e150-diag",
-          "status": "now",
+          "status": "done",
           "title": "ECE 150 DIAGNOSTIC: 2023 final, midterm-topic questions (28 marks), on paper, timed",
           "note": "Draw a line at 42 min (exam pace), keep going to 70 min. No compiler, no notes",
           "doc": "ECE 150 - F23 final (midterm topics).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1017/ECE%20150%20-%20F23%20final%20%28midterm%20topics%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1017/ECE%20150%20-%20F23%20final%20%28midterm%20topics%29.pdf",
+          "score": "Finished all 6 questions (to mark)"
         },
         {
           "start": "14:10",
@@ -2261,7 +2262,7 @@
           "end": "14:50",
           "course": "e150",
           "unit": "e150-diag",
-          "status": "planned",
+          "status": "now",
           "title": "Mark the F23 diagnostic (type wrong code in and run it), send Claude every miss",
           "doc": "ECE 150 - F23 final (midterm topics).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
