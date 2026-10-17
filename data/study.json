@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T11:00:15-04:00",
+  "updated": "2026-10-17T12:57:29-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2211,7 +2211,7 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: chapter 3, recite from memory",
-          "status": "now",
+          "status": "done",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
@@ -2226,18 +2226,6 @@
           "note": "Loops redo folded into Monday's code reps (redo loops Q1, Q3, Q6). Slot used for the F23 diagnostic"
         },
         {
-          "start": "11:50",
-          "end": "12:40",
-          "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
-          "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
-        },
-        {
           "start": "12:40",
           "end": "13:10",
           "course": "m115",
@@ -2245,11 +2233,11 @@
           "status": "planned"
         },
         {
-          "start": "13:10",
-          "end": "14:20",
+          "start": "13:00",
+          "end": "14:10",
           "course": "e150",
           "unit": "e150-diag",
-          "status": "planned",
+          "status": "now",
           "title": "ECE 150 DIAGNOSTIC: 2023 final, midterm-topic questions (28 marks), on paper, timed",
           "note": "Draw a line at 42 min (exam pace), keep going to 70 min. No compiler, no notes",
           "doc": "ECE 150 - F23 final (midterm topics).pdf",
@@ -2269,8 +2257,8 @@
           "note": "Moved to 10-18 09:40"
         },
         {
-          "start": "14:30",
-          "end": "15:00",
+          "start": "14:20",
+          "end": "14:50",
           "course": "e150",
           "unit": "e150-diag",
           "status": "planned",
@@ -2295,13 +2283,25 @@
           "start": "15:10",
           "end": "16:00",
           "course": "m117",
+          "unit": "m117-pap",
+          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
+        },
+        {
+          "start": "15:10",
+          "end": "16:00",
+          "course": "m117",
           "unit": "m117-lim",
           "title": "Math 117: limits pack, Block 3 (exam questions)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (limits and continuity).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
-          "note": "Moved from Friday (no paper)"
+          "note": "Moved to the if-time pool: the diagnostic-targeted block takes this slot"
         },
         {
           "start": "15:50",
