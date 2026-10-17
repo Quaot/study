@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:42:18-04:00",
+  "updated": "2026-10-17T16:44:11-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -533,6 +533,27 @@
       "topic": "fn",
       "why": "2026-10-15: functions/call stack Block 1 needed the answer key throughout (references vs values, tracing the stack)",
       "exam_retest": "Saturday Pass 2: functions Block 1 from blank, then the ECE 150 mock (Tue)",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "bit",
+      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons",
+      "exam_retest": "Mon bitwise Block 2, then the F24 mock",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "arr",
+      "why": "2026-10-17 F23 diagnostic: partition with a write index n, running sum (save the old value before overwriting), best-so-far starting at -infinity, bounds (k < cap, never cap - k at k = 0)",
+      "exam_retest": "Sunday Pass 2: redo F23 Q3, Q5, Q6 from blank",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "digits",
+      "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild",
+      "exam_retest": "Sunday Pass 2: redo F23 Q4 from blank",
       "status": "weak"
     }
   ],
@@ -2243,7 +2264,15 @@
           "doc": "ECE 150 - F23 final (midterm topics).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1017/ECE%20150%20-%20F23%20final%20%28midterm%20topics%29.pdf",
-          "score": "Finished all 6 questions (to mark)"
+          "score": "About 10/28 (36%) by the marking notes, in 100 min (exam pace is 42)",
+          "missed": [
+            "Q1 ~0.5/4 bitwise: only bit() attempted. Read bit k with (n >> k) & 1u. & binds weaker than >, so bracket it. set/flip/reset: save the old bit first, then | / ^ / & ~",
+            "Q2 ~2/6 waterloo: escaped the backslash, gave up on the rows. Plan with a table of spaces per row, then a spaces(count) helper",
+            "Q3 ~3/5 max common: nested loops and equality right. Start best at -infinity (not 0 or a1[0]), and the return type must be double. The '|| k == 0' test is wrong",
+            "Q4 ~1/4 round3: no sign handling, fixed 2-pass loop only works for 5 digits, '=' instead of '=='. Plan: strip the sign, divide until 4 digits counting a power of 10, round on the last digit, rebuild",
+            "Q5 ~2/5 partition: a swap helper is good, but the nested whiles never end and arr[cap - k] is out of bounds at k = 0. Pattern: n = next box for a true entry, swap arr[k] into arr[n], ++n",
+            "Q6 ~1.5/4 scan: lost arr[0] (read arr[k+1] after overwriting) and k < cap - 1 skips the last. Save the old value before overwriting, loop k < cap, return the total"
+          ]
         },
         {
           "start": "14:10",
@@ -2304,7 +2333,7 @@
           "end": "17:15",
           "course": "e150",
           "unit": "e150-diag",
-          "status": "now",
+          "status": "done",
           "title": "Mark the F23 diagnostic (type wrong code in and run it), send Claude every miss",
           "doc": "ECE 150 - F23 final (midterm topics).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-17 - ECE 150 F23 final (midterm topics).pdf",
@@ -2441,7 +2470,7 @@
           "end": "11:30",
           "course": "e150",
           "unit": "e150-pass2",
-          "title": "ECE 150 Pass 2: functions Block 1 from blank (no key), then F23 diagnostic misses",
+          "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
           "status": "planned",
           "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
