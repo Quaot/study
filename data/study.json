@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:42:12-04:00",
+  "updated": "2026-10-18T13:42:58-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2488,11 +2488,14 @@
         {
           "start": "13:45",
           "end": "14:35",
-          "course": "e150",
-          "unit": "e150-pass2",
-          "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
-          "status": "planned",
-          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
+          "course": "m117",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "status": "now",
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
+          "note": "Moved from Saturday (log differentiation was 0/4 on the diagnostic)"
         },
         {
           "start": "13:50",
@@ -2627,14 +2630,11 @@
         {
           "start": "19:55",
           "end": "20:45",
-          "course": "m117",
-          "unit": "m117-l15",
-          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "course": "e150",
+          "unit": "e150-pass2",
+          "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
-          "note": "Moved from Saturday (log differentiation was 0/4 on the diagnostic)"
+          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
         {
           "start": "20:30",
