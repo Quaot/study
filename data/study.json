@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:54:31-04:00",
+  "updated": "2026-10-18T10:58:59-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2473,20 +2473,20 @@
           "note": "Moved to the if-time pool"
         },
         {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "11:00",
+          "end": "11:50",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
-          "status": "planned",
+          "status": "now",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
           "note": "Moved from Saturday. Includes the Math 117 Pass 2 misses"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "12:00",
+          "end": "12:50",
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
@@ -2497,8 +2497,8 @@
           "note": "Moved from Saturday (log differentiation was 0/4 on the diagnostic)"
         },
         {
-          "start": "12:00",
-          "end": "12:50",
+          "start": "13:00",
+          "end": "13:50",
           "course": "e150",
           "unit": "e150-pass2",
           "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
@@ -2506,15 +2506,15 @@
           "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
         {
-          "start": "12:50",
-          "end": "13:20",
+          "start": "13:50",
+          "end": "14:20",
           "course": "m115",
           "title": "Lunch",
           "status": "planned"
         },
         {
-          "start": "13:20",
-          "end": "14:10",
+          "start": "14:20",
+          "end": "15:10",
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
@@ -2537,8 +2537,8 @@
           "note": "Moved to Tue 4:00 pm (drill)"
         },
         {
-          "start": "14:20",
-          "end": "15:10",
+          "start": "15:20",
+          "end": "16:10",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset: count and pattern",
@@ -2559,8 +2559,8 @@
           "note": "Moved to 10-19 14:00"
         },
         {
-          "start": "15:20",
-          "end": "16:10",
+          "start": "16:20",
+          "end": "17:10",
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset: swap_bytes, full tests, submit if done",
@@ -2581,8 +2581,8 @@
           "note": "Moved to 10-19 15:00"
         },
         {
-          "start": "16:20",
-          "end": "17:50",
+          "start": "17:20",
+          "end": "18:50",
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
@@ -2605,8 +2605,8 @@
           "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
         },
         {
-          "start": "17:50",
-          "end": "18:30",
+          "start": "18:50",
+          "end": "19:30",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
@@ -2624,8 +2624,8 @@
           "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
         },
         {
-          "start": "18:30",
-          "end": "19:20",
+          "start": "19:30",
+          "end": "20:20",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm questions, part 1 (in the F23/F24 pack, do ONLY the F23 ones)",
@@ -2636,8 +2636,8 @@
           "note": "Moved from Friday (no paper)"
         },
         {
-          "start": "19:30",
-          "end": "20:20",
+          "start": "20:30",
+          "end": "21:20",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm questions, part 2, then mark",
