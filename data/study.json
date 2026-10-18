@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T13:42:58-04:00",
+  "updated": "2026-10-18T13:43:48-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2520,13 +2520,10 @@
           "start": "14:45",
           "end": "15:35",
           "course": "e150",
-          "unit": "e150-var",
-          "title": "ECE 150: variables, expressions, conditionals, Block 1",
+          "unit": "e150-pass2",
+          "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
           "status": "planned",
-          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Saturday"
+          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
         {
           "start": "15:10",
@@ -2543,11 +2540,12 @@
           "start": "15:45",
           "end": "16:35",
           "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset: count and pattern",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 1",
           "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
           "note": "Moved from Saturday"
         },
         {
@@ -2566,11 +2564,11 @@
           "end": "17:35",
           "course": "e150",
           "unit": "e150-mar",
-          "title": "Marmoset: swap_bytes, full tests, submit if done",
+          "title": "Marmoset: count and pattern",
           "status": "planned",
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue Oct 20. Submit today"
+          "note": "Moved from Saturday"
         },
         {
           "start": "17:10",
@@ -2586,15 +2584,14 @@
         },
         {
           "start": "17:45",
-          "end": "19:15",
-          "course": "e190",
-          "unit": "e190-aid",
-          "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
+          "end": "18:35",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset: swap_bytes, full tests, submit if done",
           "status": "planned",
-          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
-          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Due Tue Oct 20. Submit today"
         },
         {
           "start": "18:10",
@@ -2609,11 +2606,16 @@
           "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
         },
         {
-          "start": "19:15",
-          "end": "19:55",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
+          "start": "18:45",
+          "end": "20:15",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
+          "status": "planned",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
         },
         {
           "start": "19:30",
@@ -2628,13 +2630,11 @@
           "note": "Moved to Mon 4:00 pm"
         },
         {
-          "start": "19:55",
-          "end": "20:45",
-          "course": "e150",
-          "unit": "e150-pass2",
-          "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
-          "status": "planned",
-          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
+          "start": "20:15",
+          "end": "20:55",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
         },
         {
           "start": "20:30",
