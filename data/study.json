@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:48:41-04:00",
+  "updated": "2026-10-18T00:16:38-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2353,7 +2353,7 @@
           "end": "17:45",
           "course": "m115",
           "title": "Dinner",
-          "status": "now"
+          "status": "done"
         },
         {
           "start": "17:45",
@@ -2361,11 +2361,11 @@
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Questions: 19F MT Q2(a), Tutorial 3 Q6, 2021F MT Q1, 19F MT Q3 solo, Problem Set 5 Q18, 19F MT Q6. No F24 questions (F24 is Monday's mock)"
+          "note": "Moved to Sunday (ECE 198 group work took the evening)"
         },
         {
           "start": "18:20",
@@ -2377,6 +2377,13 @@
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
           "note": "Moved to Mon 2:00 pm (code reps)"
+        },
+        {
+          "start": "18:30",
+          "end": "21:00",
+          "course": "e198",
+          "title": "ECE 198 group assignment (pitch script: Symmetry Step, GlideTrack)",
+          "status": "done"
         },
         {
           "start": "18:40",
@@ -2396,11 +2403,11 @@
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Friday"
+          "note": "Moved to Sunday (ECE 198 group work took the evening)"
         },
         {
           "start": "19:45",
@@ -2408,10 +2415,10 @@
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset project: count, then pattern",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Moved from Friday"
+          "note": "Moved to Sunday (ECE 198 group work took the evening)"
         },
         {
           "start": "20:20",
@@ -2431,11 +2438,11 @@
           "course": "m117",
           "unit": "m117-l15",
           "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
-          "note": "Moved from Friday (no paper)"
+          "note": "Moved to Sunday (ECE 198 group work took the evening)"
         }
       ]
     },
@@ -2450,8 +2457,8 @@
           "course": "m117",
           "unit": "m117-pass2",
           "title": "Math 117 Pass 2: derivatives, conics, limits misses",
-          "status": "planned",
-          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
+          "status": "moved",
+          "note": "Moved to merged into the 10:00 targeted block"
         },
         {
           "start": "09:40",
@@ -2459,15 +2466,39 @@
           "course": "m117",
           "unit": "m117-lim",
           "title": "Math 117: limits pack, Block 5 (continuity and IVT), then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (limits and continuity).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-12 - Limits and continuity.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/Math%20117%20-%20Exam%20pack%20%28limits%20and%20continuity%29.pdf",
-          "note": "Moved from Saturday"
+          "note": "Moved to the if-time pool"
         },
         {
-          "start": "10:40",
-          "end": "11:30",
+          "start": "10:00",
+          "end": "10:50",
+          "course": "m117",
+          "unit": "m117-pap",
+          "title": "Math 117 targeted (from your diagnostic): amplitude-phase in a range, |A| > B inequalities, two-root IVT, tangent from an outside point",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Moved from Saturday. Includes the Math 117 Pass 2 misses"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m117",
+          "unit": "m117-l15",
+          "title": "Math 117: Lecture 15 derivatives (log diff, MVT), Block 2, then mark",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (Lecture 15 derivatives).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-09 - Lecture 15 derivatives.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/Math%20117%20-%20Exam%20pack%20%28Lecture%2015%20derivatives%29.pdf",
+          "note": "Moved from Saturday (log differentiation was 0/4 on the diagnostic)"
+        },
+        {
+          "start": "12:00",
+          "end": "12:50",
           "course": "e150",
           "unit": "e150-pass2",
           "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
@@ -2475,34 +2506,23 @@
           "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
         },
         {
-          "start": "11:40",
-          "end": "12:50",
-          "course": "e150",
-          "unit": "e150-mar",
-          "title": "Marmoset project: part 4, run the tests, submit",
-          "status": "planned",
-          "doc": "ECE_150_Project_2_specifications.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue Oct 20. Submit today"
-        },
-        {
           "start": "12:50",
-          "end": "13:10",
+          "end": "13:20",
           "course": "m115",
           "title": "Lunch",
           "status": "planned"
         },
         {
-          "start": "13:10",
-          "end": "14:00",
-          "course": "e190",
-          "unit": "e190-aid",
-          "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
+          "start": "13:20",
+          "end": "14:10",
+          "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 1",
           "status": "planned",
-          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
-          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
+          "note": "Moved from Saturday"
         },
         {
           "start": "14:10",
@@ -2510,22 +2530,22 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: the 30-question 'Which must be true?' drill",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved to Tue 4:00 pm (drill)"
         },
         {
-          "start": "15:10",
-          "end": "16:00",
-          "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117: F23 midterm questions, part 1 (in the F23/F24 pack, do ONLY the F23 ones)",
+          "start": "14:20",
+          "end": "15:10",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset: count and pattern",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Moved from Friday (no paper)"
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Moved from Saturday"
         },
         {
           "start": "15:10",
@@ -2539,16 +2559,15 @@
           "note": "Moved to 10-19 14:00"
         },
         {
-          "start": "16:10",
-          "end": "17:00",
-          "course": "m117",
-          "unit": "m117-pap",
-          "title": "Math 117: F23 midterm questions, part 2, then mark",
+          "start": "15:20",
+          "end": "16:10",
+          "course": "e150",
+          "unit": "e150-mar",
+          "title": "Marmoset: swap_bytes, full tests, submit if done",
           "status": "planned",
-          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Moved from Friday (no paper)"
+          "doc": "ECE_150_Project_2_specifications.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
+          "note": "Due Tue Oct 20. Submit today"
         },
         {
           "start": "16:10",
@@ -2562,15 +2581,35 @@
           "note": "Moved to 10-19 15:00"
         },
         {
+          "start": "16:20",
+          "end": "17:50",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: finish copying (readable pages 5-16), add one line per chart, split the STAGES box one stage per line",
+          "status": "planned",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
+        },
+        {
           "start": "17:10",
           "end": "18:00",
           "course": "m115",
           "unit": "m115-s1",
           "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Block 1 (multiple choice + Q7)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
+        },
+        {
+          "start": "17:50",
+          "end": "18:30",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
         },
         {
           "start": "18:10",
@@ -2578,10 +2617,35 @@
           "course": "m115",
           "unit": "m115-s1",
           "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
+        },
+        {
+          "start": "18:30",
+          "end": "19:20",
+          "course": "m117",
+          "unit": "m117-pap",
+          "title": "Math 117: F23 midterm questions, part 1 (in the F23/F24 pack, do ONLY the F23 ones)",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Moved from Friday (no paper)"
+        },
+        {
+          "start": "19:30",
+          "end": "20:20",
+          "course": "m117",
+          "unit": "m117-pap",
+          "title": "Math 117: F23 midterm questions, part 2, then mark",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
+          "note": "Moved from Friday (no paper)"
         },
         {
           "start": "19:30",
@@ -2589,11 +2653,11 @@
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 2, then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Friday"
+          "note": "Moved to Mon 4:00 pm"
         }
       ]
     },
@@ -2622,6 +2686,18 @@
           "status": "planned",
           "doc": "ECE 150\\1 Lectures\\Examples",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\1 Lectures\\Examples",
+          "note": "Moved from Sunday"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 2, then mark",
+          "status": "planned",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
           "note": "Moved from Sunday"
         },
         {
@@ -2663,11 +2739,11 @@
       "kind": "exam",
       "blocks": [
         {
-          "start": "16:00",
-          "end": "16:20",
+          "start": "15:40",
+          "end": "16:40",
           "course": "m115",
           "unit": "m115-thm",
-          "title": "Math 115 theorems: 20-min recall of the theorem map (page 2), check the ones you blank on",
+          "title": "Math 115 theorems: the 30-question 'Which must be true?' drill, then the map",
           "status": "planned",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
@@ -2838,8 +2914,32 @@
           "start": "18:00",
           "end": "18:50",
           "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Block 1 (multiple choice + Q7)",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved from Sun Oct 18 (Math 117 and ECE 150 first)"
+        },
+        {
+          "start": "19:00",
+          "end": "20:15",
+          "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
+          "status": "planned",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved from Sun Oct 18 (Math 117 and ECE 150 first)"
+        },
+        {
+          "start": "20:25",
+          "end": "21:15",
+          "course": "m115",
           "unit": "m115-pass2",
-          "title": "Math 115: redo the Sample 1 diagnostic misses from blank",
+          "title": "Math 115: redo the Sample 1 diagnostic misses (start them)",
           "status": "planned"
         },
         {
