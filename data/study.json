@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:16:38-04:00",
+  "updated": "2026-10-18T00:30:32-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2754,20 +2754,20 @@
           "end": "18:30",
           "course": "e150",
           "unit": "e150-mock",
-          "title": "ECE 150 MOCK: F24 midterm, 90 min, on paper, timed",
+          "title": "ECE 150 MOCK: F25 midterm (clean paper), 90 min, on paper, timed",
           "status": "planned",
-          "doc": "F24-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
+          "doc": "ECE 150 F25 midterm - clean mock paper.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - clean mock paper.pdf"
         },
         {
           "start": "18:40",
           "end": "19:30",
           "course": "e150",
           "unit": "e150-mock",
-          "title": "Mark the ECE 150 mock, type in wrong code and run it",
+          "title": "Mark the ECE 150 mock with the F25 answer key, type in wrong code and run it",
           "status": "planned",
-          "doc": "F24-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
+          "doc": "ECE 150 F25 midterm - answer key (open after the mock).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - answer key (open after the mock).pdf"
         },
         {
           "start": "19:40",
@@ -3500,7 +3500,7 @@
         },
         {
           "id": "e150-mock",
-          "title": "Mock: F24 midterm",
+          "title": "Mock: F25 midterm (newest)",
           "kind": "mock"
         },
         {
