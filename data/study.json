@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T23:50:20-04:00",
+  "updated": "2026-10-19T11:08:48-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2681,10 +2681,11 @@
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset: count and pattern",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue 11:59 pm. If you have class, move this after it"
+          "note": "Due Tue 11:59 pm. If you have class, move this after it",
+          "score": "Finished Sun night (count fixed)"
         },
         {
           "start": "11:00",
@@ -2692,10 +2693,11 @@
           "course": "e150",
           "unit": "e150-mar",
           "title": "Marmoset: swap_bytes, full tests, submit if done",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE_150_Project_2_specifications.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\ECE_150_Project_2_specifications.pdf",
-          "note": "Due Tue Oct 20. Submit today"
+          "note": "Due Tue Oct 20. Submit today",
+          "score": "Finished Sun night (count fixed)"
         },
         {
           "start": "13:00",
