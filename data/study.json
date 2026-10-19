@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T11:08:48-04:00",
+  "updated": "2026-10-19T18:22:08-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -538,21 +538,21 @@
     {
       "course": "e150",
       "topic": "bit",
-      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons",
+      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons | 2026-10-19 Pass 2: redone correctly from blank",
       "exam_retest": "Mon bitwise Block 2, then the F24 mock",
       "status": "weak"
     },
     {
       "course": "e150",
       "topic": "arr",
-      "why": "2026-10-17 F23 diagnostic: partition with a write index n, running sum (save the old value before overwriting), best-so-far starting at -infinity, bounds (k < cap, never cap - k at k = 0)",
+      "why": "2026-10-17 F23 diagnostic: partition with a write index n, running sum (save the old value before overwriting), best-so-far starting at -infinity, bounds (k < cap, never cap - k at k = 0) | 2026-10-19 Pass 2: redone correctly from blank",
       "exam_retest": "Sunday Pass 2: redo F23 Q3, Q5, Q6 from blank",
       "status": "weak"
     },
     {
       "course": "e150",
       "topic": "digits",
-      "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild",
+      "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild | 2026-10-19 Pass 2: redone correctly from blank",
       "exam_retest": "Sunday Pass 2: redo F23 Q4 from blank",
       "status": "weak"
     }
@@ -2705,8 +2705,9 @@
           "course": "e150",
           "unit": "e150-pass2",
           "title": "ECE 150 Pass 2: redo F23 diagnostic Q1, Q4, Q5, Q6 from blank (after reading the solutions tonight), then functions Block 1",
-          "status": "planned",
-          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check."
+          "status": "done",
+          "note": "From the error log on this site: redo every missed question from blank, no notes. Then check.",
+          "score": "F23 Q1, Q4, Q5, Q6 redone from blank on paper: all correct. Q6 (scan) still not fully understood"
         },
         {
           "start": "14:00",
