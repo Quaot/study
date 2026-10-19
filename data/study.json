@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T22:27:41-04:00",
+  "updated": "2026-10-18T23:50:20-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2662,11 +2662,12 @@
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: finish copying (1 hour, then sleep)",
-          "status": "now",
+          "status": "done",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
-          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten"
+          "note": "Put every sample-question miss from Friday on it first, then the exact-wording lists. One 8.5x11 sheet, both sides, handwritten",
+          "score": "Copied up to page 6 of the readable version (pages 7-16 left)"
         }
       ]
     },
