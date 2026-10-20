@@ -288,7 +288,9 @@
       const all = [];
       D.days.forEach(d => d.blocks.forEach(b => { if (b.unit && b.status !== 'moved') all.push({ date: d.date, b }); }));
       const lastExam = D.roadmap.reduce((m, r) => r.exam > m ? r.exam : m, today);
-      const first = iso(new Date(parse(today) - 2 * DAY));
+      // Start at the first day with any road block, so you can scroll back through everything done.
+      const firstBlock = all.reduce((m, x) => x.date < m ? x.date : m, today);
+      const first = firstBlock < today ? firstBlock : iso(new Date(parse(today) - 2 * DAY));
       const dates = [];
       for (let t = parse(first); iso(t) <= lastExam; t = new Date(t.getTime() + DAY)) dates.push(iso(t));
       const road = $('[data-road]');
@@ -335,6 +337,13 @@
         cols.push(`<div class="ucol" style="--c:${c.color}"><h4>${esc(c.code)}</h4><div class="when">New content done <b>${esc(fmtDate(finish))}</b>${mock ? ` · mock <b>${esc(fmtDate(mock.date))}</b>` : ''} · exam <b>${esc(fmtDate(r.exam))}, ${esc(r.time)}</b></div>${units}</div>`);
       }
       road.innerHTML = out.join('');
+      road.style.minWidth = `${150 + dates.length * 40}px`;
+      // Open the grid scrolled so today sits near the left, with a couple of past days visible.
+      const sc = road.parentElement, th = road.querySelector('.rh.today');
+      if (th && !sc.dataset.scrolled) {
+        sc.scrollLeft = Math.max(0, th.offsetLeft - 150 - 2 * th.offsetWidth);
+        sc.dataset.scrolled = '1';
+      }
       $('[data-units]').innerHTML = cols.join('');
       const allWork = all.filter(x => !x.b.unit.endsWith('-exam'));
       const doneAll = allWork.filter(x => x.b.status === 'done').length;

@@ -237,6 +237,9 @@ table.log { width: 100%; border-collapse: collapse; font-size: 15px; }
 .road-head .stat.late b { color: var(--accent); }
 .road-scroll { overflow-x: auto; -webkit-overflow-scrolling: touch; padding-bottom: 6px; }
 .road { display: grid; gap: 3px; min-width: 760px; }
+.road .rl { position: sticky; left: 0; z-index: 1; }
+.road > div:first-child { position: sticky; left: 0; z-index: 1; background: var(--bg); }
+.road-hint { font-size: 12.5px; color: var(--muted); margin: 0 0 6px; }
 .road .rh { font-size: 11px; text-transform: uppercase; letter-spacing: .08em; color: var(--muted); text-align: center; padding: 4px 0; line-height: 1.25; cursor: pointer; border: 0; background: none; }
 .road .rh b { display: block; font-family: var(--serif); font-size: 20px; font-weight: 400; color: var(--fg); letter-spacing: 0; }
 .road .rh.today { background: var(--fg); color: var(--bg); }
