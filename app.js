@@ -343,6 +343,83 @@
         <div class="stat ${lateTotal ? 'late' : 'ok'}"><b>${lateTotal ? `${lateTotal} block${lateTotal === 1 ? '' : 's'} behind` : 'On schedule'}</b><span>${lateTotal ? 'Missed blocks need a new slot. Tell Claude' : 'Nothing missed so far'}</span></div>
         <div class="stat"><b>${doneAll} / ${allWork.length}</b><span>Blocks done on the road to the exams</span></div>`;
     };
+    // ---------- exam cards: when, where, seat; click to open that day ----------
+    const renderExams = () => {
+      if (!D.roadmap) return;
+      const mapUrl = room => `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(room.split(' ')[0] + ' building University of Waterloo')}`;
+      $('[data-exams]').innerHTML = D.roadmap.map(r => {
+        const c = courses[r.course], n = daysBetween(today, r.exam);
+        const when = n < 0 ? 'done' : n === 0 ? 'today' : n === 1 ? 'tomorrow' : `in ${n} days`;
+        const room = r.room && r.room !== 'TBA'
+          ? `<a class="room" href="${mapUrl(r.room)}" target="_blank" rel="noopener" title="Open the building on a map">${esc(r.room)}</a>${r.seat ? ` · seat <b>${esc(r.seat)}</b>` : ''}`
+          : `<a class="room" href="https://odyssey.uwaterloo.ca/teaching/schedule" target="_blank" rel="noopener">Room TBA, check Odyssey</a>`;
+        return `<div class="exam${n < 0 ? ' past' : ''}" style="--c:${c.color};--on:${onColour(c.color)}">
+          <button class="ex-day" data-date="${r.exam}" title="Open this day's plan">
+            <span class="ex-code">${esc(c.code)}</span>
+            <span class="ex-when">${esc(fmtDate(r.exam, { weekday: 'short', month: 'short', day: 'numeric' }))}, ${esc(r.time)}${r.end ? '–' + esc(r.end) : ''}</span>
+            <span class="ex-count">${esc(when)}</span>
+          </button>
+          <div class="ex-room">${room}</div></div>`;
+      }).join('');
+    };
+    $('[data-exams]').addEventListener('click', e => {
+      const b = e.target.closest('.ex-day'); if (!b) return;
+      selected = b.dataset.date; renderWeek(); renderPlan();
+      $('#today').scrollIntoView({ behavior: 'smooth' });
+    });
+
+    // ---------- what you've done: hours per day and per course, and a day-by-day history ----------
+    const notStudy = b => /^(Lunch|Dinner|Brunch|Break|Free)/.test(b.title) || /WaterlooWorks/i.test(b.title);
+    const renderDone = () => {
+      const done = [];
+      D.days.forEach(d => d.blocks.forEach(b => {
+        if (b.status === 'done' && !notStudy(b) && d.date <= today) done.push({ date: d.date, b, m: Math.max(0, mins(b.end) - mins(b.start)) });
+      }));
+      const sum = a => a.reduce((s, x) => s + x.m, 0);
+      const h = m => (m / 60).toFixed(1);
+      const t = parse(today), mon = iso(new Date(t - ((t.getDay() + 6) % 7) * DAY));
+      const week = done.filter(x => x.date >= mon);
+      $('[data-done-head]').innerHTML = `
+        <div class="stat"><b>${h(sum(done))} h</b><span>Focused hours logged in total</span></div>
+        <div class="stat"><b>${h(sum(week))} h</b><span>This week (since Monday)</span></div>
+        <div class="stat"><b>${done.length}</b><span>Blocks finished</span></div>`;
+      // last 14 days, stacked by course
+      const days14 = [];
+      for (let i = 13; i >= 0; i--) days14.push(iso(new Date(t - i * DAY)));
+      const per = days14.map(s => {
+        const xs = done.filter(x => x.date === s), by = {};
+        xs.forEach(x => { by[x.b.course] = (by[x.b.course] || 0) + x.m; });
+        return { s, by, tot: sum(xs) };
+      });
+      const max = Math.max(60, ...per.map(p => p.tot));
+      const legend = [...new Set(done.map(x => x.b.course))].map(id => `<span style="--k:${courses[id].color}">${esc(courses[id].code)} ${h(sum(done.filter(x => x.b.course === id)))} h</span>`).join('');
+      $('[data-hours]').innerHTML = `<div class="hbars">${per.map(p => `<button class="hb${p.s === today ? ' today' : ''}" data-date="${p.s}" title="${esc(fmtDate(p.s))}: ${h(p.tot)} h">
+          <span class="hv">${p.tot ? h(p.tot) : ''}</span>
+          <span class="hstack" style="height:${Math.round(100 * p.tot / max)}%">${Object.entries(p.by).map(([c, m]) => `<i style="flex:${m};background:${courses[c].color}"></i>`).join('')}</span>
+          <span class="hd">${esc(parse(p.s).toLocaleDateString('en-CA', { weekday: 'narrow' }))}<br>${parse(p.s).getDate()}</span></button>`).join('')}</div>
+        <div class="legend">${legend}</div>`;
+      // history, newest first
+      const dates = [...new Set(done.map(x => x.date))].sort().reverse();
+      $('[data-history]').innerHTML = dates.map((s, i) => {
+        const xs = done.filter(x => x.date === s).sort((a, b) => a.b.start < b.b.start ? -1 : 1);
+        return `<details class="hday"${i < 2 ? ' open' : ''}><summary><b>${esc(fmtDate(s, { weekday: 'long', month: 'short', day: 'numeric' }))}</b><span>${xs.length} blocks · ${h(sum(xs))} h</span></summary>
+          ${xs.map(x => `<div class="hrow" style="--c:${courses[x.b.course].color}"><span class="ht">${fmtTime(x.b.start)}</span><span class="sw"></span><span><b>${esc(courses[x.b.course].code)}</b> ${esc(x.b.title)}${x.b.score ? `<em class="hs"> · ${esc(x.b.score)}</em>` : ''}</span></div>`).join('')}</details>`;
+      }).join('') || '<div class="empty">Nothing logged yet.</div>';
+    };
+    $('[data-hours]').addEventListener('click', e => {
+      const b = e.target.closest('.hb'); if (!b) return;
+      selected = b.dataset.date; renderWeek(); renderPlan();
+      $('#today').scrollIntoView({ behavior: 'smooth' });
+    });
+
+    // ---------- week navigation ----------
+    document.querySelector('.weeknav').addEventListener('click', e => {
+      const b = e.target.closest('[data-wk]'); if (!b) return;
+      const k = +b.dataset.wk;
+      selected = k === 0 ? today : iso(new Date(parse(selected).getTime() + k * DAY));
+      renderWeek(); renderPlan();
+    });
+
     $('#road').addEventListener('click', e => {
       const el = e.target.closest('[data-date]'); if (!el) return;
       selected = el.dataset.date; renderWeek(); renderPlan();
@@ -360,7 +437,7 @@
     });
     label();
 
-    renderRoad(); renderWeek(); renderPlan(); renderCourses(); renderDue(); renderDeadlines(); renderLog();
+    renderExams(); renderRoad(); renderDone(); renderWeek(); renderPlan(); renderCourses(); renderDue(); renderDeadlines(); renderLog();
     tick(); setInterval(tick, 20e3); setInterval(renderRoad, 300e3);
   }
 })();

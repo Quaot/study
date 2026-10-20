@@ -276,6 +276,43 @@ table.log { width: 100%; border-collapse: collapse; font-size: 15px; }
 .unit .ud { font-size: 11.5px; color: var(--muted); white-space: nowrap; }
 .unit[data-s="late"] .ud { color: var(--accent); font-weight: 600; }
 
+/* ---- exam cards ---- */
+.exams { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: 4px; margin-bottom: 4px; }
+.exam { background: var(--card); border-top: 4px solid var(--c); display: flex; flex-direction: column; }
+.exam.past { opacity: .55; }
+.exam .ex-day { all: unset; cursor: pointer; padding: 14px 16px 8px; display: flex; flex-direction: column; gap: 2px; }
+.exam .ex-day:hover { background: var(--tile); }
+.exam .ex-day:focus-visible { outline: 2px solid var(--fg); outline-offset: -2px; }
+.exam .ex-code { font-size: 13px; font-weight: 600; letter-spacing: .06em; }
+.exam .ex-when { font-family: var(--serif); font-size: 21px; line-height: 1.15; }
+.exam .ex-count { font-size: 12px; color: var(--muted); text-transform: uppercase; letter-spacing: .08em; }
+.exam .ex-room { padding: 0 16px 14px; font-size: 13.5px; }
+.exam .room { color: var(--fg); text-decoration-color: var(--c); text-underline-offset: 3px; font-weight: 600; }
+
+/* ---- week navigation ---- */
+.weeknav { display: flex; gap: 8px; margin-bottom: 10px; flex-wrap: wrap; }
+.weeknav .pill { cursor: pointer; }
+
+/* ---- done: hours and history ---- */
+.hbars { display: grid; grid-template-columns: repeat(14, minmax(0, 1fr)); gap: 4px; height: 170px; align-items: end; margin-top: 4px; }
+.hb { all: unset; cursor: pointer; height: 100%; display: flex; flex-direction: column; justify-content: flex-end; align-items: stretch; text-align: center; }
+.hb:focus-visible { outline: 2px solid var(--fg); }
+.hb .hv { font-size: 11px; color: var(--muted); min-height: 15px; }
+.hb .hstack { display: flex; flex-direction: column-reverse; min-height: 2px; background: var(--line); }
+.hb .hstack i { display: block; min-height: 2px; }
+.hb .hd { font-size: 11px; color: var(--muted); padding-top: 4px; line-height: 1.2; }
+.hb.today .hd { color: var(--fg); font-weight: 600; }
+.hb:hover .hstack { filter: brightness(1.1); }
+.history { margin-top: 18px; display: grid; gap: 4px; }
+.hday { background: var(--card); padding: 0 16px; }
+.hday summary { cursor: pointer; display: flex; justify-content: space-between; gap: 12px; padding: 12px 0; list-style: none; }
+.hday summary::-webkit-details-marker { display: none; }
+.hday summary span { color: var(--muted); font-size: 13px; }
+.hrow { display: grid; grid-template-columns: 64px 10px minmax(0, 1fr); gap: 10px; align-items: baseline; padding: 6px 0; border-top: 1px solid var(--line); font-size: 13.5px; }
+.hrow .ht { color: var(--muted); font-size: 12px; }
+.hrow .sw { width: 10px; height: 10px; background: var(--c); align-self: center; }
+.hrow .hs { color: var(--muted); font-style: normal; font-family: var(--sans); }
+
 /* ---- footer ---- */
 .footer { margin-top: 140px; padding-bottom: 36px; }
 .say { font-family: var(--serif); font-size: clamp(36px, 6.4vw, 96px); line-height: .98; letter-spacing: -0.02em; margin: 0 0 40px; border-top: 1px solid var(--fg); padding-top: 32px; }
@@ -296,6 +333,7 @@ table.log { width: 100%; border-collapse: collapse; font-size: 15px; }
   .swatch:hover, .swatch.on { flex-grow: 1; }
   .topbar nav { gap: 14px; font-size: 12px; }
   .units { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .exams { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 @media (max-width: 640px) {
   .week { grid-template-columns: repeat(7, minmax(44px, 1fr)); }
@@ -316,6 +354,9 @@ table.log { width: 100%; border-collapse: collapse; font-size: 15px; }
   .topbar nav a:nth-child(n+4) { display: none; }
   .block.now::before { left: -12px; }
   .road-head { grid-template-columns: 1fr; }
+  .exams { grid-template-columns: 1fr; }
+  .hbars { height: 140px; gap: 2px; }
+  .hrow { grid-template-columns: 52px 10px minmax(0, 1fr); }
   .units { grid-template-columns: 1fr; }
 }
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; animation: none !important; } html { scroll-behavior: auto; } }

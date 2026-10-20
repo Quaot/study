@@ -2780,10 +2780,11 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorem map (page 2): recite it",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Folded into Tue 1:00 theorem drill"
         },
         {
           "start": "22:00",
@@ -3628,7 +3629,10 @@
           "title": "Midterm",
           "kind": "exam"
         }
-      ]
+      ],
+      "room": "RCH 307",
+      "seat": "A-1",
+      "end": "4:00 pm"
     },
     {
       "course": "m117",
@@ -3695,7 +3699,10 @@
           "title": "Midterm",
           "kind": "exam"
         }
-      ]
+      ],
+      "room": "STC 0040",
+      "seat": "F-14",
+      "end": "6:10 pm"
     },
     {
       "course": "e150",
@@ -3762,7 +3769,10 @@
           "title": "Midterm",
           "kind": "exam"
         }
-      ]
+      ],
+      "room": "EXP 1689",
+      "seat": "H-9",
+      "end": "4:00 pm"
     },
     {
       "course": "m115",
@@ -3824,7 +3834,10 @@
           "title": "Midterm",
           "kind": "exam"
         }
-      ]
+      ],
+      "room": "TBA",
+      "seat": "",
+      "end": "9:30 pm"
     },
     {
       "course": "e105",
@@ -3856,7 +3869,10 @@
           "title": "Midterm",
           "kind": "exam"
         }
-      ]
+      ],
+      "room": "TBA",
+      "seat": "",
+      "end": "6:20 pm"
     }
   ]
 }
