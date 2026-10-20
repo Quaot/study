@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T14:46:59-04:00",
+  "updated": "2026-10-20T15:04:54-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2901,6 +2901,14 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - answer key (open after the mock).pdf"
         },
         {
+          "start": "19:35",
+          "end": "20:20",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117 weak list (quadrant, +2k pi, Heaviside, exact values), short",
+          "status": "planned"
+        },
+        {
           "start": "19:40",
           "end": "20:30",
           "course": "m117",
@@ -2913,11 +2921,10 @@
           "note": "Merged into a full F23 paper on Wed 7:00 pm"
         },
         {
-          "start": "19:40",
-          "end": "20:30",
-          "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: weak list one last time (quadrant, +2k pi, Heaviside, conics)",
+          "start": "20:30",
+          "end": "21:30",
+          "course": "e198",
+          "title": "Bakfiets electrical session, 8:30 pm in the bay",
           "status": "planned"
         },
         {
@@ -2926,11 +2933,11 @@
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
-          "note": "Moved from Saturday"
+          "note": "Moved to Wed 10:50 (electrical session tonight)"
         }
       ]
     },
@@ -2958,8 +2965,20 @@
           "status": "planned"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "10:50",
+          "end": "11:15",
+          "course": "m117",
+          "unit": "m117-con",
+          "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (conic sections).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
+          "note": "Moved from Tuesday"
+        },
+        {
+          "start": "11:20",
+          "end": "12:10",
           "course": "e190",
           "unit": "e190-final",
           "title": "ECE 190: reread the sheets and your aid sheet",
