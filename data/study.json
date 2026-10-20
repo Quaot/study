@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:35:07-04:00",
+  "updated": "2026-10-20T19:48:24-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2941,7 +2941,8 @@
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117 weak list (quadrant, +2k pi, Heaviside, exact values), short",
-          "status": "planned"
+          "status": "moved",
+          "note": "Merged into Wed 10:00 Math 117 redo block"
         },
         {
           "start": "19:40",
@@ -2954,6 +2955,14 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
           "note": "Merged into a full F23 paper on Wed 7:00 pm"
+        },
+        {
+          "start": "19:45",
+          "end": "20:20",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: fix your own F25 mock answers in VS Code (Q5, Q9 first), compile and test",
+          "status": "now"
         },
         {
           "start": "20:30",
@@ -2993,10 +3002,10 @@
         },
         {
           "start": "10:00",
-          "end": "10:50",
+          "end": "11:00",
           "course": "m117",
           "unit": "m117-final",
-          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
           "status": "planned"
         },
         {
