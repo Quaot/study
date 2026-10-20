@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:51:54-04:00",
+  "updated": "2026-10-19T20:58:39-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -426,7 +426,7 @@
     {
       "course": "m117",
       "topic": "sinus",
-      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega) | 2026-10-15 diagnostic: dropped the sign of cos(alpha) again (4/6 lost with the range part). Write cos(alpha) = ..., sin(alpha) = ... WITH signs before picking alpha. For a range like (-pi, pi), list k = -2..2 and keep those inside",
+      "why": "Still weak (2026-10-11): picks the quadrant of the phase angle from one ratio. Use the signs of BOTH sin(alpha) and cos(alpha). Also forgets the general solution (+2k*pi/omega) | 2026-10-15 diagnostic: dropped the sign of cos(alpha) again (4/6 lost with the range part). Write cos(alpha) = ..., sin(alpha) = ... WITH signs before picking alpha. For a range like (-pi, pi), list k = -2..2 and keep those inside | 2026-10-19 F24 mock: correct",
       "exam_retest": "Sat targeted: 19F MT Q2(a), Tutorial 3 Q6, 2020F final Q1, 2022F final Q1",
       "status": "weak"
     },
@@ -461,7 +461,7 @@
     {
       "course": "m117",
       "topic": "ineq",
-      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it | 2026-10-13 retest: could not start 19F MT Q3 (tried squaring). Back to weak | 2026-10-15 diagnostic: mixed |A| > B (A > B or A < -B) with splitting at the zero of the inside. Pick one method and use it fully",
+      "why": "Retesting: Q1-Q3 right on 2026-10-11 (missed on 2026-10-03). One more clean result on another day clears it | 2026-10-13 retest: could not start 19F MT Q3 (tried squaring). Back to weak | 2026-10-15 diagnostic: mixed |A| > B (A > B or A < -B) with splitting at the zero of the inside. Pick one method and use it fully | 2026-10-19 F24 mock: correct",
       "exam_retest": "Sat targeted: 2021F MT Q1, 2025 review Q5, 19F MT Q3 solo",
       "status": "weak"
     },
@@ -510,14 +510,14 @@
     {
       "course": "m117",
       "topic": "tangent",
-      "why": "2026-10-15 diagnostic: tangent through a point NOT on the curve. Let the touching point be (a, f(a)), set f'(a) = (f(a) - y0)/(a - x0), solve for a",
+      "why": "2026-10-15 diagnostic: tangent through a point NOT on the curve. Let the touching point be (a, f(a)), set f'(a) = (f(a) - y0)/(a - x0), solve for a | 2026-10-19 F24 mock: correct",
       "exam_retest": "Problem Set 5 Q18 (partial fractions pack Block 4), F23/F24 pack implicit-tangent question (F23 only)",
       "status": "weak"
     },
     {
       "course": "m117",
       "topic": "logdiff",
-      "why": "2026-10-15 diagnostic 0/4: variable in both base and exponent (or a messy product) -> take ln of both sides first | 2026-10-15 L15 Block 1: inverse-function derivative method missing, implicit differentiation slip, stopped before the tangent equation",
+      "why": "2026-10-15 diagnostic 0/4: variable in both base and exponent (or a messy product) -> take ln of both sides first | 2026-10-15 L15 Block 1: inverse-function derivative method missing, implicit differentiation slip, stopped before the tangent equation | 2026-10-19 F24 mock: correct",
       "exam_retest": "Lecture 15 pack Blocks 1-2 (Thu 8:30 pm, Fri 7:40 pm)",
       "status": "weak"
     },
@@ -554,6 +554,13 @@
       "topic": "digits",
       "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild | 2026-10-19 Pass 2: redone correctly from blank",
       "exam_retest": "Sunday Pass 2: redo F23 Q4 from blank",
+      "status": "weak"
+    },
+    {
+      "course": "m117",
+      "topic": "invtrig",
+      "why": "2026-10-19 F24 mock 0/9 on exact values of inverse trig / hyperbolic compositions. Method: name the angle (theta = arcsin(3/5)), draw the right triangle, read off the other ratios, apply the identity (double angle), and fix the sign from the range of the inverse function",
+      "exam_retest": "Tue evening block, then Wed morning",
       "status": "weak"
     }
   ],
@@ -2750,7 +2757,11 @@
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F24-M.pdf",
           "note": "Formula sheet only. Exam conditions",
-          "score": "First pass: Q1(d) and Q3-Q6 all correct. Half marks on Q1(a)(b)(c), issues on Q2 (inverse trig/hyperbolic values, inequality, continuity). Detailed marking in progress"
+          "score": "56/68 (82%), strict marking. Up from 32/54 (59%) on the F25 diagnostic",
+          "missed": [
+            "Q1(a)-(c) 0/9: exact values of inverse trig / hyperbolic compositions (e.g. tan(2 arcsin(3/5))): draw the triangle, use the double-angle identity, check the sign from the range",
+            "Q2(b) 4/7: piecewise continuity write-up (reason per piece, both one-sided limits and f(a) at each break, conclusion)"
+          ]
         },
         {
           "start": "19:50",
@@ -2758,7 +2769,7 @@
           "course": "m117",
           "unit": "m117-mock",
           "title": "Mark the F24 mock with the F23/F24 pack solutions (the F24 ones), log every miss",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf"
         },
@@ -2850,7 +2861,7 @@
           "end": "21:30",
           "course": "m117",
           "unit": "m117-final",
-          "title": "Math 117: redo every mock miss from blank",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
           "status": "planned"
         },
         {
