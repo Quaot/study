@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:58:50-04:00",
+  "updated": "2026-10-19T21:01:49-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2757,10 +2757,11 @@
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F24-M.pdf",
           "note": "Formula sheet only. Exam conditions",
-          "score": "56/68 (82%), strict marking. Up from 32/54 (59%) on the F25 diagnostic",
+          "score": "54/68 (79%), strict. Up from 59% on the F25 diagnostic",
           "missed": [
             "Q1(a)-(c) 0/9: exact values of inverse trig / hyperbolic compositions (e.g. tan(2 arcsin(3/5))): draw the triangle, use the double-angle identity, check the sign from the range",
-            "Q2(b) 4/7: piecewise continuity write-up (reason per piece, both one-sided limits and f(a) at each break, conclusion)"
+            "Q2(b) 4/7: piecewise continuity write-up (reason per piece, both one-sided limits and f(a) at each break, conclusion)",
+            "Q6(a) 3/5: derivative of an inverse function, right answer without real understanding. Rule: (f^-1)'(a) = 1/f'(b) where f(b) = a; show f' > 0 for the inverse to exist"
           ]
         },
         {
@@ -2871,7 +2872,7 @@
           "end": "21:30",
           "course": "m117",
           "unit": "m117-final",
-          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
           "status": "planned"
         },
         {
