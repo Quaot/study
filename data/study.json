@@ -2791,6 +2791,15 @@
       "kind": "exam",
       "blocks": [
         {
+          "start": "10:00",
+          "end": "11:30",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: finish copying (readable pages 7-16), then one line per chart",
+          "status": "planned",
+          "note": "Exam is Wed 3:00. If you have class, do it right after"
+        },
+        {
           "start": "13:00",
           "end": "13:50",
           "course": "m115",
