@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T15:04:54-04:00",
+  "updated": "2026-10-20T16:38:20-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2859,7 +2859,8 @@
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: side 2 (readable pages 9-16), finish it",
-          "status": "now"
+          "status": "done",
+          "score": "Side 2 up to half of readable page 11"
         },
         {
           "start": "15:00",
@@ -2878,7 +2879,7 @@
           "end": "16:55",
           "course": "m115",
           "title": "Break before the mock",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "17:00",
@@ -2886,7 +2887,7 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150 MOCK: F25 midterm (clean paper), 90 min, on paper, timed",
-          "status": "planned",
+          "status": "now",
           "doc": "ECE 150 F25 midterm - clean mock paper.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - clean mock paper.pdf"
         },
@@ -2978,10 +2979,10 @@
         },
         {
           "start": "11:20",
-          "end": "12:10",
+          "end": "12:40",
           "course": "e190",
           "unit": "e190-final",
-          "title": "ECE 190: reread the sheets and your aid sheet",
+          "title": "ECE 190: finish the aid sheet (readable pages 11-16), then skim it once",
           "status": "planned",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
