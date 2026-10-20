@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:03:02-04:00",
+  "updated": "2026-10-19T21:03:22-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2872,7 +2872,7 @@
           "end": "20:30",
           "course": "m117",
           "unit": "m117-final",
-          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
+          "title": "Math 117: weak list one last time (quadrant, +2k pi, Heaviside, conics)",
           "status": "planned"
         },
         {
@@ -2909,7 +2909,7 @@
           "end": "10:50",
           "course": "m117",
           "unit": "m117-final",
-          "title": "Math 117: weak list one last time (quadrant, +2k pi, Heaviside, conics)",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
           "status": "planned"
         },
         {
