@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:03:22-04:00",
+  "updated": "2026-10-19T21:05:49-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2792,8 +2792,17 @@
       "kind": "exam",
       "blocks": [
         {
-          "start": "10:00",
-          "end": "11:30",
+          "start": "10:30",
+          "end": "11:20",
+          "course": "m115",
+          "unit": "m115-pass2",
+          "title": "Math 115 tutorial (sections 2.3-3.3): rank, homogeneous systems, matrix operations",
+          "status": "planned",
+          "note": "Good review for the midterm. Bring your theorem map questions"
+        },
+        {
+          "start": "11:30",
+          "end": "12:55",
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: finish copying (readable pages 7-16), then one line per chart",
