@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T22:07:23-04:00",
+  "updated": "2026-10-20T14:46:59-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2801,7 +2801,7 @@
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: continue copying (readable pages 7-16)",
-          "status": "now"
+          "status": "done"
         }
       ]
     },
@@ -2815,8 +2815,9 @@
           "course": "m115",
           "unit": "m115-pass2",
           "title": "Math 115 tutorial (sections 2.3-3.3): rank, homogeneous systems, matrix operations",
-          "status": "planned",
-          "note": "Good review for the midterm. Bring your theorem map questions"
+          "status": "done",
+          "note": "Good review for the midterm. Bring your theorem map questions",
+          "score": "Went well, understood everything"
         },
         {
           "start": "11:30",
@@ -2824,8 +2825,9 @@
           "course": "e190",
           "unit": "e190-aid",
           "title": "ECE 190 aid sheet: finish copying (readable pages 7-16), then one line per chart",
-          "status": "planned",
-          "note": "Exam is Wed 3:00. If you have class, do it right after"
+          "status": "done",
+          "note": "Exam is Wed 3:00. If you have class, do it right after",
+          "score": "Side 1 finished"
         },
         {
           "start": "13:00",
@@ -2833,10 +2835,11 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: the 30-question 'Which must be true?' drill, then the map",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved to Wed 9:30 (merged with the theorem recall)"
         },
         {
           "start": "14:00",
@@ -2844,23 +2847,38 @@
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150: variables, expressions, conditionals, Block 1",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Monday"
+          "note": "Moved to Thu 7:30 pm (aid sheet first, the ECE 190 exam is tomorrow)"
+        },
+        {
+          "start": "14:50",
+          "end": "16:30",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: side 2 (readable pages 9-16), finish it",
+          "status": "now"
         },
         {
           "start": "15:00",
           "end": "15:50",
           "course": "e150",
           "unit": "e150-bit",
-          "status": "planned",
+          "status": "moved",
           "title": "ECE 150: bitwise and integer types pack, Block 2, then mark",
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
-          "note": "Moved from Monday"
+          "note": "Moved to Thu 7:30 pm (aid sheet first, the ECE 190 exam is tomorrow)"
+        },
+        {
+          "start": "16:30",
+          "end": "16:55",
+          "course": "m115",
+          "title": "Break before the mock",
+          "status": "planned"
         },
         {
           "start": "17:00",
@@ -3020,8 +3038,32 @@
           "start": "19:30",
           "end": "20:20",
           "course": "e150",
+          "unit": "e150-var",
+          "title": "ECE 150: variables, expressions, conditionals, Block 1",
+          "status": "planned",
+          "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
+          "note": "Moved from Tuesday"
+        },
+        {
+          "start": "20:30",
+          "end": "21:20",
+          "course": "e150",
+          "unit": "e150-bit",
+          "status": "planned",
+          "title": "ECE 150: bitwise and integer types pack, Block 2, then mark",
+          "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
+          "note": "Moved from Tuesday"
+        },
+        {
+          "start": "21:30",
+          "end": "22:10",
+          "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: redo the mock misses from blank",
+          "title": "ECE 150: redo the F25 mock misses from blank (short), then sleep",
           "status": "planned"
         }
       ]
