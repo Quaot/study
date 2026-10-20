@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:24:07-04:00",
+  "updated": "2026-10-20T19:35:06-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -538,8 +538,8 @@
     {
       "course": "e150",
       "topic": "bit",
-      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons | 2026-10-19 Pass 2: redone correctly from blank",
-      "exam_retest": "Mon bitwise Block 2, then the F24 mock",
+      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons | 2026-10-19 Pass 2: redone correctly from blank | 2026-10-20 F25 mock Q9: shift needs assignment (mask <<= 1), loop k from m to n-1",
+      "exam_retest": "Thu 8:30 pm bitwise block",
       "status": "weak"
     },
     {
@@ -561,6 +561,27 @@
       "topic": "invtrig",
       "why": "2026-10-19 F24 mock 0/9 on exact values of inverse trig / hyperbolic compositions. Method: name the angle (theta = arcsin(3/5)), draw the right triangle, read off the other ratios, apply the identity (double angle), and fix the sign from the range of the inverse function",
       "exam_retest": "Tue evening block, then Wed morning",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "bool",
+      "why": "2026-10-20 F25 mock Q11 0/3: Boolean condition equivalence. Method: De Morgan (!(A && B) = !A || !B), then test edge values like x = 0, 10, -1, 11",
+      "exam_retest": "Thu 7:30 pm variables block + Q11 redo",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "cstr",
+      "why": "2026-10-20 F25 mock Q12 0/3: C-style strings end in '\\0'. Loop for (k = 0; str[k] != '\\0'; ++k)",
+      "exam_retest": "Thu evening",
+      "status": "weak"
+    },
+    {
+      "course": "e150",
+      "topic": "stack",
+      "why": "2026-10-20 F25 mock Q7 1.5/5: run main's loop for real (f(5), f(13), f(91)) to find the first moment the condition holds before drawing",
+      "exam_retest": "Thu evening redo",
       "status": "weak"
     }
   ],
@@ -2890,7 +2911,19 @@
           "status": "done",
           "doc": "F25-M (mock version).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
-          "score": "Done (felt brutal, time pressure). To mark"
+          "score": "About 22/48 (46%) marked by Claude from photos. Strong: Q8 two's complement 3/3, Q13 sort-three 3.5/4, Q1, Q2",
+          "missed": [
+            "Q3 1/4 scientific notation: unfinished (counted digits, no output)",
+            "Q4 2.5/4 normalize: used arr instead of array, no max == min case",
+            "Q5 2/4 diagonal: if (i = j) is assignment, and row/column swapped so 'o' and '.' are reversed",
+            "Q6 0.5/2 describe: intent is 'prints one period of f: f(0)..f(m-1), where m is the first time f returns to f(0)'",
+            "Q7 1.5/5 call stack: drew g(5,3), but b ends at 1 there. The first b != 1 is g(91,7): a=91, b=7, rem=0",
+            "Q9 2.5/5 set bits: mask << m does nothing (needs <<=), loop should run k from m to n-1, value &= ~mask",
+            "Q10 0.5/4 run-length index: only the assert",
+            "Q11 0/3 Boolean equivalences: not answered",
+            "Q12 0/3 C-string clean: no idea. Loop while str[k] != '\\0', replace '\\t' '\\n' '\\r' with ' '",
+            "Q14 0/1 default args: f(4,5) prints 4 5 2 (c defaults to 2)"
+          ]
         },
         {
           "start": "18:40",
@@ -2898,7 +2931,7 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "Mark the ECE 150 mock with the F25 answer key, type in wrong code and run it",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M-S (answer key, open after mock).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M-S (answer key, open after mock).pdf"
         },
@@ -3088,10 +3121,10 @@
         },
         {
           "start": "21:30",
-          "end": "22:10",
+          "end": "22:30",
           "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: redo the F25 mock misses from blank (short), then sleep",
+          "title": "ECE 150: redo F25 mock Q5, Q7, Q9, Q11, Q12 from blank (key closed), then sleep",
           "status": "planned"
         }
       ]
