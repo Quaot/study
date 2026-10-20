@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:27:21-04:00",
+  "updated": "2026-10-19T22:07:23-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2784,6 +2784,23 @@
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
+        {
+          "start": "22:00",
+          "end": "22:15",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Redo F24 Q1(a)-(c) from blank (exact values of inverse trig/hyperbolic)",
+          "status": "done",
+          "score": "Redone"
+        },
+        {
+          "start": "22:15",
+          "end": "23:30",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190 aid sheet: continue copying (readable pages 7-16)",
+          "status": "now"
         }
       ]
     },
