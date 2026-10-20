@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T18:22:08-04:00",
+  "updated": "2026-10-19T20:38:44-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2746,10 +2746,11 @@
           "course": "m117",
           "unit": "m117-mock",
           "title": "Math 117 MOCK: F24 midterm, whole paper, 100 min, timed, closed book",
-          "status": "planned",
+          "status": "done",
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F24-M.pdf",
-          "note": "Formula sheet only. Exam conditions"
+          "note": "Formula sheet only. Exam conditions",
+          "score": "Done (to mark)"
         },
         {
           "start": "19:50",
@@ -2757,7 +2758,7 @@
           "course": "m117",
           "unit": "m117-mock",
           "title": "Mark the F24 mock with the F23/F24 pack solutions (the F24 ones), log every miss",
-          "status": "planned",
+          "status": "now",
           "doc": "F25-M (MOCK).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\6 Exams\\F25-M (MOCK).pdf"
         },
