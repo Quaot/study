@@ -2981,8 +2981,15 @@
           "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser"
         },
         {
-          "start": "19:00",
-          "end": "20:40",
+          "start": "18:30",
+          "end": "19:00",
+          "course": "e198",
+          "title": "Bakfiets meeting (short, workbay 1002, SDC)",
+          "status": "planned"
+        },
+        {
+          "start": "19:15",
+          "end": "20:55",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm as a WHOLE paper, timed (second mock), then mark with the F23/F24 pack (F23 solutions)",
@@ -2993,8 +3000,8 @@
           "note": "Moved from Sunday"
         },
         {
-          "start": "20:50",
-          "end": "21:30",
+          "start": "21:00",
+          "end": "21:40",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
