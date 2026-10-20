@@ -2888,8 +2888,8 @@
           "unit": "e150-mock",
           "title": "ECE 150 MOCK: F25 midterm (clean paper), 90 min, on paper, timed",
           "status": "now",
-          "doc": "ECE 150 F25 midterm - clean mock paper.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - clean mock paper.pdf"
+          "doc": "F25-M (mock version).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf"
         },
         {
           "start": "18:40",
@@ -2898,8 +2898,8 @@
           "unit": "e150-mock",
           "title": "Mark the ECE 150 mock with the F25 answer key, type in wrong code and run it",
           "status": "planned",
-          "doc": "ECE 150 F25 midterm - answer key (open after the mock).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE 150 F25 midterm - answer key (open after the mock).pdf"
+          "doc": "F25-M-S (answer key, open after mock).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M-S (answer key, open after mock).pdf"
         },
         {
           "start": "19:35",
