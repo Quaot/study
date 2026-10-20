@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:38:20-04:00",
+  "updated": "2026-10-20T19:24:07-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2887,9 +2887,10 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150 MOCK: F25 midterm (clean paper), 90 min, on paper, timed",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M (mock version).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
+          "score": "Done (felt brutal, time pressure). To mark"
         },
         {
           "start": "18:40",
@@ -2897,7 +2898,7 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "Mark the ECE 150 mock with the F25 answer key, type in wrong code and run it",
-          "status": "planned",
+          "status": "now",
           "doc": "F25-M-S (answer key, open after mock).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M-S (answer key, open after mock).pdf"
         },
