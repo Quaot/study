@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:35:06-04:00",
+  "updated": "2026-10-20T19:35:07-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2904,14 +2904,14 @@
         },
         {
           "start": "17:00",
-          "end": "18:30",
+          "end": "19:20",
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150 MOCK: F25 midterm (clean paper), 90 min, on paper, timed",
           "status": "done",
           "doc": "F25-M (mock version).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
-          "score": "About 22/48 (46%) marked by Claude from photos. Strong: Q8 two's complement 3/3, Q13 sort-three 3.5/4, Q1, Q2",
+          "score": "Took about 2 h 34 min against 90 min allowed (felt brutal). To mark",
           "missed": [
             "Q3 1/4 scientific notation: unfinished (counted digits, no output)",
             "Q4 2.5/4 normalize: used arr instead of array, no max == min case",
