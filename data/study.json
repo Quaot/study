@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:01:49-04:00",
+  "updated": "2026-10-19T21:03:02-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2861,23 +2861,23 @@
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm questions, part 2, then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Moved from Sunday"
+          "note": "Merged into a full F23 paper on Wed 7:00 pm"
         },
         {
-          "start": "20:40",
-          "end": "21:30",
+          "start": "19:40",
+          "end": "20:30",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question)",
           "status": "planned"
         },
         {
-          "start": "21:40",
-          "end": "22:10",
+          "start": "20:40",
+          "end": "21:10",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
@@ -2936,24 +2936,24 @@
           "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser"
         },
         {
-          "start": "18:00",
-          "end": "18:50",
-          "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: formula sheet + traps, then sleep early",
-          "status": "planned"
-        },
-        {
           "start": "19:00",
-          "end": "19:50",
+          "end": "20:40",
           "course": "m117",
           "unit": "m117-pap",
-          "title": "Math 117: F23 midterm questions, part 1 (in the F23/F24 pack, do ONLY the F23 ones)",
+          "title": "Math 117: F23 midterm as a WHOLE paper, timed (second mock), then mark with the F23/F24 pack (F23 solutions)",
           "status": "planned",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
           "note": "Moved from Sunday"
+        },
+        {
+          "start": "20:50",
+          "end": "21:30",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
+          "status": "planned"
         }
       ]
     },
