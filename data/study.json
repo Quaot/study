@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T16:30:14-04:00",
+  "updated": "2026-10-21T18:15:54-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3092,7 +3092,9 @@
           "status": "now",
           "doc": "F25-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
-          "note": "Moved from Sun 25: mock first, then practice"
+          "note": "Finish the 5 problems after the Bakfiets meeting (60 min left), then mark against F25-M-S",
+          "score": "Paused after short answers (~50 min used). Short answers ~31/40 (78%), marked by Claude, 2 marks per part assumed",
+          "missed": "SA1(d) average velocity on a round trip = 0; SA2(d) needs a HORIZONTAL surface example; SA3(a) total energy = mgh, conserved; SA3(b) W depends only on endpoints, U = -x^3, F = -dU/dx; SA4(b) much greater; SA4(c) |W| = KE lost = 50 J; SA4(e) two rope segments, half the force"
         },
         {
           "start": "18:30",
