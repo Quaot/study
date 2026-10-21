@@ -2911,7 +2911,7 @@
           "status": "done",
           "doc": "F25-M (mock version).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
-          "score": "About 22/48 (46%), marked against the key. Took about 2 h 34 min against 90 min allowed",
+          "score": "About 22/48 (46%), marked against the key. Took 134 min of working time (50 + 50 + 34, breaks not counted) against 90 min allowed",
           "missed": [
             "Q3 1/4 scientific notation: unfinished (counted digits, no output)",
             "Q4 2.5/4 normalize: used arr instead of array, no max == min case",
