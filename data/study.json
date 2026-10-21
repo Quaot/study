@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:48:24-04:00",
+  "updated": "2026-10-20T22:27:56-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3133,7 +3133,7 @@
           "end": "22:30",
           "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: redo F25 mock Q5, Q7, Q9, Q11, Q12 from blank (key closed), then sleep",
+          "title": "ECE 150: redo F25 mock Q7, Q9, Q11, Q14 from blank (F25 mock - fixes.cpp), then a timed speed drill: marks x 2 min each, quick ones first",
           "status": "planned"
         }
       ]
