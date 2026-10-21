@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:15:54-04:00",
+  "updated": "2026-10-21T18:16:06-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3085,7 +3085,7 @@
         },
         {
           "start": "16:35",
-          "end": "18:25",
+          "end": "18:15",
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105 MOCK: F25 midterm (Forrest), 110 min, 4 short + any 5 problems",
@@ -3109,12 +3109,22 @@
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: redo F25 mock Q7, Q9, Q11, Q14 from blank (F25 mock - fixes.cpp), then a timed speed drill: marks x 2 min each, quick ones first",
-          "status": "planned",
-          "note": "Moved from Thu 21:30"
+          "status": "moved",
+          "note": "Moved back to Thu 9:30 pm (the ECE 105 problems took this slot)"
         },
         {
-          "start": "20:05",
-          "end": "21:45",
+          "start": "19:05",
+          "end": "20:05",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105 MOCK, part 2: any 5 of the 7 problems (60 min left, about 12 min each), then mark against F25-M-S later",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
+          "doc": "F25-M.pdf"
+        },
+        {
+          "start": "20:15",
+          "end": "21:55",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm as a WHOLE paper, timed (second mock), then mark with the F23/F24 pack (F23 solutions)",
@@ -3125,8 +3135,8 @@
           "note": "Moved from Sunday"
         },
         {
-          "start": "21:50",
-          "end": "22:30",
+          "start": "22:00",
+          "end": "22:40",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
@@ -3216,7 +3226,7 @@
           "end": "22:30",
           "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: timed speed drill (marks x 2 min each, quick ones first), plus any of Q7/Q9/Q11/Q14 still wrong",
+          "title": "ECE 150: redo F25 mock Q7, Q9, Q11, Q14 from blank (F25 mock - fixes.cpp), then a timed speed drill",
           "status": "planned"
         }
       ]
