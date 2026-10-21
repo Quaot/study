@@ -3556,7 +3556,7 @@
           "unit": "m115-exam",
           "title": "MATH 115 MIDTERM",
           "status": "planned",
-          "note": "Room TBA (check Odyssey). Bring WatCard, pencil, eraser"
+          "note": "E5 3101, seat F-7. Bring WatCard, pencil, eraser"
         }
       ]
     },
@@ -3692,7 +3692,7 @@
       "date": "2026-10-26",
       "course": "m115",
       "title": "Math 115 midterm",
-      "note": "room TBA (check Odyssey ~Oct 21). Bring WatCard. Mon 8:00-9:30 pm"
+      "note": "E5 3101, seat F-7. Bring WatCard. Mon 8:00-9:30 pm"
     },
     {
       "date": "2026-10-27",
@@ -3957,8 +3957,8 @@
           "kind": "exam"
         }
       ],
-      "room": "TBA",
-      "seat": "",
+      "room": "E5 3101",
+      "seat": "F-7",
       "end": "9:30 pm"
     },
     {
