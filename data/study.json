@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T22:30:20-04:00",
+  "updated": "2026-10-20T23:04:39-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -2983,6 +2983,15 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
           "note": "Moved to Wed 10:50 (electrical session tonight)"
+        },
+        {
+          "start": "22:10",
+          "end": "23:00",
+          "course": "e190",
+          "unit": "e190-aid",
+          "title": "ECE 190: extra 50 min before the exam",
+          "status": "done",
+          "score": "Done (extra block, late evening)"
         }
       ]
     },
