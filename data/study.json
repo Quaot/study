@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T12:16:00-04:00",
+  "updated": "2026-10-21T13:45:07-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3068,6 +3068,14 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
           "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser"
+        },
+        {
+          "start": "16:05",
+          "end": "16:20",
+          "course": "e190",
+          "unit": "e190-exam",
+          "title": "ECE 190: post-exam comment, the one most significant thing your group learned about the design process (max 50 words, your own words)",
+          "status": "planned"
         },
         {
           "start": "18:30",
