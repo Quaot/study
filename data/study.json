@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T13:45:07-04:00",
+  "updated": "2026-10-21T13:48:39-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3047,15 +3047,16 @@
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Thu 11:00 (ECE 190 mini-mocks before the exam)"
         },
         {
-          "start": "13:45",
-          "end": "14:30",
+          "start": "13:50",
+          "end": "14:35",
           "course": "e190",
           "unit": "e190-final",
-          "title": "ECE 190: read the finished aid sheet once, skim the F26 sample questions, then walk to RCH 307",
-          "status": "planned"
+          "title": "ECE 190: two 20-question mini-mocks (concepts + slide trivia), 30 min with the aid sheet, mark 10 min, then walk to RCH 307",
+          "status": "now"
         },
         {
           "start": "15:00",
@@ -3128,6 +3129,15 @@
           "unit": "m117-final",
           "title": "Math 117: light warm-up, 3 easy questions you've done before",
           "status": "planned"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
+          "status": "planned",
+          "note": "Moved from Wednesday"
         },
         {
           "start": "12:35",
