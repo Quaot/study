@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T23:04:39-04:00",
+  "updated": "2026-10-21T10:34:38-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3005,22 +3005,34 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: 20-min recall, chapter 3 inverse rules",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved to Fri evening (late start, aid sheet first)"
         },
         {
-          "start": "10:00",
-          "end": "11:00",
+          "start": "10:35",
+          "end": "11:30",
+          "course": "e190",
+          "unit": "e190-final",
+          "title": "ECE 190: finish the aid sheet (readable pages 14-16, side 2 halfway done)",
+          "status": "now",
+          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
+        },
+        {
+          "start": "11:40",
+          "end": "12:30",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
           "status": "planned"
         },
         {
-          "start": "10:50",
-          "end": "11:15",
+          "start": "12:35",
+          "end": "13:00",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
@@ -3031,15 +3043,12 @@
           "note": "Moved from Tuesday"
         },
         {
-          "start": "11:20",
-          "end": "12:40",
+          "start": "13:45",
+          "end": "14:30",
           "course": "e190",
           "unit": "e190-final",
-          "title": "ECE 190: finish the aid sheet (readable pages 11-16), then skim it once",
-          "status": "planned",
-          "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
+          "title": "ECE 190: read the finished aid sheet once, skim the F26 sample questions, then walk to RCH 307",
+          "status": "planned"
         },
         {
           "start": "15:00",
@@ -3222,6 +3231,18 @@
           "doc": "Math 115 - Proofs to know (Weeks 1-4).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 - Proofs to know (Weeks 1-4).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf"
+        },
+        {
+          "start": "21:30",
+          "end": "21:50",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, chapter 3 inverse rules",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved from Wednesday"
         }
       ]
     },
