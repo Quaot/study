@@ -3017,10 +3017,11 @@
           "course": "e190",
           "unit": "e190-final",
           "title": "ECE 190: finish the aid sheet (readable pages 14-16, side 2 halfway done). Last part of p.16 at 12:15",
-          "status": "now",
+          "status": "done",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
+          "score": "Aid sheet finished"
         },
         {
           "start": "12:35",
@@ -3039,7 +3040,7 @@
           "end": "13:00",
           "course": "e190",
           "title": "Lunch",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "13:00",
