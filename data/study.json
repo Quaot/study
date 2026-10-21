@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T14:27:45-04:00",
+  "updated": "2026-10-21T16:27:52-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3066,11 +3066,13 @@
           "course": "e190",
           "unit": "e190-exam",
           "title": "ECE 190 MIDTERM",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
-          "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser"
+          "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser",
+          "score": "Felt like it went really well",
+          "missed": "Picked \"building\" as part of the Professional Engineers Act definition (the 8 acts: planning, designing, composing, evaluating, advising, reporting, directing, supervising)"
         },
         {
           "start": "16:05",
