@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T10:34:38-04:00",
+  "updated": "2026-10-21T12:16:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3013,22 +3013,14 @@
         },
         {
           "start": "10:35",
-          "end": "11:30",
+          "end": "12:35",
           "course": "e190",
           "unit": "e190-final",
-          "title": "ECE 190: finish the aid sheet (readable pages 14-16, side 2 halfway done)",
+          "title": "ECE 190: finish the aid sheet (readable pages 14-16, side 2 halfway done). Last part of p.16 at 12:15",
           "status": "now",
           "doc": "ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf"
-        },
-        {
-          "start": "11:40",
-          "end": "12:30",
-          "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
-          "status": "planned"
         },
         {
           "start": "12:35",
@@ -3036,11 +3028,26 @@
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
-          "note": "Moved from Tuesday"
+          "note": "Moved to Thu morning (aid sheet ran long)"
+        },
+        {
+          "start": "12:35",
+          "end": "13:00",
+          "course": "e190",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:45",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
+          "status": "planned"
         },
         {
           "start": "13:45",
@@ -3113,6 +3120,18 @@
           "unit": "m117-final",
           "title": "Math 117: light warm-up, 3 easy questions you've done before",
           "status": "planned"
+        },
+        {
+          "start": "12:35",
+          "end": "13:00",
+          "course": "m117",
+          "unit": "m117-con",
+          "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
+          "status": "planned",
+          "doc": "Math 117 - Exam pack (conic sections).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
+          "note": "Moved from Wednesday"
         },
         {
           "start": "16:30",
