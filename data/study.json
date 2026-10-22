@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:41:28-04:00",
+  "updated": "2026-10-21T22:41:40-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3084,12 +3084,12 @@
           "status": "planned"
         },
         {
-          "start": "16:35",
-          "end": "18:15",
+          "start": "16:42",
+          "end": "17:37",
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105 MOCK: F25 midterm (Forrest), 110 min, 4 short + any 5 problems",
-          "status": "now",
+          "status": "done",
           "doc": "F25-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
           "note": "Finish the 5 problems after the Bakfiets meeting (60 min left), then mark against F25-M-S",
@@ -3152,17 +3152,6 @@
       "blocks": [
         {
           "start": "09:30",
-          "end": "09:50",
-          "course": "m115",
-          "unit": "m115-thm",
-          "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
-          "status": "planned",
-          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
-        },
-        {
-          "start": "09:30",
           "end": "10:10",
           "course": "m117",
           "unit": "m117-final",
@@ -3198,6 +3187,17 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20117%20-%20Exam%20pack%20%28conic%20sections%29.pdf",
           "note": "Moved from Wednesday"
+        },
+        {
+          "start": "13:05",
+          "end": "13:25",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
         },
         {
           "start": "16:30",
