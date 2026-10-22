@@ -2921,7 +2921,7 @@
             "Q9 2.5/5 set bits: mask << m does nothing (needs <<=), loop should run k from m to n-1, value &= ~mask",
             "Q10 0.5/4 run-length index: only the assert",
             "Q11 0/3 Boolean equivalences: not answered",
-            "Q12 0/3 C-string clean: no idea. Loop while str[k] != '\\0', replace '\\t' '\\n' '\\r' with ' '",
+            "Q12 0/3 C-string clean: no idea. Loop while str[k] != '\\0', replace '\\t' '\\n' '\\r' with ' ' (NOT on the midterm, skip)",
             "Q14 0/1 default args: f(4,5) prints 4 5 2 (c defaults to 2)"
           ]
         },
@@ -3260,7 +3260,7 @@
           "end": "20:05",
           "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q12), then write each out on paper from memory",
+          "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q10), then write each out on paper from memory",
           "status": "now"
         },
         {
