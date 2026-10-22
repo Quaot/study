@@ -3244,7 +3244,7 @@
           "unit": "m117-exam",
           "title": "MATH 117 MIDTERM",
           "status": "done",
-          "note": "STC 0040, seat F-14. Bring WatCard, pencil, eraser",
+          "note": "Questions (for the final): common tangent line to two curves; lim x->0 x^2 arctan(e^x/x) by squeeze; partial fractions; alpha for continuity at x = 1 with a 0/0 limit; cosh(sinh^-1(3/4)) = 5/4; product of trig terms rewritten as A sin(..+alpha) + B sin(..+beta) (product-to-sum)",
           "score": "Went very well"
         },
         {
@@ -3253,7 +3253,7 @@
           "course": "m117",
           "unit": "m117-exam",
           "title": "Math 117: 10-min brain dump of any exam question you were unsure about (for the final), then switch off",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "19:30",
