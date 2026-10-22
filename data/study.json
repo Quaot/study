@@ -3213,12 +3213,13 @@
         },
         {
           "start": "13:20",
-          "end": "14:00",
+          "end": "14:35",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: redo F23 Q2(b) tangent line, Q2(c) differentiability at 0, Q5 log system from blank (already marked: ~29/50)",
-          "status": "now",
-          "note": "Moved from Wed night"
+          "status": "done",
+          "note": "Moved from Wed night",
+          "score": "Redid Q5 (tangent) and Q10 (log system, the interval 0 <= x, y <= pi), worked through Q6 (|x|e^x differentiability at 0)"
         },
         {
           "start": "14:10",
@@ -3226,8 +3227,8 @@
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117 (if energy): redo F24 Q1(a)-(c), Q2(b), Q6(a) from blank. Stop at 3:00 sharp",
-          "status": "planned",
-          "note": "Moved from Wednesday"
+          "status": "moved",
+          "note": "Skipped: light review only before the exam"
         },
         {
           "start": "15:00",
