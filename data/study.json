@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T18:38:24-04:00",
+  "updated": "2026-10-22T19:11:56-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3256,24 +3256,34 @@
           "status": "done"
         },
         {
-          "start": "19:30",
-          "end": "20:30",
+          "start": "19:15",
+          "end": "20:05",
           "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: redo F25 mock Q7 (call stack), Q9 (bit masks), Q11 (Boolean), Q14 (default args) from blank in F25 mock - fixes.cpp, run them",
-          "status": "planned"
+          "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q12), then write each out on paper from memory",
+          "status": "now"
+        },
+        {
+          "start": "20:15",
+          "end": "21:45",
+          "course": "e150",
+          "unit": "e150-mock",
+          "title": "ECE 150 MOCK 2: F24 midterm, 47 marks, 90 min, timed, closed book (unseen paper)",
+          "status": "planned",
+          "doc": "F24-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
         },
         {
           "start": "20:40",
           "end": "21:30",
           "course": "e150",
           "unit": "e150-bit",
-          "status": "planned",
+          "status": "moved",
           "title": "ECE 150: bitwise and integer types pack, TIMED at 2 min per mark (speed drill), then mark",
           "doc": "ECE 150 - Exam pack (Bitwise and integer types).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-09 - Bitwise and integer types.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1009/ECE%20150%20-%20Exam%20pack%20%28Bitwise%20and%20integer%20types%29.pdf",
-          "note": "Moved from Tuesday"
+          "note": "Replaced by the F24 mock"
         },
         {
           "start": "21:40",
@@ -3281,11 +3291,19 @@
           "course": "e150",
           "unit": "e150-var",
           "title": "ECE 150 (if energy): variables, expressions, conditionals pack, timed, then sleep",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150 - Exam pack (variables, expressions, conditionals).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
-          "note": "Moved from Tuesday"
+          "note": "Replaced by the F24 mock"
+        },
+        {
+          "start": "21:50",
+          "end": "22:20",
+          "course": "e150",
+          "unit": "e150-mock",
+          "title": "Send photos of the F24 mock for marking, then sleep",
+          "status": "planned"
         }
       ]
     },
