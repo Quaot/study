@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T00:11:09-04:00",
+  "updated": "2026-10-22T11:48:04-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3172,39 +3172,20 @@
       "kind": "exam",
       "blocks": [
         {
-          "start": "09:30",
-          "end": "10:10",
-          "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: redo F23 Q2(b) tangent line, Q2(c) differentiability at 0, Q5 log system from blank (already marked: ~29/50)",
-          "status": "planned",
-          "note": "Moved from Wed night"
-        },
-        {
-          "start": "10:15",
-          "end": "11:15",
+          "start": "11:50",
+          "end": "12:50",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections TEST, exam style, timed (29 marks, 60 min), then mark with the solutions at the back",
-          "status": "planned",
+          "status": "now",
           "doc": "Mock 2026-10-22 - Conic sections test.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Mock 2026-10-22 - Conic sections test.pdf"
         },
         {
-          "start": "11:25",
-          "end": "12:15",
+          "start": "12:50",
+          "end": "13:20",
           "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
-          "status": "planned",
-          "note": "Moved from Wednesday"
-        },
-        {
-          "start": "12:35",
-          "end": "13:00",
-          "course": "m117",
-          "unit": "m117-con",
-          "title": "Math 117 conics: redo any miss from the 10:00 test (short), then lunch",
+          "title": "Lunch",
           "status": "planned",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
@@ -3217,10 +3198,36 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved to Sat 24 (Math 117 exam day)"
+        },
+        {
+          "start": "13:20",
+          "end": "14:00",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: redo F23 Q2(b) tangent line, Q2(c) differentiability at 0, Q5 log system from blank (already marked: ~29/50)",
+          "status": "planned",
+          "note": "Moved from Wed night"
+        },
+        {
+          "start": "14:10",
+          "end": "15:00",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117 (if energy): redo F24 Q1(a)-(c), Q2(b), Q6(a) from blank. Stop at 3:00 sharp",
+          "status": "planned",
+          "note": "Moved from Wednesday"
+        },
+        {
+          "start": "15:00",
+          "end": "16:05",
+          "course": "m117",
+          "title": "Break: eat something, pack WatCard + pencils + eraser, walk to STC 0040",
+          "status": "planned"
         },
         {
           "start": "16:30",
@@ -3369,6 +3376,18 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
           "note": "Moved to Fri 9:00 (late start)"
+        },
+        {
+          "start": "08:30",
+          "end": "08:50",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
+          "status": "planned",
+          "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
+          "note": "Moved from Thursday"
         },
         {
           "start": "09:00",
