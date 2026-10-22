@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T22:41:40-04:00",
+  "updated": "2026-10-21T23:56:30-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3136,16 +3136,20 @@
           "note": "Not done Wed; finish the 5 problems later"
         },
         {
-          "start": "22:45",
+          "start": "23:15",
           "end": "23:59",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm, full paper, timed (100 min, second mock)",
-          "status": "now",
+          "status": "done",
           "doc": "Math 117 - Mock (F23 midterm, full paper).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1021\\Math 117 - Mock (F23 midterm, full paper).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Runs to about 12:25 am. Mark Thu 9:30 with 6 Exams/F23-M-S (handwritten).pdf"
+          "note": "Runs to about 12:25 am. Mark Thu 9:30 with 6 Exams/F23-M-S (handwritten).pdf",
+          "score": "Finished Q1-Q10 in about 70 of 100 min. Unmarked (mark Thu 9:30)",
+          "missed": [
+            "Q11 (F23 Q6, inverse-trig equation sin^-1(2x) + sin^-1(x) = pi/3, 6 marks): gave up with 30 min left"
+          ]
         },
         {
           "start": "22:00",
