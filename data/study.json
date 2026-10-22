@@ -3180,9 +3180,8 @@
           "status": "done",
           "doc": "Mock 2026-10-22 - Conic sections test.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Mock 2026-10-22 - Conic sections test.pdf",
-          "score": "About 19/29 (66%) in 54 min, marked by Claude from photos",
+          "score": "About 19/25 on the parts marked (76%), in 54 min. Q4 done but not in the photos, so unmarked",
           "missed": [
-            "Q4 sideways parabola not attempted (vertex (-3,2), opens right, (5,0), y = 2 +- sqrt6/2)",
             "Q1(c) intercepts and labelled sketch missing (x = 2 +- 2sqrt10/3, only y-intercept is the vertex (0,-1))",
             "Q3(a) say which axis is the major one (vertical, (1,-1) and (1,-5))",
             "Q5(b) sign slip: -9(x+1)^2 = -9x^2 - 18x - 9, so F = 103",
