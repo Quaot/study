@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:16:06-04:00",
+  "updated": "2026-10-21T22:41:28-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3118,21 +3118,22 @@
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105 MOCK, part 2: any 5 of the 7 problems (60 min left, about 12 min each), then mark against F25-M-S later",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
-          "doc": "F25-M.pdf"
+          "doc": "F25-M.pdf",
+          "note": "Not done Wed; finish the 5 problems later"
         },
         {
-          "start": "20:15",
-          "end": "21:55",
+          "start": "22:45",
+          "end": "23:59",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm as a WHOLE paper, timed (second mock), then mark with the F23/F24 pack (F23 solutions)",
-          "status": "planned",
+          "status": "now",
           "doc": "Math 117 - Exam pack (midterms F23 and F24).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-15 - Midterm papers F23 and F24.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
-          "note": "Moved from Sunday"
+          "note": "Runs to about 12:25 am (100 min). Paper: dOneSen/1021/Math 117 - Mock (F23, question pages only).pdf"
         },
         {
           "start": "22:00",
@@ -3140,7 +3141,8 @@
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Thu 9:30 am"
         }
       ]
     },
@@ -3158,6 +3160,15 @@
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf"
+        },
+        {
+          "start": "09:30",
+          "end": "10:10",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
+          "status": "planned",
+          "note": "Moved from Wed night"
         },
         {
           "start": "10:00",
