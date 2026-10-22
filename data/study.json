@@ -3136,8 +3136,17 @@
           "note": "Not done Wed; finish the 5 problems later"
         },
         {
-          "start": "23:15",
-          "end": "23:59",
+          "start": "22:00",
+          "end": "22:40",
+          "course": "m117",
+          "unit": "m117-final",
+          "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
+          "status": "moved",
+          "note": "Moved to Thu 9:30 am"
+        },
+        {
+          "start": "22:45",
+          "end": "23:55",
           "course": "m117",
           "unit": "m117-pap",
           "title": "Math 117: F23 midterm, full paper, timed (100 min, second mock)",
@@ -3150,15 +3159,6 @@
           "missed": [
             "Q11 (F23 Q6, inverse-trig equation sin^-1(2x) + sin^-1(x) = pi/3, 6 marks): gave up with 30 min left"
           ]
-        },
-        {
-          "start": "22:00",
-          "end": "22:40",
-          "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: mark F23, redo any miss once, formula sheet + traps, then sleep early",
-          "status": "moved",
-          "note": "Moved to Thu 9:30 am"
         }
       ]
     },
