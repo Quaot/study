@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T23:56:30-04:00",
+  "updated": "2026-10-22T00:11:09-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3182,11 +3182,13 @@
         },
         {
           "start": "10:00",
-          "end": "10:50",
+          "end": "11:00",
           "course": "m117",
-          "unit": "m117-final",
-          "title": "Math 117: light warm-up, 3 easy questions you've done before",
-          "status": "planned"
+          "unit": "m117-con",
+          "title": "Math 117: conic sections TEST, exam style, timed (29 marks, 60 min), then mark with the solutions at the back",
+          "status": "planned",
+          "doc": "Mock 2026-10-22 - Conic sections test.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Mock 2026-10-22 - Conic sections test.pdf"
         },
         {
           "start": "11:00",
@@ -3202,7 +3204,7 @@
           "end": "13:00",
           "course": "m117",
           "unit": "m117-con",
-          "title": "Math 117 conics check: 2 midterm-style questions only (30 min)",
+          "title": "Math 117 conics: redo any miss from the 10:00 test (short), then lunch",
           "status": "planned",
           "doc": "Math 117 - Exam pack (conic sections).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Exam pack 2026-10-14 - Conic sections.pdf",
