@@ -3181,8 +3181,8 @@
           "note": "Moved from Wed night"
         },
         {
-          "start": "10:00",
-          "end": "11:00",
+          "start": "10:15",
+          "end": "11:15",
           "course": "m117",
           "unit": "m117-con",
           "title": "Math 117: conic sections TEST, exam style, timed (29 marks, 60 min), then mark with the solutions at the back",
@@ -3191,8 +3191,8 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\Mock 2026-10-22 - Conic sections test.pdf"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
+          "start": "11:25",
+          "end": "12:15",
           "course": "m117",
           "unit": "m117-final",
           "title": "Math 117: redo F24 Q1(a)-(c) and Q2(b), Q6(a) from blank, then 5 more inverse-trig/hyperbolic exact values (25F review Q10, 22F MT Q7, F23 inverse-trig question) + weak list (quadrant, +2k pi, Heaviside)",
