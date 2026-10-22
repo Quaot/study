@@ -3155,9 +3155,14 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1021\\Math 117 - Mock (F23 midterm, full paper).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20117%20-%20Exam%20pack%20%28midterms%20F23%20and%20F24%29.pdf",
           "note": "Runs to about 12:25 am. Mark Thu 9:30 with 6 Exams/F23-M-S (handwritten).pdf",
-          "score": "Finished Q1-Q10 in about 70 of 100 min. Unmarked (mark Thu 9:30)",
+          "score": "About 29/50 (58%), marked by Claude from photos. 70 of 100 min used",
           "missed": [
-            "Q11 (F23 Q6, inverse-trig equation sin^-1(2x) + sin^-1(x) = pi/3, 6 marks): gave up with 30 min left"
+            "Q2(a) quotient rule: d/dx sqrt(1+x^2) = x/sqrt(1+x^2) (chain rule factor lost)",
+            "Q2(b) tangent line not attempted (answer y = x - 1)",
+            "Q2(c) differentiability at 0: use g(h)/h = |h|e^h/h, right limit 1, left -1, so NOT differentiable",
+            "Q4(b) beta: cos = -sqrt3/2, sin = -1/2 is quadrant III, beta = 7pi/6",
+            "Q5 system: multiply (1)x(2) for sin^2 x, divide for cos^2 y (not cos y sin y). x = pi/4, 3pi/4, y = pi/3",
+            "Q6 inverse trig: cos(theta+alpha) = cos(pi/3) = 1/2, square, check roots: x = sqrt(21)/14"
           ]
         }
       ]
