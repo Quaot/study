@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T12:45:21-04:00",
+  "updated": "2026-10-22T18:38:24-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3235,7 +3235,7 @@
           "end": "16:05",
           "course": "m117",
           "title": "Break: eat something, pack WatCard + pencils + eraser, walk to STC 0040",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "16:30",
@@ -3243,8 +3243,9 @@
           "course": "m117",
           "unit": "m117-exam",
           "title": "MATH 117 MIDTERM",
-          "status": "planned",
-          "note": "STC 0040, seat F-14. Bring WatCard, pencil, eraser"
+          "status": "done",
+          "note": "STC 0040, seat F-14. Bring WatCard, pencil, eraser",
+          "score": "Went very well"
         },
         {
           "start": "19:30",
