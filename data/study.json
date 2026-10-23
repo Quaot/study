@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T21:52:38-04:00",
+  "updated": "2026-10-22T23:24:13-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3266,13 +3266,14 @@
         },
         {
           "start": "22:00",
-          "end": "23:30",
+          "end": "23:24",
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150 MOCK 2: F24 midterm, 47 marks, 90 min, timed, closed book (unseen paper)",
-          "status": "now",
+          "status": "done",
           "doc": "F24-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf",
+          "score": "Did Q1-Q7, stopped (tired). Unmarked, finish Q8+ Fri morning"
         },
         {
           "start": "20:40",
@@ -3304,7 +3305,7 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "Send photos of the F24 mock for marking, then sleep",
-          "status": "planned"
+          "status": "moved"
         }
       ]
     },
@@ -3313,11 +3314,53 @@
       "kind": "exam",
       "blocks": [
         {
+          "start": "09:30",
+          "end": "09:55",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: read the rules and patterns sheet (4 pages, red tags first)",
+          "status": "planned",
+          "doc": "ECE 150 - Review (midterm rules and patterns).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1023\\ECE 150 - Review (midterm rules and patterns).pdf"
+        },
+        {
           "start": "10:00",
           "end": "10:50",
           "course": "e150",
+          "unit": "e150-mock",
+          "title": "ECE 150: finish the F24 mock from Q8, timed, then send photos of the whole paper for marking",
+          "status": "planned",
+          "doc": "F24-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "e150",
           "unit": "e150-final",
-          "title": "ECE 150: the 6-step routine + 2 warm-up questions",
+          "title": "ECE 150: redo the F24 misses (short), then Q14 default args from the F25 key",
+          "status": "planned"
+        },
+        {
+          "start": "12:00",
+          "end": "12:45",
+          "course": "e150",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:45",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: light skim only (rules sheet red tags), no new questions",
+          "status": "planned"
+        },
+        {
+          "start": "13:50",
+          "end": "14:20",
+          "course": "e150",
+          "title": "Pack WatCard + pencils, walk to EXP 1689",
           "status": "planned"
         },
         {
