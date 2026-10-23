@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T19:11:56-04:00",
+  "updated": "2026-10-22T21:52:38-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3257,19 +3257,20 @@
         },
         {
           "start": "19:15",
-          "end": "20:05",
+          "end": "21:55",
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q10), then write each out on paper from memory",
-          "status": "now"
+          "status": "done",
+          "score": "Worked through Q7 (call stack), Q9 (bit ranges m to n-1), Q10 (run-length), Q11 (De Morgan) with the rebuilt key"
         },
         {
-          "start": "20:15",
-          "end": "21:45",
+          "start": "22:00",
+          "end": "23:30",
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150 MOCK 2: F24 midterm, 47 marks, 90 min, timed, closed book (unseen paper)",
-          "status": "planned",
+          "status": "now",
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
         },
@@ -3298,8 +3299,8 @@
           "note": "Replaced by the F24 mock"
         },
         {
-          "start": "21:50",
-          "end": "22:20",
+          "start": "23:30",
+          "end": "23:45",
           "course": "e150",
           "unit": "e150-mock",
           "title": "Send photos of the F24 mock for marking, then sleep",
