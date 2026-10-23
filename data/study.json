@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T23:24:13-04:00",
+  "updated": "2026-10-23T11:09:45-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3314,39 +3314,31 @@
       "kind": "exam",
       "blocks": [
         {
-          "start": "09:30",
-          "end": "09:55",
-          "course": "e150",
-          "unit": "e150-final",
-          "title": "ECE 150: read the rules and patterns sheet (4 pages, red tags first)",
-          "status": "planned",
-          "doc": "ECE 150 - Review (midterm rules and patterns).pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1023\\ECE 150 - Review (midterm rules and patterns).pdf"
-        },
-        {
-          "start": "10:00",
-          "end": "10:50",
+          "start": "11:15",
+          "end": "12:05",
           "course": "e150",
           "unit": "e150-mock",
-          "title": "ECE 150: finish the F24 mock from Q8, timed, then send photos of the whole paper for marking",
-          "status": "planned",
+          "title": "ECE 150: finish the F24 mock from Q8, timed (about 2 min per mark), then send photos of the whole paper",
+          "status": "now",
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
         },
         {
-          "start": "11:00",
-          "end": "11:50",
-          "course": "e150",
-          "unit": "e150-final",
-          "title": "ECE 150: redo the F24 misses (short), then Q14 default args from the F25 key",
-          "status": "planned"
-        },
-        {
-          "start": "12:00",
-          "end": "12:45",
+          "start": "12:10",
+          "end": "12:50",
           "course": "e150",
           "title": "Lunch",
           "status": "planned"
+        },
+        {
+          "start": "12:55",
+          "end": "13:20",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: read the rules and patterns sheet, red tags only (light, no new questions)",
+          "status": "planned",
+          "doc": "ECE 150 - Review (midterm rules and patterns).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1023\\ECE 150 - Review (midterm rules and patterns).pdf"
         },
         {
           "start": "13:00",
@@ -3354,6 +3346,15 @@
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: light skim only (rules sheet red tags), no new questions",
+          "status": "moved",
+          "note": "Merged into the 12:55 rules-sheet read"
+        },
+        {
+          "start": "13:20",
+          "end": "13:45",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: look over the F24 misses Claude marked (read, don't redo)",
           "status": "planned"
         },
         {
