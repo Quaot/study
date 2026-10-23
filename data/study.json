@@ -3430,7 +3430,18 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
           "note": "Moved from 2026-10-24",
-          "score": "Done in about 80 working min (10 min break in the middle). Unmarked"
+          "score": "About two thirds right in ~80 min (marked by Claude). MC 3/6. Q7, Q10, Q12(b) full",
+          "missed": [
+            "MC Q2 (c): parallel-line distance = ||perp_d AB||",
+            "MC Q4 (e): consistency needs b in the column span",
+            "MC Q6 (b): rank(AB) = 1, size is not rank",
+            "Q8: show d.n = 0 (parallel) first, distance = 11/sqrt10 (fraction was flipped)",
+            "Q9(a): l != +-2",
+            "Q11: R2 - 2R3 sign slip, check by multiplying",
+            "Q12(a): plane through the origin, name the dependency",
+            "Q13(a): let c = u.w/||w||^2, c != 0, factor it out",
+            "Q13(b): chain from C^T, cite (XY)^T = Y^T X^T"
+          ]
         },
         {
           "start": "18:30",
