@@ -3273,7 +3273,7 @@
           "status": "done",
           "doc": "F24-M.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf",
-          "score": "Did Q1-Q7, stopped (tired). Unmarked, finish Q8+ Fri morning"
+          "score": "Finished Fri morning. About 30/47 (65%), marked by Claude. Up from 49% on F25"
         },
         {
           "start": "20:40",
@@ -3319,9 +3319,17 @@
           "course": "e150",
           "unit": "e150-mock",
           "title": "ECE 150: finish the F24 mock from Q8, timed (about 2 min per mark), then send photos of the whole paper",
-          "status": "now",
+          "status": "done",
           "doc": "F24-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf",
+          "missed": [
+            "Q3 prime factorization 1/7: only the 0/1 case",
+            "Q6 call stack 2/5: g(16) gives m = -6, sum = 34, f has n = 16",
+            "Q2 2/4: loop while n > 1, return the count (off by two)",
+            "Q4 1.5/3: step = (b - a)/(cap - 1), use the name array",
+            "Q5 4/6: line reset in the wrong place",
+            "Q7 3/4: 1 + 4 + 32 = 37"
+          ]
         },
         {
           "start": "12:10",
