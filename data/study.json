@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:31:09-04:00",
+  "updated": "2026-10-23T17:39:58-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3395,11 +3395,35 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B1: 1D kinematics",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Fri evening went to Math 115 Sample 1"
+        },
+        {
+          "start": "17:45",
+          "end": "19:15",
+          "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Block 1 (multiple choice + Q7)",
+          "status": "now",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved from 2026-10-24"
+        },
+        {
+          "start": "17:45",
+          "end": "19:15",
+          "course": "m115",
+          "unit": "m115-s1",
+          "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
+          "status": "now",
+          "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
+          "note": "Moved from 2026-10-24"
         },
         {
           "start": "18:30",
@@ -3407,11 +3431,11 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B2: projectiles",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Fri evening went to Math 115 Sample 1"
         },
         {
           "start": "19:30",
@@ -3484,11 +3508,11 @@
           "course": "m115",
           "unit": "m115-s1",
           "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Block 1 (multiple choice + Q7)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
-          "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
+          "note": "Done early, Fri 23 at 5:45 pm"
         },
         {
           "start": "10:00",
@@ -3496,11 +3520,11 @@
           "course": "m115",
           "unit": "m115-s1",
           "title": "Math 115 DIAGNOSTIC: Sample Midterm 1, Blocks 2-3, then mark (read every MC reason)",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (Sample Midterm 1).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-15 - Sample Midterm 1.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1015/Math%20115%20-%20Exam%20pack%20%28Sample%20Midterm%201%29.pdf",
-          "note": "Moved to Fri Oct 23 evening, after the ECE 150 exam"
+          "note": "Done early, Fri 23 at 5:45 pm"
         },
         {
           "start": "11:25",
