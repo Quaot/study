@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T11:09:45-04:00",
+  "updated": "2026-10-23T17:31:09-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3336,7 +3336,7 @@
           "end": "12:50",
           "course": "e150",
           "title": "Lunch",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "12:55",
@@ -3344,7 +3344,7 @@
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: read the rules and patterns sheet, red tags only (light, no new questions)",
-          "status": "planned",
+          "status": "done",
           "doc": "ECE 150 - Review (midterm rules and patterns).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1023\\ECE 150 - Review (midterm rules and patterns).pdf"
         },
@@ -3363,14 +3363,14 @@
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: look over the F24 misses Claude marked (read, don't redo)",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "13:50",
           "end": "14:20",
           "course": "e150",
           "title": "Pack WatCard + pencils, walk to EXP 1689",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "14:30",
@@ -3378,8 +3378,9 @@
           "course": "e150",
           "unit": "e150-exam",
           "title": "ECE 150 MIDTERM",
-          "status": "planned",
-          "note": "EXP 1689, seat H-9. Bring WatCard, pencil, eraser"
+          "status": "done",
+          "note": "EXP 1689, seat H-9. Bring WatCard, pencil, eraser",
+          "score": "Went badly: 5 of 15 questions left blank (time)"
         },
         {
           "start": "16:30",
