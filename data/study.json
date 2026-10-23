@@ -3257,7 +3257,7 @@
         },
         {
           "start": "19:15",
-          "end": "21:55",
+          "end": "20:05",
           "course": "e150",
           "unit": "e150-final",
           "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q10), then write each out on paper from memory",
@@ -3265,15 +3265,13 @@
           "score": "Worked through Q7 (call stack), Q9 (bit ranges m to n-1), Q10 (run-length), Q11 (De Morgan) with the rebuilt key"
         },
         {
-          "start": "22:00",
-          "end": "23:24",
+          "start": "20:10",
+          "end": "21:00",
           "course": "e150",
-          "unit": "e150-mock",
-          "title": "ECE 150 MOCK 2: F24 midterm, 47 marks, 90 min, timed, closed book (unseen paper)",
+          "unit": "e150-final",
+          "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q10), then write each out on paper from memory",
           "status": "done",
-          "doc": "F24-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf",
-          "score": "Finished Fri morning. About 30/47 (65%), marked by Claude. Up from 49% on F25"
+          "score": "Worked through Q7 (call stack), Q9 (bit ranges m to n-1), Q10 (run-length), Q11 (De Morgan) with the rebuilt key"
         },
         {
           "start": "20:40",
@@ -3288,6 +3286,15 @@
           "note": "Replaced by the F24 mock"
         },
         {
+          "start": "21:05",
+          "end": "21:55",
+          "course": "e150",
+          "unit": "e150-final",
+          "title": "ECE 150: read the F25 key for Q7, Q9, Q11, Q14 (and Q5, Q10), then write each out on paper from memory",
+          "status": "done",
+          "score": "Worked through Q7 (call stack), Q9 (bit ranges m to n-1), Q10 (run-length), Q11 (De Morgan) with the rebuilt key"
+        },
+        {
           "start": "21:40",
           "end": "22:30",
           "course": "e150",
@@ -3298,6 +3305,17 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Exam pack 2026-10-16 - Variables, expressions and conditionals.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1016/ECE%20150%20-%20Exam%20pack%20%28variables%2C%20expressions%2C%20conditionals%29.pdf",
           "note": "Replaced by the F24 mock"
+        },
+        {
+          "start": "22:00",
+          "end": "23:24",
+          "course": "e150",
+          "unit": "e150-mock",
+          "title": "ECE 150 MOCK 2: F24 midterm, 47 marks, 90 min, timed, closed book (unseen paper)",
+          "status": "done",
+          "doc": "F24-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F24-M.pdf",
+          "score": "Finished Fri morning. About 30/47 (65%), marked by Claude. Up from 49% on F25"
         },
         {
           "start": "23:30",
