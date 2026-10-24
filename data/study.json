@@ -3481,13 +3481,21 @@
         },
         {
           "start": "20:40",
-          "end": "22:10",
+          "end": "22:47",
           "course": "m115",
           "unit": "m115-mock",
           "title": "Math 115 MOCK: Sample Midterm 2, timed (90 min), formula sheet only, then send photos",
-          "status": "now",
+          "status": "done",
           "doc": "F26-Sample-M2 (mock).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26-Sample-M2 (mock).pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26-Sample-M2 (mock).pdf",
+          "score": "About 30/43 (71%), marked by Claude. ~2 h with pauses (90 allowed). Hints on Q8, Q12(b)",
+          "missed": [
+            "MC 2/6: Q1 plug in (d), Q2 column span (c), Q3 square + inconsistent -> Ax=0 infinite (c), Q6 counterexample [[0,1],[0,0]] (a)",
+            "Q7(a)(d): sign slips, plane 6x1 - 5x2 - 8x3 = 9",
+            "Q10: R2 - 2R1 right side is -4",
+            "Q11(a) a3 = (-3,-9,-8); (b) swap rows before reading the inverse, B = [[-3,-1],[5,1]]",
+            "Q12(b): label the two directions"
+          ]
         },
         {
           "start": "21:30",
