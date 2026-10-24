@@ -3405,7 +3405,7 @@
           "end": "17:20",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "17:30",
@@ -3454,6 +3454,15 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
           "note": "Fri evening went to Math 115 Sample 1"
+        },
+        {
+          "start": "19:20",
+          "end": "20:30",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115: go through every Sample 1 miss (MC Q4 rows vs columns, Q6 rank, Q8, Q9, Q11, Q12 span, Q13 proofs)",
+          "status": "done",
+          "score": "Worked through all of them, with the rows-vs-columns visual"
         },
         {
           "start": "19:30",
@@ -3515,7 +3524,8 @@
           "course": "m115",
           "unit": "m115-mock",
           "title": "Math 115: read Claude's marking of Sample 2, redo the misses once, then sleep",
-          "status": "planned"
+          "status": "moved",
+          "note": "Read the Sample 2 results on the train Saturday"
         }
       ]
     },
