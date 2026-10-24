@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:39:58-04:00",
+  "updated": "2026-10-23T20:30:12-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3473,10 +3473,21 @@
           "course": "m115",
           "unit": "m115-proofs",
           "title": "Math 115 proofs: P1-P26 (Weeks 1-3), read the key idea, cover, reproduce",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Proofs to know (Weeks 1-4).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 - Proofs to know (Weeks 1-4).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "20:40",
+          "end": "22:10",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115 MOCK: Sample Midterm 2, timed (90 min), formula sheet only, then send photos",
+          "status": "now",
+          "doc": "F26-Sample-M2 (mock).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26-Sample-M2 (mock).pdf"
         },
         {
           "start": "21:30",
@@ -3484,11 +3495,19 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: 20-min recall, chapter 3 inverse rules",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
-          "note": "Moved from Wednesday"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "22:15",
+          "end": "22:45",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115: read Claude's marking of Sample 2, redo the misses once, then sleep",
+          "status": "planned"
         }
       ]
     },
@@ -3502,11 +3521,11 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: 20-min recall",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
-          "note": "Moved to Fri 9:00 (late start)"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "08:30",
@@ -3514,11 +3533,11 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115 theorems: 20-min recall, the 'watch out' converses",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Midterm theorems (chapters 1 to 3.5).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 Midterm Theorems.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1013/Math%20115%20-%20Midterm%20theorems%20%28chapters%201%20to%203.5%29.pdf",
-          "note": "Moved from Thursday"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "09:00",
@@ -3545,23 +3564,32 @@
           "note": "Done early, Fri 23 at 5:45 pm"
         },
         {
+          "start": "10:00",
+          "end": "10:30",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Toronto day. On the train (phone): Math 115 theorems sheet, red items",
+          "status": "planned"
+        },
+        {
           "start": "11:25",
           "end": "12:15",
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: matrix multiplication and inverses, Block 2",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
-          "note": "Moved to Sat Oct 24, 8:00 (Block 1 ran long; ECE 150 first)"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "12:15",
           "end": "12:50",
           "course": "m115",
           "title": "Lunch",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "12:50",
@@ -3569,11 +3597,11 @@
           "course": "m115",
           "unit": "m115-inv",
           "title": "Math 115: inverses, Block 3 (proofs), then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Exam pack (matrix multiplication, inverses).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-10-14 - Matrix multiplication and inverses.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1014/Math%20115%20-%20Exam%20pack%20%28matrix%20multiplication%2C%20inverses%29.pdf",
-          "note": "Moved to Sat Oct 24, 9:00"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "13:50",
@@ -3581,9 +3609,10 @@
           "course": "m115",
           "unit": "m115-mock",
           "title": "Math 115 MOCK: Sample Midterm 2, 90 min, timed, formula sheet only",
-          "status": "planned",
+          "status": "moved",
           "doc": "F26 Sample Midterm 2 (MOCK).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26 Sample Midterm 2 (MOCK).pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26 Sample Midterm 2 (MOCK).pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "15:30",
@@ -3591,9 +3620,10 @@
           "course": "m115",
           "unit": "m115-mock",
           "title": "Mark the Math 115 mock, log every miss",
-          "status": "planned",
+          "status": "moved",
           "doc": "F26 Sample Midterm 2 (MOCK).pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26 Sample Midterm 2 (MOCK).pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F26 Sample Midterm 2 (MOCK).pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "16:30",
@@ -3601,18 +3631,19 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B4: relative motion, slopes, circular kinematics",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "17:20",
           "end": "18:00",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "18:00",
@@ -3620,11 +3651,19 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B5: Newton's laws and friction",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "18:00",
+          "end": "18:30",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "On the train back (phone): Sample 1 + 2 results files in dOneSen",
+          "status": "planned"
         },
         {
           "start": "19:00",
@@ -3632,11 +3671,11 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B6: pulleys (incl. floating pulley)",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "20:00",
@@ -3644,11 +3683,11 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B7: stacked blocks, double Atwood",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         }
       ]
     },
@@ -3662,7 +3701,18 @@
           "course": "m115",
           "unit": "m115-pass2",
           "title": "Math 115 Pass 2: every Sample 1 and mock miss from blank",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "09:30",
+          "end": "11:00",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115 PAPER: F24 midterm, timed (90 min), then send photos",
+          "status": "planned",
+          "doc": "F24-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F24-M.pdf"
         },
         {
           "start": "10:00",
@@ -3670,11 +3720,11 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B8: circular dynamics",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "11:00",
@@ -3682,11 +3732,19 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B9: work and springs",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "11:10",
+          "end": "11:50",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115: redo the F24 misses from blank",
+          "status": "planned"
         },
         {
           "start": "12:00",
@@ -3694,18 +3752,36 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B10: potentials and energy diagrams",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "12:00",
+          "end": "12:45",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned"
         },
         {
           "start": "12:50",
           "end": "13:20",
           "course": "m115",
           "title": "Lunch",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "13:00",
+          "end": "14:30",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115 PAPER: F22 midterm, timed (90 min), then send photos (drop if Sunday is too heavy)",
+          "status": "planned",
+          "doc": "F22-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F22-M.pdf"
         },
         {
           "start": "13:20",
@@ -3713,10 +3789,19 @@
           "course": "e105",
           "unit": "e105-mm",
           "title": "ECE 105 MINI-MOCK 1 (F25 format): 4 short answers + any 3 of 5, timed, then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "14:40",
+          "end": "15:10",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115: redo the F22 misses",
+          "status": "planned"
         },
         {
           "start": "15:20",
@@ -3730,21 +3815,40 @@
           "note": "Done early, Wed 21 at 4:35 pm"
         },
         {
+          "start": "15:30",
+          "end": "18:00",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105 PAPER: Keshavarzi practice final, midterm-topic questions, timed, then mark with the key",
+          "status": "planned",
+          "doc": "F25-Practice-F (Keshavarzi).pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-Practice-F (Keshavarzi).pdf"
+        },
+        {
           "start": "17:20",
           "end": "18:10",
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105: mark the F25 mock against F25-M-S (if not marked yet), then redo every miss from blank",
-          "status": "planned",
+          "status": "moved",
           "doc": "F25-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "18:00",
+          "end": "18:45",
+          "course": "e105",
+          "title": "Dinner",
+          "status": "planned"
         },
         {
           "start": "18:10",
           "end": "18:50",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "18:50",
@@ -3752,11 +3856,19 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B11: multi-concept problems",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105: redo the practice-final misses",
+          "status": "planned"
         },
         {
           "start": "19:55",
@@ -3764,10 +3876,11 @@
           "course": "m115",
           "unit": "m115-proofs",
           "title": "Math 115 proofs: P27-P44 (Week 4: matrices, inverses), then the self-test page",
-          "status": "planned",
+          "status": "moved",
           "doc": "Math 115 - Proofs to know (Weeks 1-4).pdf",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 - Proofs to know (Weeks 1-4).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         }
       ]
     },
@@ -3781,11 +3894,21 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105 program B12: momentum, the moving wedge",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
-          "note": "Problems are printed in the Keshavarzi PDFs (ECE 105\\2 Practice\\Keshavarzi problem sets). Solutions at the back of the program"
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "09:30",
+          "end": "11:00",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115 PAPER: F21 midterm, timed, then send photos",
+          "status": "planned",
+          "doc": "F21-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F21-M.pdf"
         },
         {
           "start": "10:00",
@@ -3793,14 +3916,31 @@
           "course": "e105",
           "unit": "e105-mm",
           "title": "ECE 105 MINI-MOCK 2 (F25 format), timed, then mark",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 105 - Midterm practice program.pdf",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf"
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "11:10",
+          "end": "12:00",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115: redo misses from all papers (one pass)",
+          "status": "planned"
         },
         {
           "start": "11:40",
           "end": "12:20",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "12:00",
+          "end": "12:45",
           "course": "m115",
           "title": "Lunch",
           "status": "planned"
@@ -3811,7 +3951,18 @@
           "course": "e105",
           "unit": "e105-final",
           "title": "ECE 105: redo the F25 mock and mini-mock misses from blank",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105: finish the F25 mock problems (60 min left), then mark with F25-M-S",
+          "status": "planned",
+          "doc": "F25-M.pdf",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf"
         },
         {
           "start": "13:20",
@@ -3819,7 +3970,8 @@
           "course": "m115",
           "unit": "m115-final",
           "title": "Math 115: mock misses one last time",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
           "start": "14:20",
@@ -3827,6 +3979,29 @@
           "course": "m115",
           "unit": "m115-final",
           "title": "Math 115: theorem map (page 2), recite it",
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "15:00",
+          "end": "16:30",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: light review only (theorems sheet, your misses list), no new papers",
+          "status": "planned"
+        },
+        {
+          "start": "17:30",
+          "end": "18:15",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "19:20",
+          "end": "19:50",
+          "course": "m115",
+          "title": "Walk to E5 3101 (seat F-7). WatCard, pencils",
           "status": "planned"
         },
         {
@@ -3850,6 +4025,15 @@
           "course": "e105",
           "unit": "e105-final",
           "title": "ECE 105: anything still wrong, from blank",
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "10:00",
+          "end": "11:30",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105: redo misses from F25 + the practice final",
           "status": "planned"
         },
         {
@@ -3858,6 +4042,15 @@
           "course": "e105",
           "unit": "e105-final",
           "title": "ECE 105: the 5-step routine on 2 easy problems, check the formula sheet",
+          "status": "moved",
+          "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "13:00",
+          "end": "14:00",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105: light review (formula sheet, your misses), no new problems",
           "status": "planned"
         },
         {
