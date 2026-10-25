@@ -3962,8 +3962,17 @@
           "end": "20:20",
           "course": "m115",
           "unit": "m115-final",
-          "status": "now",
-          "title": "Math 115: redo F24 Q4, Q9, Q10(b) and F22 Q11, Q12 from blank, checking each answer against the original"
+          "status": "moved",
+          "title": "Math 115: redo F24 Q4, Q9, Q10(b) and F22 Q11, Q12 from blank, checking each answer against the original",
+          "note": "Skipped: the misses were arithmetic slips, read in the results files instead"
+        },
+        {
+          "start": "19:45",
+          "end": "20:05",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set A (9 questions, 20 min), check answers at the back",
+          "status": "now"
         },
         {
           "start": "19:55",
@@ -3978,31 +3987,23 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "20:20",
-          "end": "21:00",
+          "start": "20:10",
+          "end": "20:50",
           "course": "m115",
           "title": "Dinner",
           "status": "planned"
         },
         {
-          "start": "21:00",
-          "end": "21:20",
-          "course": "m115",
-          "unit": "m115-thm",
-          "title": "Math 115: hard MC Set A (9 questions, 20 min), check answers at the back",
-          "status": "planned"
-        },
-        {
-          "start": "21:25",
-          "end": "21:45",
+          "start": "20:55",
+          "end": "21:15",
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set B (9 questions, 20 min), check answers at the back",
           "status": "planned"
         },
         {
-          "start": "21:50",
-          "end": "22:30",
+          "start": "21:20",
+          "end": "22:00",
           "course": "m115",
           "unit": "m115-thm",
           "status": "planned",
