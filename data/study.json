@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T20:30:12-04:00",
+  "updated": "2026-10-24T21:38:55-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3706,6 +3706,24 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\ECE 105 midterm practice program.pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1018/ECE%20105%20-%20Midterm%20practice%20program.pdf",
           "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "21:45",
+          "end": "22:45",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105 MOCK, part 2: any 5 of the 7 problems (60 min left, about 12 min each), then send photos",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
+          "doc": "F25-M.pdf"
+        },
+        {
+          "start": "22:55",
+          "end": "23:45",
+          "course": "e105",
+          "unit": "e105-prog",
+          "title": "ECE 105: go through every worked example in the completed lecture slides (Lectures 2-14), cover the answer and try first",
+          "status": "planned"
         }
       ]
     },
