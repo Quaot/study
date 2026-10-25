@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T16:01:04-04:00",
+  "updated": "2026-10-25T16:03:41-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3872,7 +3872,7 @@
           "course": "m115",
           "unit": "m115-final",
           "status": "now",
-          "title": "Math 115: redo every Sample 1 miss from blank (MC 2, 4, 6 with reasons, Q8, Q9(a), Q11 + check, Q12(a), Q13(a)(b)), then open the results file"
+          "title": "Math 115: redo the Sample 1 AND Sample 2 misses from blank (MC with reasons, Q7(a)(d), Q10, Q11 and the proofs), then check the results files"
         },
         {
           "start": "17:05",
@@ -3880,8 +3880,8 @@
           "course": "m115",
           "unit": "m115-mock",
           "status": "planned",
-          "title": "Math 115 MOCK: Sample Midterm 2, 90 min, timed, formula sheet only, then send photos",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F26 sample midterm 2).pdf"
+          "title": "Math 115 MOCK: F24 midterm, 90 min strict, formula sheet only. Skip span/subspace/basis questions and note the marks. Send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F24 midterm).pdf"
         },
         {
           "start": "17:20",
@@ -3914,7 +3914,7 @@
           "start": "18:35",
           "end": "19:15",
           "course": "m115",
-          "title": "Dinner (Claude marks Sample 2)",
+          "title": "Dinner (Claude marks F24)",
           "status": "planned"
         },
         {
@@ -3944,7 +3944,7 @@
           "course": "m115",
           "unit": "m115-final",
           "status": "planned",
-          "title": "Math 115: redo the Sample 2 misses"
+          "title": "Math 115: redo the F24 misses"
         },
         {
           "start": "19:55",
@@ -3964,8 +3964,8 @@
           "course": "m115",
           "unit": "m115-mock",
           "status": "planned",
-          "title": "Math 115 MOCK: F24 midterm, 90 min, timed, then send photos",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F24 midterm).pdf"
+          "title": "Math 115 MOCK: F22 midterm, 90 min strict. Skip chapter 4 questions. Send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F22 midterm).pdf"
         },
         {
           "start": "21:50",
