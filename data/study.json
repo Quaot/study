@@ -3710,14 +3710,14 @@
         },
         {
           "start": "21:45",
-          "end": "22:15",
+          "end": "23:20",
           "course": "e105",
           "unit": "e105-mock",
-          "title": "ECE 105 MOCK, part 2: first 2 of the 5 problems",
+          "title": "ECE 105 MOCK, part 2: first 2 problems, then relearning short answer 2",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
           "doc": "F25-M.pdf",
-          "score": "2 problems done (marked with the rest Sun)"
+          "score": "2 problems done, then reworked short answer 2 (marked with the rest Sun)"
         },
         {
           "start": "22:55",
