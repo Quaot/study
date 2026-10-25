@@ -3927,7 +3927,7 @@
           "status": "done",
           "title": "Math 115 MOCK: F22 midterm, 90 min strict. Skip chapter 4 questions. Send photos",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F22 midterm).pdf",
-          "score": "About 20.5/28 (73%) in scope, in 32 min. MC 6/6",
+          "score": "About 20.5/28 (73%) in scope, in 32 min. MC 6/6. Q14(b) solved afterwards (missed it while scanning)",
           "missed": [
             "Q11: 16 - 4 + 25 = 37 (sqrt37)",
             "Q12(a): cross product entry 2 = 1, plane 5x1 + x2 - 2x3 = 5. Dot n with both directions",
@@ -3958,6 +3958,14 @@
           "note": "Replaced by the papers-first plan (Sun 4 pm)"
         },
         {
+          "start": "19:40",
+          "end": "20:20",
+          "course": "m115",
+          "unit": "m115-final",
+          "status": "now",
+          "title": "Math 115: redo F24 Q4, Q9, Q10(b) and F22 Q11, Q12 from blank, checking each answer against the original"
+        },
+        {
           "start": "19:55",
           "end": "20:45",
           "course": "m115",
@@ -3970,31 +3978,31 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "20:15",
-          "end": "20:55",
+          "start": "20:20",
+          "end": "21:00",
           "course": "m115",
-          "title": "Dinner (Claude marks F24)",
+          "title": "Dinner",
           "status": "planned"
         },
         {
           "start": "21:00",
-          "end": "21:40",
-          "course": "m115",
-          "unit": "m115-final",
-          "status": "planned",
-          "title": "Math 115: redo the F24 misses"
-        },
-        {
-          "start": "21:50",
-          "end": "22:10",
+          "end": "21:20",
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set A (9 questions, 20 min), check answers at the back",
           "status": "planned"
         },
         {
-          "start": "22:15",
-          "end": "22:45",
+          "start": "21:25",
+          "end": "21:45",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set B (9 questions, 20 min), check answers at the back",
+          "status": "planned"
+        },
+        {
+          "start": "21:50",
+          "end": "22:30",
           "course": "m115",
           "unit": "m115-thm",
           "status": "planned",
