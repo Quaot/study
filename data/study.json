@@ -3681,7 +3681,8 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "On the train back (phone): Sample 1 + 2 results files in dOneSen",
-          "status": "planned"
+          "status": "done",
+          "score": "Read the Sample 2 results on the train"
         },
         {
           "start": "19:00",
@@ -3709,13 +3710,14 @@
         },
         {
           "start": "21:45",
-          "end": "22:45",
+          "end": "22:15",
           "course": "e105",
           "unit": "e105-mock",
-          "title": "ECE 105 MOCK, part 2: any 5 of the 7 problems (60 min left, about 12 min each), then send photos",
-          "status": "now",
+          "title": "ECE 105 MOCK, part 2: first 2 of the 5 problems",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
-          "doc": "F25-M.pdf"
+          "doc": "F25-M.pdf",
+          "score": "2 problems done (marked with the rest Sun)"
         },
         {
           "start": "22:55",
@@ -3723,7 +3725,8 @@
           "course": "e105",
           "unit": "e105-prog",
           "title": "ECE 105: go through every worked example in the completed lecture slides (Lectures 2-14), cover the answer and try first",
-          "status": "planned"
+          "status": "moved",
+          "note": "Not done Sat (late)"
         }
       ]
     },
