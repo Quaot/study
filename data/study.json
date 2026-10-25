@@ -3969,7 +3969,15 @@
         },
         {
           "start": "21:50",
-          "end": "22:30",
+          "end": "22:10",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set A (9 questions, 20 min), check answers at the back",
+          "status": "planned"
+        },
+        {
+          "start": "22:15",
+          "end": "22:45",
           "course": "m115",
           "unit": "m115-thm",
           "status": "planned",
