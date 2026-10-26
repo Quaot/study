@@ -4155,12 +4155,13 @@
           "note": "Skipped: MC sets instead"
         },
         {
-          "start": "13:30",
-          "end": "14:00",
+          "start": "17:20",
+          "end": "18:05",
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set A (20 min) + check",
-          "status": "planned"
+          "status": "done",
+          "score": "3/9 on the hardest set (A4, A7, A8 right). Also wrote P15 and P26 proofs"
         },
         {
           "start": "14:05",
@@ -4168,7 +4169,8 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set B (20 min) + check",
-          "status": "planned"
+          "status": "moved",
+          "note": "Ran out of time before the exam"
         },
         {
           "start": "14:20",
@@ -4184,8 +4186,9 @@
           "end": "15:10",
           "course": "m115",
           "unit": "m115-thm",
-          "status": "planned",
-          "title": "Math 115: hard MC Set C (9 questions, 20 min), check answers at the back"
+          "status": "moved",
+          "title": "Math 115: hard MC Set C (9 questions, 20 min), check answers at the back",
+          "note": "Ran out of time before the exam"
         },
         {
           "start": "15:20",
@@ -4193,7 +4196,8 @@
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105: redo F25 P5 (ramp + hanging mass) with consistent signs, then the 90 deg / mu = 0 check. Then skim the slides catalogue",
-          "status": "planned"
+          "status": "moved",
+          "note": "Ran out of time before the exam"
         },
         {
           "start": "16:30",
@@ -4201,7 +4205,8 @@
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: light read of the MC traps page and your results files. Then stop",
-          "status": "planned"
+          "status": "moved",
+          "note": "Ran out of time before the exam"
         },
         {
           "start": "17:30",
