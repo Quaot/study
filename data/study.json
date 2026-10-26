@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T12:05:00-04:00",
+  "updated": "2026-10-26T12:48:26-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4070,16 +4070,6 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "09:30",
-          "end": "11:00",
-          "course": "m115",
-          "unit": "m115-mock",
-          "title": "Math 115 PAPER: F21 midterm, timed, then send photos",
-          "status": "planned",
-          "doc": "F21-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\6 Exams\\F21-M.pdf"
-        },
-        {
           "start": "10:00",
           "end": "11:40",
           "course": "e105",
@@ -4097,7 +4087,8 @@
           "course": "m115",
           "unit": "m115-mock",
           "title": "Math 115: redo misses from all papers (one pass)",
-          "status": "planned"
+          "status": "moved",
+          "note": "Done as reading the results files"
         },
         {
           "start": "11:40",
@@ -4108,11 +4099,13 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "12:00",
+          "start": "11:45",
           "end": "12:45",
           "course": "m115",
-          "title": "Lunch",
-          "status": "planned"
+          "unit": "m115-thm",
+          "status": "done",
+          "title": "Math 115: the proofs that matter (P15, P26/P29, inverses, combinations), worked through with Claude",
+          "score": "Understood the 8 useful proof patterns"
         },
         {
           "start": "12:20",
@@ -4124,14 +4117,22 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
+          "start": "12:50",
+          "end": "13:25",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
           "start": "13:00",
           "end": "14:00",
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105: finish the F25 mock problems (60 min left), then mark with F25-M-S",
-          "status": "planned",
+          "status": "moved",
           "doc": "F25-M.pdf",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
+          "note": "Done Sun night (two blocks)"
         },
         {
           "start": "13:20",
@@ -4143,6 +4144,16 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
+          "start": "13:30",
+          "end": "15:00",
+          "course": "m115",
+          "unit": "m115-mock",
+          "title": "Math 115 PAPER: F21 midterm, 90 min strict (skip chapter 4 / complex), then send photos",
+          "status": "planned",
+          "doc": "F21-M.pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F21 midterm).pdf"
+        },
+        {
           "start": "14:20",
           "end": "15:00",
           "course": "m115",
@@ -4152,11 +4163,19 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "15:00",
+          "start": "15:05",
+          "end": "15:25",
+          "course": "m115",
+          "unit": "m115-thm",
+          "status": "planned",
+          "title": "Math 115: hard MC Set C (9 questions, 20 min), check answers at the back"
+        },
+        {
+          "start": "15:35",
           "end": "16:30",
           "course": "m115",
           "unit": "m115-thm",
-          "title": "Math 115: light review only (theorems sheet, your misses list), no new papers",
+          "title": "Math 115: light review (theorems 'watch out' boxes, the results files). No new papers",
           "status": "planned"
         },
         {
