@@ -4219,7 +4219,7 @@
           "unit": "e105-exam",
           "title": "ECE 105 MIDTERM",
           "status": "planned",
-          "note": "Room TBA (check Odyssey). Bring WatCard, pencil, eraser, calculator"
+          "note": "RCH 307, seat C-12. Bring WatCard, pencil, eraser, calculator"
         }
       ]
     }
@@ -4330,7 +4330,7 @@
       "date": "2026-10-27",
       "course": "e105",
       "title": "ECE 105 midterm",
-      "note": "room TBA (check Odyssey ~Oct 22). Bring WatCard. Tue 4:30-6:20 pm"
+      "note": "RCH 307, seat C-12. Bring WatCard. Tue 4:30-6:20 pm"
     },
     {
       "date": "2026-10-28",
@@ -4624,8 +4624,8 @@
           "kind": "exam"
         }
       ],
-      "room": "TBA",
-      "seat": "",
+      "room": "RCH 307",
+      "seat": "C-12",
       "end": "6:20 pm"
     }
   ]
