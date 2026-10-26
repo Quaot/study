@@ -3978,12 +3978,12 @@
           "title": "ECE 105 MOCK part 3: the last 3 problems you pick from F25 (about 12 min each), then send photos of all 5",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
           "doc": "F25-M.pdf",
-          "score": "F25 problems about 40/50, whole paper about 71/90 (79%), marked by Claude. P3, P4 perfect",
+          "score": "F25 problems about 41.5/50, whole paper about 72.5/90 (81%), marked by Claude. P3, P4 perfect",
           "missed": [
             "P1(c): set distances equal, sin2θ2 = 1/(1+α²), θ2 = 16.77°, ratio 0.775",
             "P2(c)(e): conditions sinθ <= μcosθ and cosθ <= μsinθ",
             "P5(b): f = μk m1 g cosθ",
-            "P5(c): signs, a = (m2g - m1g sinθ - μk m1 g cosθ)/(m1+m2)",
+            "P5(c): his convention was fine, only tension is -T on M1 (rope pulls toward the pulley)",
             "P5(e): halfway along the ramp, h/(2 sinθ)"
           ]
         },
