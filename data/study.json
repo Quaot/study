@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T19:41:57-04:00",
+  "updated": "2026-10-26T12:05:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4189,6 +4189,15 @@
       "kind": "exam",
       "blocks": [
         {
+          "start": "09:00",
+          "end": "10:50",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105 PRACTICE MOCK A: 4 short answers + 5 problems, all compulsory, 110 min strict, then send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock A (practice midterm).pdf"
+        },
+        {
           "start": "10:00",
           "end": "10:50",
           "course": "e105",
@@ -4203,7 +4212,8 @@
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105: redo misses from F25 + the practice final",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replaced by the two practice mocks (papers first)"
         },
         {
           "start": "11:00",
@@ -4215,11 +4225,51 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
+          "start": "11:00",
+          "end": "11:40",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105: read Claude's marking of Mock A, fix each miss"
+        },
+        {
+          "start": "11:45",
+          "end": "12:30",
+          "course": "e105",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "12:35",
+          "end": "14:25",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105 PRACTICE MOCK B: 110 min strict, then send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B (practice midterm).pdf"
+        },
+        {
           "start": "13:00",
           "end": "14:00",
           "course": "e105",
           "unit": "e105-mock",
           "title": "ECE 105: light review (formula sheet, your misses), no new problems",
+          "status": "moved",
+          "note": "Replaced by the two practice mocks (papers first)"
+        },
+        {
+          "start": "14:35",
+          "end": "15:30",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105: Mock B misses (read only), equation sheet, connected-system sign rule. No new questions after 3:30"
+        },
+        {
+          "start": "15:50",
+          "end": "16:20",
+          "course": "e105",
+          "title": "Pack WatCard, pencils, calculator. Walk to RCH 307",
           "status": "planned"
         },
         {
