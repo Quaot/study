@@ -4149,9 +4149,26 @@
           "course": "m115",
           "unit": "m115-mock",
           "title": "Math 115 PAPER: F21 midterm, 90 min strict (skip chapter 4 / complex), then send photos",
-          "status": "planned",
+          "status": "moved",
           "doc": "F21-M.pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F21 midterm).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1025\\Math 115 - Mock (F21 midterm).pdf",
+          "note": "Skipped: MC sets instead"
+        },
+        {
+          "start": "13:30",
+          "end": "14:00",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set A (20 min) + check",
+          "status": "planned"
+        },
+        {
+          "start": "14:05",
+          "end": "14:35",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set B (20 min) + check",
+          "status": "planned"
         },
         {
           "start": "14:20",
@@ -4163,19 +4180,27 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "15:05",
-          "end": "15:25",
+          "start": "14:40",
+          "end": "15:10",
           "course": "m115",
           "unit": "m115-thm",
           "status": "planned",
           "title": "Math 115: hard MC Set C (9 questions, 20 min), check answers at the back"
         },
         {
-          "start": "15:35",
-          "end": "16:30",
+          "start": "15:20",
+          "end": "16:20",
+          "course": "e105",
+          "unit": "e105-mock",
+          "title": "ECE 105: redo F25 P5 (ramp + hanging mass) with consistent signs, then the 90 deg / mu = 0 check. Then skim the slides catalogue",
+          "status": "planned"
+        },
+        {
+          "start": "16:30",
+          "end": "17:00",
           "course": "m115",
           "unit": "m115-thm",
-          "title": "Math 115: light review (theorems 'watch out' boxes, the results files). No new papers",
+          "title": "Math 115: light read of the MC traps page and your results files. Then stop",
           "status": "planned"
         },
         {
