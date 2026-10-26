@@ -3971,7 +3971,7 @@
         },
         {
           "start": "19:45",
-          "end": "21:32",
+          "end": "20:35",
           "course": "e105",
           "unit": "e105-mock",
           "status": "done",
@@ -3998,6 +3998,16 @@
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\1 Lectures\\PDF\\Math 115 - Proofs to know (Weeks 1-4).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1019/Math%20115%20-%20Proofs%20to%20know%20%28Weeks%201-4%29.pdf",
           "note": "Replaced by the papers-first plan (Oct 23)"
+        },
+        {
+          "start": "20:40",
+          "end": "21:30",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "done",
+          "title": "ECE 105 MOCK part 3, continued",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
+          "doc": "F25-M.pdf"
         },
         {
           "start": "21:10",
