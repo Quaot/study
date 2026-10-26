@@ -3971,13 +3971,21 @@
         },
         {
           "start": "19:45",
-          "end": "20:35",
+          "end": "21:32",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "now",
+          "status": "done",
           "title": "ECE 105 MOCK part 3: the last 3 problems you pick from F25 (about 12 min each), then send photos of all 5",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\6 Exams\\F25-M.pdf",
-          "doc": "F25-M.pdf"
+          "doc": "F25-M.pdf",
+          "score": "F25 problems about 40/50, whole paper about 71/90 (79%), marked by Claude. P3, P4 perfect",
+          "missed": [
+            "P1(c): set distances equal, sin2θ2 = 1/(1+α²), θ2 = 16.77°, ratio 0.775",
+            "P2(c)(e): conditions sinθ <= μcosθ and cosθ <= μsinθ",
+            "P5(b): f = μk m1 g cosθ",
+            "P5(c): signs, a = (m2g - m1g sinθ - μk m1 g cosθ)/(m1+m2)",
+            "P5(e): halfway along the ramp, h/(2 sinθ)"
+          ]
         },
         {
           "start": "19:55",
@@ -3992,19 +4000,13 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "20:40",
-          "end": "21:10",
-          "course": "m115",
-          "title": "Dinner",
-          "status": "planned"
-        },
-        {
           "start": "21:10",
           "end": "21:55",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "planned",
-          "title": "ECE 105: go through Claude's marking of the F25 problems, redo any miss"
+          "status": "moved",
+          "title": "ECE 105: go through Claude's marking of the F25 problems, redo any miss",
+          "note": "Read the results file instead"
         },
         {
           "start": "21:20",
@@ -4016,22 +4018,30 @@
           "note": "Moved to Mon morning"
         },
         {
-          "start": "22:00",
-          "end": "22:20",
+          "start": "21:35",
+          "end": "22:05",
+          "course": "m115",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "22:10",
+          "end": "22:30",
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set A (9 questions, 20 min), check answers at the back",
           "status": "planned"
         },
         {
-          "start": "22:25",
-          "end": "22:45",
+          "start": "22:35",
+          "end": "22:55",
           "course": "m115",
           "unit": "m115-thm",
           "title": "Math 115: hard MC Set B (9 questions, 20 min), check answers at the back",
           "status": "planned"
         }
-      ]
+      ],
+      "note": "Youtonomous: 4 h 28 min studied today (breaks not counted)"
     },
     {
       "date": "2026-10-26",
