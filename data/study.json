@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:07:20-04:00",
+  "updated": "2026-10-27T13:23:34-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4273,8 +4273,9 @@
           "end": "10:15",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "planned",
-          "title": "ECE 105: read Claude's marking of Mock A, fix each miss"
+          "status": "moved",
+          "title": "ECE 105: read Claude's marking of Mock A, fix each miss",
+          "note": "Read the results file instead (slept in)"
         },
         {
           "start": "10:00",
@@ -4295,12 +4296,12 @@
           "note": "Replaced by the two practice mocks (papers first)"
         },
         {
-          "start": "10:30",
-          "end": "12:20",
+          "start": "13:25",
+          "end": "14:45",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "planned",
-          "title": "ECE 105 PRACTICE MOCK B1 (concepts): circles, loop, spring launcher, peg, floating pulleys, conservative forces. 110 min strict, then send photos",
+          "status": "now",
+          "title": "ECE 105 MOCK B1 (concepts): problems P1-P5 first, then short answers. Hard stop 2:45, send photos",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B1 (concepts midterm).pdf"
         },
         {
@@ -4317,7 +4318,8 @@
           "end": "13:00",
           "course": "e105",
           "title": "Lunch",
-          "status": "planned"
+          "status": "moved",
+          "note": "Ate before the mock"
         },
         {
           "start": "13:00",
