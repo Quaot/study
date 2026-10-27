@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T23:53:05-04:00",
+  "updated": "2026-10-27T00:07:20-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4236,10 +4236,21 @@
           "end": "23:59",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "now",
+          "status": "done",
           "title": "ECE 105 PRACTICE MOCK A: 4 short answers + 5 problems, all compulsory, 110 min strict, then send photos",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock A (practice midterm).pdf",
-          "note": "Moved from Tue 9:00"
+          "note": "Results: dOneSen\\1027\\ECE 105 - Mock A short answers results.md",
+          "score": "Short answers about 24/40 (60%). Problems not reached",
+          "missed": [
+            "SA1(a) average speed: find v = 0 first and add the legs",
+            "SA1(b) a_r = R*omega^2, a_t = R*alpha",
+            "SA1(d) g at height: 1/r^2 from Earth's centre",
+            "SA2(d) elevator moving down and slowing: a is up, N = m(g+a)",
+            "SA2(e) stacked blocks: F = (m+M)*a_max",
+            "SA3(e) pre-stretched spring: 1/2 k (x2^2 - x1^2)",
+            "SA4(b) banked curve: N cos = mg, N sin = mv^2/r, not N = mg cos",
+            "SA4(e) pendulum: energy, then T at the bottom"
+          ]
         }
       ]
     },
