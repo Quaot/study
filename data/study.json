@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T13:23:34-04:00",
+  "updated": "2026-10-27T13:23:50-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4331,12 +4331,12 @@
           "note": "Replaced by the two practice mocks (papers first)"
         },
         {
-          "start": "13:10",
-          "end": "14:10",
+          "start": "15:00",
+          "end": "15:40",
           "course": "e105",
           "unit": "e105-mock",
           "status": "planned",
-          "title": "ECE 105: read Claude's marking of Mock B, fix each miss, equation sheet. Nothing new after 2:30"
+          "title": "ECE 105: read Claude's marking of B1 + Mock A circle fixes. Read only, nothing new"
         },
         {
           "start": "15:50",
