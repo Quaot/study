@@ -4155,15 +4155,6 @@
           "note": "Skipped: MC sets instead"
         },
         {
-          "start": "17:20",
-          "end": "18:05",
-          "course": "m115",
-          "unit": "m115-thm",
-          "title": "Math 115: hard MC Set A (20 min) + check",
-          "status": "done",
-          "score": "3/9 on the hardest set (A4, A7, A8 right). Also wrote P15 and P26 proofs"
-        },
-        {
           "start": "14:05",
           "end": "14:35",
           "course": "m115",
@@ -4209,18 +4200,27 @@
           "note": "Ran out of time before the exam"
         },
         {
+          "start": "17:20",
+          "end": "18:05",
+          "course": "m115",
+          "unit": "m115-thm",
+          "title": "Math 115: hard MC Set A (20 min) + check",
+          "status": "done",
+          "score": "3/9 on the hardest set (A4, A7, A8 right). Also wrote P15 and P26 proofs"
+        },
+        {
           "start": "17:30",
           "end": "18:15",
           "course": "m115",
           "title": "Dinner",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "19:20",
           "end": "19:50",
           "course": "m115",
           "title": "Walk to E5 3101 (seat F-7). WatCard, pencils",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "20:00",
@@ -4228,8 +4228,18 @@
           "course": "m115",
           "unit": "m115-exam",
           "title": "MATH 115 MIDTERM",
-          "status": "planned",
+          "status": "done",
           "note": "E5 3101, seat F-7. Bring WatCard, pencil, eraser"
+        },
+        {
+          "start": "22:10",
+          "end": "23:59",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "now",
+          "title": "ECE 105 PRACTICE MOCK A: 4 short answers + 5 problems, all compulsory, 110 min strict, then send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock A (practice midterm).pdf",
+          "note": "Moved from Tue 9:00"
         }
       ]
     },
@@ -4242,9 +4252,18 @@
           "end": "10:50",
           "course": "e105",
           "unit": "e105-mock",
-          "status": "planned",
+          "status": "moved",
           "title": "ECE 105 PRACTICE MOCK A: 4 short answers + 5 problems, all compulsory, 110 min strict, then send photos",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock A (practice midterm).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock A (practice midterm).pdf",
+          "note": "Done Mon night"
+        },
+        {
+          "start": "09:30",
+          "end": "10:15",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105: read Claude's marking of Mock A, fix each miss"
         },
         {
           "start": "10:00",
@@ -4265,6 +4284,15 @@
           "note": "Replaced by the two practice mocks (papers first)"
         },
         {
+          "start": "10:30",
+          "end": "12:20",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "planned",
+          "title": "ECE 105 PRACTICE MOCK B: 110 min strict, then send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B (practice midterm).pdf"
+        },
+        {
           "start": "11:00",
           "end": "11:50",
           "course": "e105",
@@ -4274,28 +4302,11 @@
           "note": "Replaced by the papers-first plan (Oct 23)"
         },
         {
-          "start": "11:00",
-          "end": "11:40",
-          "course": "e105",
-          "unit": "e105-mock",
-          "status": "planned",
-          "title": "ECE 105: read Claude's marking of Mock A, fix each miss"
-        },
-        {
-          "start": "11:45",
-          "end": "12:30",
+          "start": "12:20",
+          "end": "13:00",
           "course": "e105",
           "title": "Lunch",
           "status": "planned"
-        },
-        {
-          "start": "12:35",
-          "end": "14:25",
-          "course": "e105",
-          "unit": "e105-mock",
-          "status": "planned",
-          "title": "ECE 105 PRACTICE MOCK B: 110 min strict, then send photos",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B (practice midterm).pdf"
         },
         {
           "start": "13:00",
@@ -4307,12 +4318,12 @@
           "note": "Replaced by the two practice mocks (papers first)"
         },
         {
-          "start": "14:35",
-          "end": "15:30",
+          "start": "13:10",
+          "end": "14:10",
           "course": "e105",
           "unit": "e105-mock",
           "status": "planned",
-          "title": "ECE 105: Mock B misses (read only), equation sheet, connected-system sign rule. No new questions after 3:30"
+          "title": "ECE 105: read Claude's marking of Mock B, fix each miss, equation sheet. Nothing new after 2:30"
         },
         {
           "start": "15:50",
