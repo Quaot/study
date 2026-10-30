@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:38:00-04:00",
+  "updated": "2026-10-30T17:39:05-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3074,7 +3074,7 @@
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\1 Lectures\\PDF\\ECE 190 - Lecture summary sheets filled (Weeks 1-5).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1012/ECE%20190%20-%20Lecture%20summary%20sheets%20filled%20%28Weeks%201-5%29.pdf",
           "note": "RCH 307, seat A-1. Bring WatCard, pencil, eraser",
-          "score": "Felt like it went really well",
+          "score": "39/41 (95%). Felt like it went really well",
           "missed": [
             "Picked \"building\" as part of the Professional Engineers Act definition (the 8 acts: planning, designing, composing, evaluating, advising, reporting, directing, supervising)"
           ]
@@ -3245,7 +3245,7 @@
           "title": "MATH 117 MIDTERM",
           "status": "done",
           "note": "Questions (for the final): common tangent line to two curves; lim x->0 x^2 arctan(e^x/x) by squeeze; partial fractions; alpha for continuity at x = 1 with a 0/0 limit; cosh(sinh^-1(3/4)) = 5/4; product of trig terms rewritten as A sin(..+alpha) + B sin(..+beta) (product-to-sum)",
-          "score": "Went very well"
+          "score": "43.5/50 (87%). Went very well"
         },
         {
           "start": "18:40",
