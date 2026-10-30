@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:48:18-04:00",
+  "updated": "2026-10-29T21:48:50-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4369,12 +4369,12 @@
           "score": "Reviewed the #16, #31 and BOM docs, rewrote #9 around the 5 V converter, labelled power board schematic, steering and firmware threads"
         },
         {
-          "start": "18:50",
-          "end": "20:10",
+          "start": "19:00",
+          "end": "19:45",
           "course": "e198",
           "title": "Bakfiets: resolder Pack 4 with Jack",
           "status": "done",
-          "score": "Resoldered with Jack (Joe there for part). Not sure the connection is right, asked Ayaan to check it before Wed. Time is approximate"
+          "score": "Resoldered with Jack (Joe there for part). Not sure the connection is right, asked Ayaan to check it before Wed."
         },
         {
           "start": "20:15",
