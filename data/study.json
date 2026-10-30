@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:06:08-04:00",
+  "updated": "2026-10-29T22:13:38-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4503,6 +4503,15 @@
           "course": "e150",
           "title": "ECE 150: redo every miss from Blocks 1-2, typed and compiled",
           "status": "planned"
+        },
+        {
+          "start": "16:00",
+          "end": "16:50",
+          "course": "e190",
+          "title": "ECE 190 Week 8: fill the lecture summary sheet from the slides (design-team traps: ignorance, staleness, social loafing)",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE190 Week 8 lecture slides (sv).pdf",
+          "note": "Download the blank Week 8 summary sheet from LEARN first"
         }
       ]
     },
