@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T21:48:50-04:00",
+  "updated": "2026-10-29T22:04:23-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4383,6 +4383,152 @@
           "title": "Bakfiets: follow-ups",
           "status": "done",
           "score": "Opened #37 (rebuild the rear end), torque arms, machine shop course message, bench test diagram with Pack 1 and the red bike. Started the ESMS orientation on LEARN"
+        },
+        {
+          "start": "22:15",
+          "end": "23:00",
+          "course": "m115",
+          "title": "Math 115 Python assignment: read ALL of it, set up, do Q1. Bed by 11:15 (tutorial at 8:30)",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "kind": "same-day",
+      "blocks": [
+        {
+          "start": "08:30",
+          "end": "09:20",
+          "course": "e105",
+          "title": "ECE 105 tutorial: energy and momentum",
+          "status": "planned"
+        },
+        {
+          "start": "09:40",
+          "end": "10:30",
+          "course": "m115",
+          "title": "Math 115 Python assignment, block 1",
+          "status": "planned"
+        },
+        {
+          "start": "10:40",
+          "end": "11:30",
+          "course": "m115",
+          "title": "Math 115 Python assignment, block 2",
+          "status": "planned"
+        },
+        {
+          "start": "12:00",
+          "end": "12:40",
+          "course": "m115",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "12:40",
+          "end": "13:30",
+          "course": "m115",
+          "title": "Math 115 Python assignment: finish, check every output, SUBMIT",
+          "status": "planned"
+        },
+        {
+          "start": "15:00",
+          "end": "15:55",
+          "course": "e150",
+          "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+        },
+        {
+          "start": "18:00",
+          "end": "18:40",
+          "course": "e150",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "en192",
+          "title": "ENGL 192 assignment A: outline and first draft",
+          "status": "planned"
+        },
+        {
+          "start": "20:00",
+          "end": "20:50",
+          "course": "en192",
+          "title": "ENGL 192 assignment A: finish the draft",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "kind": "cumulative",
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "10:50",
+          "course": "en192",
+          "title": "ENGL 192 assignment A: revise against the rubric, final copy",
+          "status": "planned"
+        },
+        {
+          "start": "11:00",
+          "end": "11:50",
+          "course": "en192",
+          "title": "ENGL 192 assignment B: outline and first draft",
+          "status": "planned"
+        },
+        {
+          "start": "12:00",
+          "end": "12:40",
+          "course": "en192",
+          "title": "Lunch",
+          "status": "planned"
+        },
+        {
+          "start": "12:40",
+          "end": "13:30",
+          "course": "en192",
+          "title": "ENGL 192 assignment B: finish the draft",
+          "status": "planned"
+        },
+        {
+          "start": "14:00",
+          "end": "14:55",
+          "course": "e150",
+          "title": "ECE 150 pack Block 2 (Q6-Q13), on paper, timed, send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+        },
+        {
+          "start": "15:10",
+          "end": "15:50",
+          "course": "e150",
+          "title": "ECE 150: redo every miss from Blocks 1-2, typed and compiled",
+          "status": "planned"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "kind": "forward",
+      "blocks": [
+        {
+          "start": "10:30",
+          "end": "11:20",
+          "course": "en192",
+          "title": "ENGL 192: final read of A and B against the rubrics, SUBMIT both",
+          "status": "planned"
+        },
+        {
+          "start": "13:00",
+          "end": "13:50",
+          "course": "e150",
+          "title": "ECE 150 forward: primers for 2.03-2.07 (dynamic arrays, pointer problems)",
+          "status": "planned"
         }
       ]
     }
@@ -4506,6 +4652,24 @@
       "course": "e190",
       "title": "ECE 190 final exam",
       "note": "Sat 4:00-6:00 pm, 72 MC, two aid sheets, 35%"
+    },
+    {
+      "date": "2026-10-30",
+      "course": "e105",
+      "title": "Tutorial: energy and momentum",
+      "note": "8:30 am"
+    },
+    {
+      "date": "2026-10-30",
+      "course": "m115",
+      "title": "Python assignment",
+      "note": "Due Friday (check the time on LEARN)"
+    },
+    {
+      "date": "2026-11-01",
+      "course": "en192",
+      "title": "Two assignments due",
+      "note": "Sun Nov 1 (check the times on LEARN)"
     }
   ],
   "log": [],
