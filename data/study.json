@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:39:05-04:00",
+  "updated": "2026-10-30T19:03:11-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4436,21 +4436,28 @@
         },
         {
           "start": "17:45",
-          "end": "18:40",
-          "course": "en192",
-          "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
+          "end": "19:00",
+          "course": "e198",
+          "title": "Bakfiets: housekeeping",
+          "status": "done"
+        },
+        {
+          "start": "19:05",
+          "end": "19:45",
+          "course": "e150",
+          "title": "Dinner",
           "status": "now"
         },
         {
-          "start": "18:45",
-          "end": "19:25",
-          "course": "e150",
-          "title": "Dinner",
+          "start": "19:50",
+          "end": "20:40",
+          "course": "en192",
+          "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
           "status": "planned"
         },
         {
-          "start": "19:30",
-          "end": "20:25",
+          "start": "20:50",
+          "end": "21:45",
           "course": "e150",
           "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
           "status": "planned",
