@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:13:38-04:00",
+  "updated": "2026-10-30T17:37:37-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4403,54 +4403,55 @@
           "end": "09:20",
           "course": "e105",
           "title": "ECE 105 tutorial: energy and momentum",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "09:40",
           "end": "10:30",
           "course": "m115",
           "title": "Math 115 Exercise 02 (Python): read all of it, set up, start",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "10:40",
           "end": "11:30",
           "course": "m115",
           "title": "Math 115 Exercise 02 (Python), block 2",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "12:00",
           "end": "12:40",
           "course": "m115",
           "title": "Lunch",
-          "status": "planned"
+          "status": "done"
         },
         {
           "start": "12:40",
           "end": "13:30",
           "course": "m115",
           "title": "Math 115 Exercise 02: finish, check every output, SUBMIT (due 10 pm)",
-          "status": "planned"
+          "status": "done",
+          "note": "Exercise 02 finished"
         },
         {
-          "start": "15:00",
-          "end": "15:55",
+          "start": "17:45",
+          "end": "18:40",
           "course": "e150",
           "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
-          "status": "planned",
+          "status": "now",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         },
         {
-          "start": "18:00",
-          "end": "18:40",
+          "start": "18:45",
+          "end": "19:25",
           "course": "e150",
           "title": "Dinner",
           "status": "planned"
         },
         {
-          "start": "19:00",
-          "end": "19:50",
+          "start": "19:30",
+          "end": "20:20",
           "course": "en192",
           "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
           "status": "planned"
