@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T22:04:23-04:00",
+  "updated": "2026-10-29T22:06:08-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4389,7 +4389,8 @@
           "end": "23:00",
           "course": "m115",
           "title": "Math 115 Python assignment: read ALL of it, set up, do Q1. Bed by 11:15 (tutorial at 8:30)",
-          "status": "planned"
+          "status": "moved",
+          "note": "Exercise 02 is due Fri 10 pm, so sleep for the 8:30 tutorial"
         }
       ]
     },
@@ -4408,14 +4409,14 @@
           "start": "09:40",
           "end": "10:30",
           "course": "m115",
-          "title": "Math 115 Python assignment, block 1",
+          "title": "Math 115 Exercise 02 (Python): read all of it, set up, start",
           "status": "planned"
         },
         {
           "start": "10:40",
           "end": "11:30",
           "course": "m115",
-          "title": "Math 115 Python assignment, block 2",
+          "title": "Math 115 Exercise 02 (Python), block 2",
           "status": "planned"
         },
         {
@@ -4429,7 +4430,7 @@
           "start": "12:40",
           "end": "13:30",
           "course": "m115",
-          "title": "Math 115 Python assignment: finish, check every output, SUBMIT",
+          "title": "Math 115 Exercise 02: finish, check every output, SUBMIT (due 10 pm)",
           "status": "planned"
         },
         {
@@ -4451,14 +4452,7 @@
           "start": "19:00",
           "end": "19:50",
           "course": "en192",
-          "title": "ENGL 192 assignment A: outline and first draft",
-          "status": "planned"
-        },
-        {
-          "start": "20:00",
-          "end": "20:50",
-          "course": "en192",
-          "title": "ENGL 192 assignment A: finish the draft",
+          "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
           "status": "planned"
         }
       ]
@@ -4471,28 +4465,28 @@
           "start": "10:00",
           "end": "10:50",
           "course": "en192",
-          "title": "ENGL 192 assignment A: revise against the rubric, final copy",
+          "title": "ENGL 192 Week 7 Part 2: Report Rationale I (objectives, milestones, work plan), full draft",
           "status": "planned"
         },
         {
           "start": "11:00",
           "end": "11:50",
-          "course": "en192",
-          "title": "ENGL 192 assignment B: outline and first draft",
+          "course": "e105",
+          "title": "Mastering Physics, block 1",
           "status": "planned"
         },
         {
           "start": "12:00",
           "end": "12:40",
-          "course": "en192",
+          "course": "e105",
           "title": "Lunch",
           "status": "planned"
         },
         {
           "start": "12:40",
           "end": "13:30",
-          "course": "en192",
-          "title": "ENGL 192 assignment B: finish the draft",
+          "course": "e105",
+          "title": "Mastering Physics, block 2",
           "status": "planned"
         },
         {
@@ -4520,12 +4514,19 @@
           "start": "10:30",
           "end": "11:20",
           "course": "en192",
-          "title": "ENGL 192: final read of A and B against the rubrics, SUBMIT both",
+          "title": "ENGL 192: final read of both worksheets against the rubrics, SUBMIT both (due 11:59 pm)",
           "status": "planned"
         },
         {
-          "start": "13:00",
-          "end": "13:50",
+          "start": "11:30",
+          "end": "12:20",
+          "course": "e105",
+          "title": "Mastering Physics: finish and SUBMIT",
+          "status": "planned"
+        },
+        {
+          "start": "14:00",
+          "end": "14:50",
           "course": "e150",
           "title": "ECE 150 forward: primers for 2.03-2.07 (dynamic arrays, pointer problems)",
           "status": "planned"
@@ -4662,14 +4663,91 @@
     {
       "date": "2026-10-30",
       "course": "m115",
-      "title": "Python assignment",
-      "note": "Due Friday (check the time on LEARN)"
+      "title": "Exercise 02 (Python quiz)",
+      "note": "Fri 10:00 pm"
     },
     {
       "date": "2026-11-01",
       "course": "en192",
-      "title": "Two assignments due",
-      "note": "Sun Nov 1 (check the times on LEARN)"
+      "title": "Week 7 Part 1: Technical Manual Analysis worksheet",
+      "weight": "3%",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-11-01",
+      "course": "en192",
+      "title": "Week 7 Part 2: Report Rationale I worksheet",
+      "weight": "3%",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-11-01",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "Sunday (check the time)"
+    },
+    {
+      "date": "2026-11-08",
+      "course": "en192",
+      "title": "Week 8: Rationale II worksheet",
+      "weight": "3%",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-11-10",
+      "course": "e150",
+      "title": "Project 3: Arrays (Marmoset)",
+      "note": "Tue 10:00 pm"
+    },
+    {
+      "date": "2026-11-10",
+      "course": "e190",
+      "title": "Group Deliverable 2",
+      "note": "Groups 1-20 (group 14), Tue 11:59 pm"
+    },
+    {
+      "date": "2026-11-17",
+      "course": "e190",
+      "title": "Group Deliverable 3",
+      "note": "Groups 1-20 (group 14), Tue 11:59 pm"
+    },
+    {
+      "date": "2026-11-22",
+      "course": "en192",
+      "title": "Week 10: Peer Review Drafts worksheet",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-11-26",
+      "course": "en192",
+      "title": "Week 11: Peer Review (final)",
+      "weight": "2%",
+      "note": "Thu 11:59 pm"
+    },
+    {
+      "date": "2026-11-29",
+      "course": "en192",
+      "title": "Assignment 2: Technical Report",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-12-04",
+      "course": "en192",
+      "title": "Week 12: Technical Report Presentation (slides)",
+      "note": "Fri 11:59 pm"
+    },
+    {
+      "date": "2026-12-06",
+      "course": "en192",
+      "title": "Week 12: Showcase Posters",
+      "weight": "5%",
+      "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-12-08",
+      "course": "e190",
+      "title": "Group Deliverable 4",
+      "note": "Tue 11:59 pm"
     }
   ],
   "log": [],
