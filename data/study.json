@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T17:37:37-04:00",
+  "updated": "2026-10-30T17:38:00-04:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4437,10 +4437,9 @@
         {
           "start": "17:45",
           "end": "18:40",
-          "course": "e150",
-          "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
-          "status": "now",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "course": "en192",
+          "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
+          "status": "now"
         },
         {
           "start": "18:45",
@@ -4451,10 +4450,11 @@
         },
         {
           "start": "19:30",
-          "end": "20:20",
-          "course": "en192",
-          "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
-          "status": "planned"
+          "end": "20:25",
+          "course": "e150",
+          "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
       ]
     },
