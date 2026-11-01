@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T19:03:11-04:00",
+  "updated": "2026-11-01T14:15:16-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4446,22 +4446,24 @@
           "end": "19:45",
           "course": "e150",
           "title": "Dinner",
-          "status": "now"
+          "status": "done"
         },
         {
-          "start": "19:50",
-          "end": "20:40",
+          "start": "19:12",
+          "end": "21:08",
           "course": "en192",
           "title": "ENGL 192 Week 7 Part 1: Technical Manual Analysis worksheet, full draft",
-          "status": "planned"
+          "status": "done",
+          "note": "Worksheet III (ProChef9 manual). File: ENGL 192\\3 Assignments\\Worksheet III - Justin (2026-10-30).pdf, saved 9:08 pm"
         },
         {
           "start": "20:50",
           "end": "21:45",
           "course": "e150",
           "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
+          "note": "Moved to Sun Nov 1"
         }
       ]
     },
@@ -4470,56 +4472,62 @@
       "kind": "cumulative",
       "blocks": [
         {
-          "start": "10:00",
-          "end": "10:50",
-          "course": "en192",
-          "title": "ENGL 192 Week 7 Part 2: Report Rationale I (objectives, milestones, work plan), full draft",
-          "status": "planned"
-        },
-        {
           "start": "11:00",
           "end": "11:50",
           "course": "e105",
           "title": "Mastering Physics, block 1",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Sun Nov 1 or later"
         },
         {
           "start": "12:00",
           "end": "12:40",
           "course": "e105",
           "title": "Lunch",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Sun Nov 1 or later"
         },
         {
           "start": "12:40",
           "end": "13:30",
           "course": "e105",
           "title": "Mastering Physics, block 2",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Sun Nov 1 or later"
         },
         {
           "start": "14:00",
           "end": "14:55",
           "course": "e150",
           "title": "ECE 150 pack Block 2 (Q6-Q13), on paper, timed, send photos",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
+          "note": "Moved to Sun Nov 1 or later"
         },
         {
           "start": "15:10",
           "end": "15:50",
           "course": "e150",
           "title": "ECE 150: redo every miss from Blocks 1-2, typed and compiled",
-          "status": "planned"
+          "status": "moved",
+          "note": "Moved to Sun Nov 1 or later"
         },
         {
           "start": "16:00",
           "end": "16:50",
           "course": "e190",
           "title": "ECE 190 Week 8: fill the lecture summary sheet from the slides (design-team traps: ignorance, staleness, social loafing)",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE190 Week 8 lecture slides (sv).pdf",
-          "note": "Download the blank Week 8 summary sheet from LEARN first"
+          "note": "Moved to Sun Nov 1 or later"
+        },
+        {
+          "start": "19:15",
+          "end": "20:53",
+          "course": "en192",
+          "title": "ENGL 192 Week 7 Part 2: Report Rationale I (objectives, milestones, work plan), full draft",
+          "status": "done",
+          "note": "Worksheet IV. File: ENGL 192\\3 Assignments\\Worksheet IV - Justin (2026-10-31).pdf, saved 8:53 pm"
         }
       ]
     },
@@ -4532,20 +4540,59 @@
           "end": "11:20",
           "course": "en192",
           "title": "ENGL 192: final read of both worksheets against the rubrics, SUBMIT both (due 11:59 pm)",
-          "status": "planned"
+          "status": "done",
+          "note": "Both worksheets finished Fri and Sat (re-downloaded Sat 8:56-9:00 pm)"
         },
         {
           "start": "11:30",
           "end": "12:20",
           "course": "e105",
           "title": "Mastering Physics: finish and SUBMIT",
-          "status": "planned"
+          "status": "moved",
+          "note": "Replanned at 2:15 pm"
         },
         {
           "start": "14:00",
           "end": "14:50",
           "course": "e150",
           "title": "ECE 150 forward: primers for 2.03-2.07 (dynamic arrays, pointer problems)",
+          "status": "moved",
+          "note": "Replanned at 2:15 pm"
+        },
+        {
+          "start": "14:30",
+          "end": "15:20",
+          "course": "e105",
+          "title": "Mastering Physics, block 1 (due 11:59 pm tonight)",
+          "status": "planned"
+        },
+        {
+          "start": "15:30",
+          "end": "16:20",
+          "course": "e105",
+          "title": "Mastering Physics: finish and SUBMIT",
+          "status": "planned"
+        },
+        {
+          "start": "16:40",
+          "end": "17:35",
+          "course": "e150",
+          "title": "ECE 150 pack Block 1 (Q1-Q5, real final questions), on paper, timed, send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+        },
+        {
+          "start": "18:00",
+          "end": "18:40",
+          "course": "e105",
+          "title": "Dinner",
+          "status": "planned"
+        },
+        {
+          "start": "19:00",
+          "end": "19:50",
+          "course": "e190",
+          "title": "ECE 190 Week 8: fill the lecture summary sheet from the slides (design-team traps)",
           "status": "planned"
         }
       ]
