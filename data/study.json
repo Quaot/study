@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T14:15:16-05:00",
+  "updated": "2026-11-01T14:23:16-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4435,11 +4435,12 @@
           "note": "Exercise 02 finished"
         },
         {
-          "start": "17:45",
-          "end": "19:00",
+          "start": "16:42",
+          "end": "18:45",
           "course": "e198",
           "title": "Bakfiets: housekeeping",
-          "status": "done"
+          "status": "done",
+          "note": "From the Bakfiets chat (4:42-5:54) and the team-progress sheet saved 6:43"
         },
         {
           "start": "19:05",
@@ -4522,7 +4523,15 @@
           "note": "Moved to Sun Nov 1 or later"
         },
         {
-          "start": "19:15",
+          "start": "17:05",
+          "end": "19:10",
+          "course": "e198",
+          "title": "Bakfiets: team work (Jack, pack 4, brake cut-off wiring, handoff)",
+          "status": "done",
+          "note": "From the Bakfiets chat (5:05-6:45), HANDOFF.md saved 7:09"
+        },
+        {
+          "start": "18:17",
           "end": "20:53",
           "course": "en192",
           "title": "ENGL 192 Week 7 Part 2: Report Rationale I (objectives, milestones, work plan), full draft",
