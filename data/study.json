@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:31:16-05:00",
+  "updated": "2026-11-02T18:59:35-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4619,6 +4619,21 @@
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
           "note": "Moved to Mon Nov 2 or later"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "kind": "same-day",
+      "blocks": [
+        {
+          "start": "18:59",
+          "end": "19:59",
+          "course": "e150",
+          "unit": "e150-fx-new",
+          "title": "ECE 150 Project 3 (Arrays): geometric and cross_correlation, with your own tests (due Tue Nov 10, 10 pm)",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\5 Projects\\Project 3 - Arrays\\ECE_150_Project_3_specifications.pdf"
         }
       ]
     },
