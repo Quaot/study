@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T12:33:14-05:00",
+  "updated": "2026-11-02T18:27:16-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4832,6 +4832,12 @@
       "course": "e190",
       "title": "Group Deliverable 4",
       "note": "Tue 11:59 pm"
+    },
+    {
+      "date": "2026-11-08",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "End of the week (assumed Sun 11:59 pm like the last one, check LEARN)"
     }
   ],
   "log": [],
