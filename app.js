@@ -285,8 +285,10 @@
       if (!D.roadmap) { $('#road').hidden = true; return; }
       const now = new Date(), nowM = now.getHours() * 60 + now.getMinutes();
       const late = (date, b) => b.status !== 'done' && (date < today || (date === today && mins(b.end) <= nowM));
+      // Only blocks whose unit belongs to the current roadmap count (older units, e.g. midterm prep, are ignored).
+      const roadUnits = new Set(D.roadmap.flatMap(r => r.units.map(u => u.id)));
       const all = [];
-      D.days.forEach(d => d.blocks.forEach(b => { if (b.unit && b.status !== 'moved') all.push({ date: d.date, b }); }));
+      D.days.forEach(d => d.blocks.forEach(b => { if (b.unit && roadUnits.has(b.unit) && b.status !== 'moved') all.push({ date: d.date, b }); }));
       const lastExam = D.roadmap.reduce((m, r) => r.exam > m ? r.exam : m, today);
       // Start at the first day with any road block, so you can scroll back through everything done.
       const firstBlock = all.reduce((m, x) => x.date < m ? x.date : m, today);

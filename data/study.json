@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:28:02-05:00",
+  "updated": "2026-11-02T18:31:16-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4621,6 +4621,81 @@
           "note": "Moved to Mon Nov 2 or later"
         }
       ]
+    },
+    {
+      "date": "2026-12-10",
+      "kind": "exam",
+      "blocks": [
+        {
+          "start": "09:00",
+          "end": "11:30",
+          "course": "m115",
+          "unit": "m115-fx-exam",
+          "title": "MATH 115 FINAL",
+          "status": "planned",
+          "note": "Room TBA, check Odyssey"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "kind": "exam",
+      "blocks": [
+        {
+          "start": "09:00",
+          "end": "11:30",
+          "course": "e150",
+          "unit": "e150-fx-exam",
+          "title": "ECE 150 FINAL",
+          "status": "planned",
+          "note": "Room TBA, check Odyssey"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-14",
+      "kind": "exam",
+      "blocks": [
+        {
+          "start": "16:00",
+          "end": "18:30",
+          "course": "m117",
+          "unit": "m117-fx-exam",
+          "title": "MATH 117 FINAL",
+          "status": "planned",
+          "note": "Room TBA, check Odyssey"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-18",
+      "kind": "exam",
+      "blocks": [
+        {
+          "start": "09:00",
+          "end": "11:30",
+          "course": "e105",
+          "unit": "e105-fx-exam",
+          "title": "ECE 105 FINAL",
+          "status": "planned",
+          "note": "Room TBA, check Odyssey"
+        }
+      ]
+    },
+    {
+      "date": "2026-12-19",
+      "kind": "exam",
+      "blocks": [
+        {
+          "start": "16:00",
+          "end": "18:00",
+          "course": "e190",
+          "unit": "e190-fx-exam",
+          "title": "ECE 190 FINAL",
+          "status": "planned",
+          "note": "Room TBA, check Odyssey"
+        }
+      ]
     }
   ],
   "deadlines": [
@@ -4738,12 +4813,6 @@
       "note": "Group deliverable, 7%. Grp 1-20 Wed Oct 28, Grp 21-40 Thu Oct 29, 11:59 pm"
     },
     {
-      "date": "2026-12-19",
-      "course": "e190",
-      "title": "ECE 190 final exam",
-      "note": "Sat 4:00-6:00 pm, 72 MC, two aid sheets, 35%"
-    },
-    {
       "date": "2026-10-30",
       "course": "e105",
       "title": "Tutorial: energy and momentum",
@@ -4843,11 +4912,238 @@
       "course": "e105",
       "title": "Mastering Physics assignment",
       "note": "End of the week (assumed Sun 11:59 pm like the last one, check LEARN)"
+    },
+    {
+      "date": "2026-12-10",
+      "course": "m115",
+      "title": "Math 115 final exam",
+      "note": "9:00 am-11:30 am. Room TBA, check Odyssey"
+    },
+    {
+      "date": "2026-12-12",
+      "course": "e150",
+      "title": "ECE 150 final exam",
+      "note": "9:00 am-11:30 am. Room TBA, check Odyssey"
+    },
+    {
+      "date": "2026-12-14",
+      "course": "m117",
+      "title": "Math 117 final exam",
+      "note": "4:00 pm-6:30 pm. Room TBA, check Odyssey"
+    },
+    {
+      "date": "2026-12-18",
+      "course": "e105",
+      "title": "ECE 105 final exam",
+      "note": "9:00 am-11:30 am. Room TBA, check Odyssey"
+    },
+    {
+      "date": "2026-12-19",
+      "course": "e190",
+      "title": "ECE 190 final exam",
+      "note": "4:00 pm-6:00 pm. Room TBA, check Odyssey"
     }
   ],
   "log": [],
   "weak_rule": "A topic leaves the weak list only after two clean results on REAL EXAM questions (past midterms, finals or the review session), on two different days. Practice-set or tutorial questions show progress but don't clear it.",
   "roadmap": [
+    {
+      "course": "m115",
+      "exam": "2026-12-10",
+      "time": "9:00 am",
+      "end": "11:30 am",
+      "room": "TBA",
+      "units": [
+        {
+          "id": "m115-fx-new",
+          "title": "New content since the midterm (ch. 4 on)",
+          "kind": "learn"
+        },
+        {
+          "id": "m115-fx-mt",
+          "title": "Midterm topics refresher (ch. 1-3)",
+          "kind": "practice"
+        },
+        {
+          "id": "m115-fx-past",
+          "title": "Past final questions, by topic",
+          "kind": "practice"
+        },
+        {
+          "id": "m115-fx-mock",
+          "title": "Mock: full past final, timed",
+          "kind": "mock"
+        },
+        {
+          "id": "m115-fx-last",
+          "title": "Last review: theorems + misses",
+          "kind": "final"
+        },
+        {
+          "id": "m115-fx-exam",
+          "title": "Final exam",
+          "kind": "exam"
+        }
+      ]
+    },
+    {
+      "course": "e150",
+      "exam": "2026-12-12",
+      "time": "9:00 am",
+      "end": "11:30 am",
+      "room": "TBA",
+      "units": [
+        {
+          "id": "e150-fx-new",
+          "title": "New content: pointers, dynamic memory, classes, linked lists, recursion",
+          "kind": "learn"
+        },
+        {
+          "id": "e150-fx-mt",
+          "title": "Midterm topics from blank (loops, arrays, bitwise)",
+          "kind": "practice"
+        },
+        {
+          "id": "e150-fx-past",
+          "title": "Past finals F22-F24, by topic",
+          "kind": "practice"
+        },
+        {
+          "id": "e150-fx-mock",
+          "title": "Mock: full past final, timed",
+          "kind": "mock"
+        },
+        {
+          "id": "e150-fx-last",
+          "title": "Last review: misses, typed and compiled",
+          "kind": "final"
+        },
+        {
+          "id": "e150-fx-exam",
+          "title": "Final exam",
+          "kind": "exam"
+        }
+      ]
+    },
+    {
+      "course": "m117",
+      "exam": "2026-12-14",
+      "time": "4:00 pm",
+      "end": "6:30 pm",
+      "room": "TBA",
+      "units": [
+        {
+          "id": "m117-fx-new",
+          "title": "New content since the midterm",
+          "kind": "learn"
+        },
+        {
+          "id": "m117-fx-mt",
+          "title": "Midterm misses: implicit diff, domains, common tangent",
+          "kind": "practice"
+        },
+        {
+          "id": "m117-fx-past",
+          "title": "Past final questions, by topic",
+          "kind": "practice"
+        },
+        {
+          "id": "m117-fx-mock",
+          "title": "Mock: full past final, timed",
+          "kind": "mock"
+        },
+        {
+          "id": "m117-fx-last",
+          "title": "Last review",
+          "kind": "final"
+        },
+        {
+          "id": "m117-fx-exam",
+          "title": "Final exam",
+          "kind": "exam"
+        }
+      ]
+    },
+    {
+      "course": "e105",
+      "exam": "2026-12-18",
+      "time": "9:00 am",
+      "end": "11:30 am",
+      "room": "TBA",
+      "units": [
+        {
+          "id": "e105-fx-new",
+          "title": "New content: energy, momentum and later topics",
+          "kind": "learn"
+        },
+        {
+          "id": "e105-fx-mt",
+          "title": "Midterm topics: circles, energy, pulleys",
+          "kind": "practice"
+        },
+        {
+          "id": "e105-fx-past",
+          "title": "Keshavarzi practice final + problem sets",
+          "kind": "practice"
+        },
+        {
+          "id": "e105-fx-mock",
+          "title": "Mock: practice final, timed",
+          "kind": "mock"
+        },
+        {
+          "id": "e105-fx-last",
+          "title": "Last review",
+          "kind": "final"
+        },
+        {
+          "id": "e105-fx-exam",
+          "title": "Final exam",
+          "kind": "exam"
+        }
+      ]
+    },
+    {
+      "course": "e190",
+      "exam": "2026-12-19",
+      "time": "4:00 pm",
+      "end": "6:00 pm",
+      "room": "TBA",
+      "units": [
+        {
+          "id": "e190-fx-new",
+          "title": "Week 8 on: summary sheets",
+          "kind": "learn"
+        },
+        {
+          "id": "e190-fx-past",
+          "title": "Official sample questions (final)",
+          "kind": "practice"
+        },
+        {
+          "id": "e190-fx-aid",
+          "title": "Two handwritten aid sheets",
+          "kind": "practice"
+        },
+        {
+          "id": "e190-fx-mock",
+          "title": "Mock: 72 MC, timed",
+          "kind": "mock"
+        },
+        {
+          "id": "e190-fx-last",
+          "title": "Final reread",
+          "kind": "final"
+        },
+        {
+          "id": "e190-fx-exam",
+          "title": "Final exam",
+          "kind": "exam"
+        }
+      ]
+    }
+  ],
+  "roadmap_midterms": [
     {
       "course": "e190",
       "exam": "2026-10-21",
