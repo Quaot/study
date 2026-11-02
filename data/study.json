@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T18:27:16-05:00",
+  "updated": "2026-11-02T18:28:02-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3244,8 +3244,13 @@
           "unit": "m117-exam",
           "title": "MATH 117 MIDTERM",
           "status": "done",
-          "note": "Questions (for the final): common tangent line to two curves; lim x->0 x^2 arctan(e^x/x) by squeeze; partial fractions; alpha for continuity at x = 1 with a 0/0 limit; cosh(sinh^-1(3/4)) = 5/4; product of trig terms rewritten as A sin(..+alpha) + B sin(..+beta) (product-to-sum)",
-          "score": "43.5/50 (87%). Went very well"
+          "note": "Marked paper: Downloads\\117 MT marked.pdf",
+          "score": "43.5/50 (87%). Went very well",
+          "missed": [
+            "Q8 implicit diff: wrote d/dx f(x) as f'(x)/f(x); answer -16/13 (1.5/3)",
+            "Q11 continuity: forgot ln(16-x^2) != 0, so x != +-sqrt15 (2/4)",
+            "Q13 common tangent: stopped at equal slopes; also need equal intercepts, a^2 = b^2, line y = 2x - 1 (1/4)"
+          ]
         },
         {
           "start": "18:40",
