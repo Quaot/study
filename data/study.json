@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T20:10:07-05:00",
+  "updated": "2026-11-04T12:48:58-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4632,7 +4632,7 @@
           "course": "e150",
           "unit": "e150-fx-new",
           "title": "ECE 150 Project 3 (Arrays): geometric and cross_correlation, with your own tests (due Tue Nov 10, 10 pm)",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
         }
       ]
@@ -4652,12 +4652,13 @@
         },
         {
           "start": "20:10",
-          "end": "21:00",
+          "end": "20:51",
           "course": "e150",
           "unit": "e150-fx-new",
-          "title": "ECE 150 Project 3: work session",
-          "status": "now",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
+          "title": "ECE 150 Project 3: finished all four functions",
+          "status": "done",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf",
+          "note": "End time from the last save of project_3.cpp (20:51). Justin said finished around 8."
         }
       ]
     },
@@ -4669,10 +4670,10 @@
           "start": "19:00",
           "end": "19:50",
           "course": "e150",
-          "unit": "e150-fx-new",
-          "title": "ECE 150 Project 3, block 2: shift_duplicates (test with {5,4,2,2,2,4,5,1,4,3})",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 same-day review: dangling pointers (5 questions), then exam pack Block 1 (real F22-F24 final questions)",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
       ]
     },
@@ -4684,10 +4685,10 @@
           "start": "19:00",
           "end": "19:50",
           "course": "e150",
-          "unit": "e150-fx-new",
-          "title": "ECE 150 Project 3, block 3: deallocate + full tests, strip test-only libraries, SUBMIT to Marmoset",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 exam pack Block 2 (course exercises, pointer trace, string and array functions)",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
       ]
     },
@@ -4699,10 +4700,9 @@
           "start": "14:00",
           "end": "14:50",
           "course": "e150",
-          "unit": "e150-fx-new",
-          "title": "ECE 150 Project 3, block 4 (buffer): fix any failed Marmoset tests (due Tue Nov 10, 10 pm)",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 LeetCode arrays: 26, 27, 283, then fix exam-pack misses",
+          "status": "planned"
         }
       ]
     },
