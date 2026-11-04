@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:48:58-05:00",
+  "updated": "2026-11-04T12:50:12-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4667,11 +4667,20 @@
       "kind": "same-day",
       "blocks": [
         {
-          "start": "19:00",
-          "end": "19:50",
+          "start": "13:30",
+          "end": "14:35",
           "course": "e150",
           "unit": "e150-fx-past",
-          "title": "ECE 150 same-day review: dangling pointers (5 questions), then exam pack Block 1 (real F22-F24 final questions)",
+          "title": "ECE 150 exam pack: 10-min review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+        },
+        {
+          "start": "19:00",
+          "end": "19:55",
+          "course": "e150",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 exam pack Block 2 (Q6-13: course exercises, pointer trace, string and array functions), 55 min timed",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
@@ -4686,7 +4695,7 @@
           "end": "19:50",
           "course": "e150",
           "unit": "e150-fx-past",
-          "title": "ECE 150 exam pack Block 2 (course exercises, pointer trace, string and array functions)",
+          "title": "ECE 150: redo every exam-pack miss from blank, typed and compiled",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
@@ -4701,7 +4710,7 @@
           "end": "14:50",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 LeetCode arrays: 26, 27, 283, then fix exam-pack misses",
+          "title": "ECE 150 LeetCode arrays: 26, 27, 283 (C++, ECE 150 style)",
           "status": "planned"
         }
       ]
