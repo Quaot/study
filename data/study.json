@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:50:12-05:00",
+  "updated": "2026-11-04T12:52:09-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4667,20 +4667,11 @@
       "kind": "same-day",
       "blocks": [
         {
-          "start": "13:30",
-          "end": "14:35",
-          "course": "e150",
-          "unit": "e150-fx-past",
-          "title": "ECE 150 exam pack: 10-min review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
-        },
-        {
           "start": "19:00",
-          "end": "19:55",
+          "end": "20:05",
           "course": "e150",
           "unit": "e150-fx-past",
-          "title": "ECE 150 exam pack Block 2 (Q6-13: course exercises, pointer trace, string and array functions), 55 min timed",
+          "title": "ECE 150 exam pack: review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
@@ -4692,10 +4683,10 @@
       "blocks": [
         {
           "start": "19:00",
-          "end": "19:50",
+          "end": "20:05",
           "course": "e150",
           "unit": "e150-fx-past",
-          "title": "ECE 150: redo every exam-pack miss from blank, typed and compiled",
+          "title": "ECE 150 exam pack Block 2 (Q6-13), 55 min timed, then redo Block 1 misses",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
