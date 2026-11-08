@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:05:07-05:00",
+  "updated": "2026-11-08T13:33:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4735,12 +4735,12 @@
         },
         {
           "start": "19:00",
-          "end": "20:05",
+          "end": "20:20",
           "course": "e150",
-          "unit": "e150-fx-past",
-          "title": "ECE 150 exam pack: review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
+          "unit": "e150-fx-mock",
+          "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Mock (F24 final).pdf"
         }
       ]
     },
@@ -4759,11 +4759,12 @@
         },
         {
           "start": "19:00",
-          "end": "19:50",
+          "end": "20:30",
           "course": "m115",
-          "unit": "m115-fx-new",
-          "title": "Math 115 tutorial prep: this week's lectures, then two practice problems",
-          "status": "planned"
+          "unit": "m115-fx-mock",
+          "title": "Math 115 MOCK: W24 final, taught questions only, about 1.8 min per mark, closed book. Skip anything not taught. Also tutorial prep",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf"
         }
       ]
     },
@@ -4788,12 +4789,12 @@
       "blocks": [
         {
           "start": "19:00",
-          "end": "20:05",
+          "end": "20:30",
           "course": "e150",
-          "unit": "e150-fx-past",
-          "title": "ECE 150 exam pack Block 2 (Q6-13), 55 min timed. Also prep for Thursday's tutorial",
+          "unit": "e150-fx-mock",
+          "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper. Also tutorial prep",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F22 final).pdf"
         }
       ]
     },
@@ -4814,9 +4815,10 @@
           "start": "19:00",
           "end": "20:15",
           "course": "e105",
-          "unit": "e105-fx-new",
-          "title": "ECE 105 tutorial and quiz prep: this week's lectures, then timed problems",
-          "status": "planned"
+          "unit": "e105-fx-mock",
+          "title": "ECE 105 MOCK: Keshavarzi practice final, taught problems only, timed. Also quiz prep",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 105 - Mock (Keshavarzi practice final).pdf"
         }
       ]
     },
@@ -4832,6 +4834,21 @@
           "title": "ECE 105 tutorial + weekly quiz (last 50 min)",
           "status": "planned",
           "note": "Room: DWE 3522A"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "kind": "cumulative",
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "11:30",
+          "course": "m117",
+          "unit": "m117-fx-mock",
+          "title": "Math 117 MOCK: F22 final, taught questions only, closed book, timed",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1114\\Math 117 - Mock (F22 final).pdf"
         }
       ]
     },
