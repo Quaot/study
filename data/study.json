@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T12:52:09-05:00",
+  "updated": "2026-11-08T13:00:33-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4672,8 +4672,9 @@
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 exam pack: review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
+          "note": "Not done, moved"
         }
       ]
     },
@@ -4687,8 +4688,9 @@
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 exam pack Block 2 (Q6-13), 55 min timed, then redo Block 1 misses",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
+          "note": "Not done, moved"
         }
       ]
     },
@@ -4697,12 +4699,40 @@
       "kind": "forward",
       "blocks": [
         {
+          "start": "00:24",
+          "end": "01:09",
+          "course": "en192",
+          "title": "ENGL Worksheet V: Report Rationale II (with Eric)",
+          "status": "done",
+          "note": "Times from chat history and file save (01:08)",
+          "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\PDF\\Worksheet V - Justin and Eric (2026-11-08).pdf"
+        },
+        {
+          "start": "13:00",
+          "end": "15:00",
+          "course": "e105",
+          "unit": "e105-fx-new",
+          "title": "ECE 105 Mastering Physics: finish the assignment",
+          "status": "now",
+          "note": "Due time assumed Sun 11:59 pm, check LEARN"
+        },
+        {
           "start": "14:00",
           "end": "14:50",
           "course": "e150",
           "unit": "e150-fx-mt",
           "title": "ECE 150 LeetCode arrays: 26, 27, 283 (C++, ECE 150 style)",
-          "status": "planned"
+          "status": "moved",
+          "note": "LeetCode pushed back so the exam pack comes first"
+        },
+        {
+          "start": "19:00",
+          "end": "20:05",
+          "course": "e150",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 exam pack: review page, then Block 1 (Q1-5, real F22-F24 finals, 22 marks), 55 min timed",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf"
         }
       ]
     },
@@ -4933,7 +4963,7 @@
       "course": "en192",
       "title": "Week 8: Rationale II worksheet",
       "weight": "3%",
-      "note": "Sun 11:59 pm"
+      "note": "Sun 11:59 pm. Worksheet V finished Nov 8, confirm it is in the dropbox"
     },
     {
       "date": "2026-11-10",
