@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:00:33-05:00",
+  "updated": "2026-11-08T13:02:55-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4655,7 +4655,7 @@
           "end": "20:51",
           "course": "e150",
           "unit": "e150-fx-new",
-          "title": "ECE 150 Project 3: finished all four functions",
+          "title": "ECE 150 Project 3: finished and submitted",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf",
           "note": "End time from the last save of project_3.cpp (20:51). Justin said finished around 8."
@@ -4969,7 +4969,7 @@
       "date": "2026-11-10",
       "course": "e150",
       "title": "Project 3: Arrays (Marmoset)",
-      "note": "Tue 10:00 pm"
+      "note": "Tue 10:00 pm. Submitted Tue Nov 3"
     },
     {
       "date": "2026-11-10",
