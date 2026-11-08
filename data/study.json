@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:33:00-05:00",
+  "updated": "2026-11-08T13:42:44-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -3403,7 +3403,20 @@
           "title": "ECE 150 MIDTERM",
           "status": "done",
           "note": "EXP 1689, seat H-9. Bring WatCard, pencil, eraser",
-          "score": "Went badly: 5 of 15 questions left blank (time)"
+          "score": "23/47 (48.9%). Class average 64, median 68.1",
+          "missed": [
+            "Q2 integer_log blank (0/3)",
+            "Q3 commas: plz and groups wrong (0.5/4)",
+            "Q4 print_powers_2 not written (0/4)",
+            "Q7 call stack values and order (2/5)",
+            "Q8 two's complement of 26 wrong (2/3)",
+            "Q9 loop end condition (4/5)",
+            "Q10 re-prompt logic (3/4)",
+            "Q13 carries, and no answer for removing & (2/5)",
+            "Q14 default arguments blank (0/2)",
+            "Q15 test table blank (0/3)",
+            "Q11, Q12 bonus (0.5/10)"
+          ]
         },
         {
           "start": "16:30",
@@ -4234,7 +4247,8 @@
           "unit": "m115-exam",
           "title": "MATH 115 MIDTERM",
           "status": "done",
-          "note": "E5 3101, seat F-7. Bring WatCard, pencil, eraser"
+          "note": "E5 3101, seat F-7. Bring WatCard, pencil, eraser",
+          "score": "37/49 (75.5%)"
         },
         {
           "start": "22:10",
@@ -4735,12 +4749,12 @@
         },
         {
           "start": "19:00",
-          "end": "20:20",
+          "end": "20:30",
           "course": "e150",
-          "unit": "e150-fx-mock",
-          "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150: redo the real F26 midterm, 90 min strict, closed book, on paper, then send photos",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Mock (F24 final).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf"
         }
       ]
     },
@@ -4789,12 +4803,12 @@
       "blocks": [
         {
           "start": "19:00",
-          "end": "20:30",
+          "end": "20:20",
           "course": "e150",
           "unit": "e150-fx-mock",
-          "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper. Also tutorial prep",
+          "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14. Also tutorial prep",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F22 final).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf"
         }
       ]
     },
@@ -4849,6 +4863,21 @@
           "title": "Math 117 MOCK: F22 final, taught questions only, closed book, timed",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1114\\Math 117 - Mock (F22 final).pdf"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "kind": "forward",
+      "blocks": [
+        {
+          "start": "14:00",
+          "end": "15:30",
+          "course": "e150",
+          "unit": "e150-fx-mock",
+          "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf"
         }
       ]
     },
