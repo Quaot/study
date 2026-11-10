@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:05:00-05:00",
+  "updated": "2026-11-10T17:10:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4898,8 +4898,9 @@
           "course": "e150",
           "unit": "e150-fx-mt",
           "title": "ECE 150: redo the real F26 midterm, 90 min strict, closed book, on paper, then send photos",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
+          "note": "Not reported as done. Moved to Tue Nov 10, 5:15 pm (Justin wanted ECE 150 before 7)"
         }
       ]
     },
@@ -5025,6 +5026,16 @@
           "title": "Math 115 tutorial",
           "status": "planned",
           "note": "Room: DWE 3516"
+        },
+        {
+          "start": "17:15",
+          "end": "18:45",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150: redo the real F26 midterm, 90 min strict, closed book, on paper, then send photos",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
+          "note": "Moved from Sun Nov 8. Ends 6:45 so there is a break before the Math 115 exam at 7"
         },
         {
           "start": "19:00",
