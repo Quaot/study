@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T13:42:44-05:00",
+  "updated": "2026-11-09T21:49:34-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4786,6 +4786,15 @@
       "date": "2026-11-10",
       "kind": "same-day",
       "blocks": [
+        {
+          "start": "08:45",
+          "end": "10:15",
+          "course": "m115",
+          "unit": "m115-fx-new",
+          "title": "Math 115 tutorial prep (4.1-4.3): read the method review, then Block 1 (Q1-6), then Q18 and Q20 if time. Skip Q19 (it is in the W24 mock)",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Exam pack (spanning sets and independence, 4.1 to 4.3).pdf"
+        },
         {
           "start": "10:30",
           "end": "12:20",
