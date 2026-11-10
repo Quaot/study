@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:05:00-05:00",
+  "updated": "2026-11-09T22:20:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -156,6 +156,11 @@
           "title": "Geometry of spanning sets",
           "expected": "2026-10-07",
           "note": "Not on the midterm"
+        },
+        {
+          "id": "5.3",
+          "title": "Operations on linear maps: sum, scalar multiple, composition",
+          "taught": "2026-11-09"
         }
       ],
       "midterm_scope": "Chapters 1-3 (to 3.5). Week 5 (chapter 4) is not on the midterm"
@@ -240,6 +245,11 @@
           "id": "deriv",
           "title": "Derivative from the definition, tangent lines",
           "taught": "2026-10-05"
+        },
+        {
+          "id": "ftc",
+          "title": "Fundamental Theorem of Calculus",
+          "taught": "2026-11-09"
         }
       ]
     },
@@ -316,7 +326,7 @@
           "id": "sort",
           "title": "3.04–3.05 Selection sort, insertion sort",
           "taught": "2026-11-09",
-          "note": "Lecture reached the slide after insertion sort (start of 3.06 recursion?)"
+          "note": "Lecture reached the start of 3.06 Recursive algorithms (confirmed by Justin)"
         }
       ],
       "weakest_skill": "Writing code from a blank page (reported 2026-10-09)"
@@ -4647,6 +4657,14 @@
       "kind": "same-day",
       "blocks": [
         {
+          "start": "15:00",
+          "end": "16:13",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
           "start": "18:59",
           "end": "19:59",
           "course": "e150",
@@ -4654,6 +4672,14 @@
           "title": "ECE 150 Project 3 (Arrays): geometric and cross_correlation, with your own tests (due Tue Nov 10, 10 pm)",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE_150_Project_3_specifications.pdf"
+        },
+        {
+          "start": "19:15",
+          "end": "19:20",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
         }
       ]
     },
@@ -4669,6 +4695,14 @@
           "title": "ECE 150 LeetCode warm-up: Running Sum, Richest Customer Wealth, Fizz Buzz, Steps to Zero",
           "status": "done",
           "note": "All four solved in C++. Traps hit: for-loop commas, missing {, k % 3 vs k % 3 == 0, off-by-one slot index, two ifs instead of if/else. Also covered vector, sizeof, classes."
+        },
+        {
+          "start": "19:29",
+          "end": "19:37",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
         },
         {
           "start": "20:10",
@@ -4687,6 +4721,30 @@
       "kind": "same-day",
       "blocks": [
         {
+          "start": "14:06",
+          "end": "14:13",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "15:59",
+          "end": "16:20",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "18:15",
+          "end": "18:22",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
           "start": "19:00",
           "end": "20:05",
           "course": "e150",
@@ -4695,6 +4753,27 @@
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1028\\ECE 150 - Exam pack (C-strings, pointers, dynamic memory).pdf",
           "note": "Not done, moved"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "blocks": [
+        {
+          "start": "21:21",
+          "end": "21:34",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "22:06",
+          "end": "22:45",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
         }
       ]
     },
@@ -4715,6 +4794,51 @@
       ]
     },
     {
+      "date": "2026-11-07",
+      "blocks": [
+        {
+          "start": "10:51",
+          "end": "12:26",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "12:55",
+          "end": "13:02",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "13:35",
+          "end": "13:52",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "16:45",
+          "end": "17:46",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "18:41",
+          "end": "18:48",
+          "course": "e198",
+          "title": "Bakfiets work",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "kind": "forward",
       "blocks": [
@@ -4726,6 +4850,14 @@
           "status": "done",
           "note": "Times from chat history and file save (01:08)",
           "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\PDF\\Worksheet V - Justin and Eric (2026-11-08).pdf"
+        },
+        {
+          "start": "12:56",
+          "end": "13:54",
+          "course": "e198",
+          "title": "Bakfiets: handoff review",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
         },
         {
           "start": "13:00",
@@ -4778,6 +4910,22 @@
           "note": "Room: DWE 1515"
         },
         {
+          "start": "10:42",
+          "end": "11:16",
+          "course": "e198",
+          "title": "Bakfiets: CAN order, Nicole's brake task, Discord replies",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "17:22",
+          "end": "19:59",
+          "course": "e198",
+          "title": "Bakfiets: CAN order, Nicole's brake task, Discord replies",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
           "start": "19:00",
           "end": "20:30",
           "course": "m115",
@@ -4786,6 +4934,41 @@
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf",
           "note": "Not sat (Justin, Mon 9:52 pm). New day to be set"
+        },
+        {
+          "start": "20:44",
+          "end": "21:03",
+          "course": "e198",
+          "title": "Bakfiets: CAN order, Nicole's brake task, Discord replies",
+          "status": "done",
+          "note": "Times from Claude session activity (logged Nov 9). Time in the bay without Claude open is not counted"
+        },
+        {
+          "start": "22:20",
+          "end": "22:30",
+          "course": "e150",
+          "unit": "e150-fx-new",
+          "title": "Same-day review: selection and insertion sort (3.04-3.05)",
+          "status": "now",
+          "note": "Short review given in chat"
+        },
+        {
+          "start": "22:30",
+          "end": "22:40",
+          "course": "m115",
+          "unit": "m115-fx-new",
+          "title": "Same-day review: 5.3 operations on linear maps",
+          "status": "now",
+          "note": "Short review given in chat"
+        },
+        {
+          "start": "22:40",
+          "end": "22:50",
+          "course": "m117",
+          "unit": "m117-fx-new",
+          "title": "Same-day review: Fundamental Theorem of Calculus",
+          "status": "now",
+          "note": "Short review given in chat"
         }
       ]
     },
