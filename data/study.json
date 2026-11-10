@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:10:00-05:00",
+  "updated": "2026-11-10T17:15:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5029,13 +5029,13 @@
         },
         {
           "start": "17:15",
-          "end": "18:45",
+          "end": "18:20",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150: redo the real F26 midterm, 90 min strict, closed book, on paper, then send photos",
+          "title": "ECE 150: redo the F26 midterm questions you lost marks on (Q2, 3, 4, 7, 13, 14, 15 = 26 marks), 65 min, closed book, on paper, then send photos",
           "status": "now",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
-          "note": "Moved from Sun Nov 8. Ends 6:45 so there is a break before the Math 115 exam at 7"
+          "note": "Moved from Sun Nov 8. Only the big misses, from the Oct 23 marked copy. Skips Q1, 5, 6, 8-10 (nearly full marks) and Q11-12 (bonus)"
         },
         {
           "start": "19:00",
