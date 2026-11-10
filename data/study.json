@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:50:21-05:00",
+  "updated": "2026-11-09T21:55:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4777,8 +4777,9 @@
           "course": "m115",
           "unit": "m115-fx-mock",
           "title": "Math 115 MOCK: W24 final, taught questions only, about 1.8 min per mark, closed book. Skip anything not taught. Also tutorial prep",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf",
+          "note": "Not sat (Justin, Mon 9:52 pm). New day to be set"
         }
       ]
     },
