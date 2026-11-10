@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T21:55:00-05:00",
+  "updated": "2026-11-09T22:05:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -311,6 +311,12 @@
           "title": "1.32–1.33 Arrays, passing arrays to functions",
           "taught": "2026-10-09",
           "note": "1.33 continues next lecture"
+        },
+        {
+          "id": "sort",
+          "title": "3.04–3.05 Selection sort, insertion sort",
+          "taught": "2026-11-09",
+          "note": "Lecture reached the slide after insertion sort (start of 3.06 recursion?)"
         }
       ],
       "weakest_skill": "Writing code from a blank page (reported 2026-10-09)"
@@ -4727,8 +4733,8 @@
           "course": "e105",
           "unit": "e105-fx-new",
           "title": "ECE 105 Mastering Physics: finish the assignment",
-          "status": "now",
-          "note": "Due time assumed Sun 11:59 pm, check LEARN"
+          "status": "done",
+          "note": "Submitted (Justin said Mon Nov 9). Exact time not given"
         },
         {
           "start": "14:00",
@@ -4794,7 +4800,16 @@
           "unit": "m115-fx-past",
           "title": "Math 115 EXAM: 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
+          "note": "Clashes with the ECE 198 presentation at 9:00. New time to be set"
+        },
+        {
+          "start": "09:00",
+          "end": "09:50",
+          "course": "e198",
+          "title": "ECE 198 presentation",
+          "status": "planned",
+          "note": "Start 9:00 from Justin. End time and room not given"
         },
         {
           "start": "10:30",
