@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:30:00-05:00",
+  "updated": "2026-11-09T22:50:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4969,6 +4969,18 @@
           "title": "Same-day review: Fundamental Theorem of Calculus",
           "status": "now",
           "note": "Short review given in chat"
+        },
+        {
+          "start": "22:50",
+          "end": "23:40",
+          "course": "m115",
+          "unit": "m115-fx-new",
+          "title": "Math 115 exam pack: 4.1-4.3, one 50 min block (4.1.3, 4.3.1, F15 midterm Q8), closed book",
+          "status": "now",
+          "doc": "Math 115 - Exam pack (4.1 to 4.3, 50 min).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Exam pack (4.1 to 4.3, 50 min).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1109/Math%20115%20-%20Exam%20pack%20%284.1%20to%204.3%2C%2050%20min%29.pdf",
+          "note": "Asked for by Justin at 10:40 pm. Uses no questions from tomorrow's Tutorial 5 exam or the W24 final"
         }
       ]
     },
