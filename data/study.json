@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T23:15:00-05:00",
+  "updated": "2026-11-10T17:05:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -598,6 +598,13 @@
       "topic": "stack",
       "why": "2026-10-20 F25 mock Q7 1.5/5: run main's loop for real (f(5), f(13), f(91)) to find the first moment the condition holds before drawing",
       "exam_retest": "Thu evening redo",
+      "status": "weak"
+    },
+    {
+      "course": "m115",
+      "topic": "4.3",
+      "why": "2026-11-09: 2015F MT Q8(a) and (b), no idea where to start on independence/dependence proofs. Routine: write the definition first (set a combination = 0), rewrite in the old vectors, force the coefficients",
+      "exam_retest": "Tutorial 5 exam Tue Nov 10 (8 real questions), then W24 final Fri Nov 13",
       "status": "weak"
     }
   ],
@@ -4976,11 +4983,15 @@
           "course": "m115",
           "unit": "m115-fx-past",
           "title": "Math 115 exam pack: 4.1-4.3, 50 min, closed book (F15 midterm Q8, F19 midterm Q8, 3 New exam-style questions)",
-          "status": "now",
+          "status": "done",
           "doc": "Math 115 - Exam pack (4.1 to 4.3, 50 min).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Exam pack (4.1 to 4.3, 50 min).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1109/Math%20115%20-%20Exam%20pack%20%284.1%20to%204.3%2C%2050%20min%29.pdf",
-          "note": "Rebuilt 11 pm at Justin's request: real exam questions first, exam-style New questions to fill. Every other real 4.1-4.3 question is in tomorrow's exam or the W24 mock, so those stay unseen"
+          "note": "Rebuilt 11 pm at Justin's request: real exam questions first, exam-style New questions to fill. Every other real 4.1-4.3 question is in tomorrow's exam or the W24 mock, so those stay unseen. Done with help late Mon: Q1(a)(b) walked through, Q2-Q4 explained. Not a clean sitting",
+          "missed": [
+            "2015F MT Q8(a): no start on a dependence proof (walked through)",
+            "2015F MT Q8(b): independence of {A v_j} (answer given)"
+          ]
         }
       ]
     },
@@ -5199,6 +5210,52 @@
   ],
   "deadlines": [
     {
+      "course": "m117",
+      "title": "Assignment 3 (trig)",
+      "note": "Done",
+      "done": true
+    },
+    {
+      "course": "m115",
+      "title": "Mock (protected): Math 115 F25-M",
+      "note": "Untouched until the week of the midterm. Timed, closed book, no formula sheet. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "course": "m117",
+      "title": "Mock (protected): Math 117 F23-M",
+      "note": "Untouched until the week of the midterm. Timed, closed book. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "course": "e150",
+      "title": "Mock (protected): ECE 150 F24-M",
+      "note": "Untouched until the week of the midterm. Timed, on paper. The only whole papers in the plan, kept for midterm week"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "en192",
+      "title": "Memo final + presentation draft",
+      "note": "Own target"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "en192",
+      "title": "Swales × Shark-Tank analysis",
+      "weight": "3%",
+      "note": "Confirm the date"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "e198",
+      "title": "Workshop 2 homework (Crowdmark)",
+      "note": "11:30 pm"
+    },
+    {
+      "date": "2026-10-04",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "Hard deadline today"
+    },
+    {
       "date": "2026-10-05",
       "course": "m117",
       "title": "Tutorial",
@@ -5217,25 +5274,6 @@
       "note": "10:30 am"
     },
     {
-      "date": "2026-10-20",
-      "course": "e150",
-      "title": "Marmoset project: Integer Functions",
-      "note": "Due Oct 20"
-    },
-    {
-      "date": "2026-10-04",
-      "course": "en192",
-      "title": "Memo final + presentation draft",
-      "note": "Own target"
-    },
-    {
-      "date": "2026-10-04",
-      "course": "en192",
-      "title": "Swales × Shark-Tank analysis",
-      "weight": "3%",
-      "note": "Confirm the date"
-    },
-    {
       "date": "2026-10-06",
       "course": "e198",
       "title": "Group Deliverable 1, part 1",
@@ -5243,37 +5281,10 @@
       "note": "Oct 6 (groups 1–20) or Oct 7 (21–40), 11:59 pm"
     },
     {
-      "course": "m117",
-      "title": "Assignment 3 (trig)",
-      "note": "Done",
-      "done": true
-    },
-    {
-      "date": "2026-10-04",
-      "course": "e198",
-      "title": "Workshop 2 homework (Crowdmark)",
-      "note": "11:30 pm"
-    },
-    {
-      "date": "2026-10-04",
-      "course": "e105",
-      "title": "Mastering Physics assignment",
-      "note": "Hard deadline today"
-    },
-    {
-      "course": "m115",
-      "title": "Mock (protected): Math 115 F25-M",
-      "note": "Untouched until the week of the midterm. Timed, closed book, no formula sheet. The only whole papers in the plan, kept for midterm week"
-    },
-    {
-      "course": "m117",
-      "title": "Mock (protected): Math 117 F23-M",
-      "note": "Untouched until the week of the midterm. Timed, closed book. The only whole papers in the plan, kept for midterm week"
-    },
-    {
+      "date": "2026-10-20",
       "course": "e150",
-      "title": "Mock (protected): ECE 150 F24-M",
-      "note": "Untouched until the week of the midterm. Timed, on paper. The only whole papers in the plan, kept for midterm week"
+      "title": "Marmoset project: Integer Functions",
+      "note": "Due Oct 20"
     },
     {
       "date": "2026-10-21",
@@ -5348,19 +5359,35 @@
       "course": "en192",
       "title": "Week 8: Rationale II worksheet",
       "weight": "3%",
-      "note": "Sun 11:59 pm. Worksheet V done"
+      "note": "Sun 11:59 pm. Worksheet V done",
+      "done": true
+    },
+    {
+      "date": "2026-11-08",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "Submitted (Justin, Nov 9)",
+      "done": true
     },
     {
       "date": "2026-11-10",
       "course": "e150",
       "title": "Project 3: Arrays (Marmoset)",
-      "note": "Tue 10:00 pm. Submitted Tue Nov 3"
+      "note": "Tue 10:00 pm. Submitted Tue Nov 3",
+      "done": true
     },
     {
       "date": "2026-11-10",
       "course": "e190",
       "title": "Group Deliverable 2",
-      "note": "Groups 1-20 (group 14), Tue 11:59 pm"
+      "note": "Groups 1-20 (group 14), Tue 11:59 pm. Submitted (LEARN, Nov 10)",
+      "done": true
+    },
+    {
+      "date": "2026-11-13",
+      "course": "m115",
+      "title": "Exercise 03 (LEARN quiz)",
+      "note": "Fri 10:00 pm"
     },
     {
       "date": "2026-11-17",
@@ -5369,10 +5396,22 @@
       "note": "Groups 1-20 (group 14), Tue 11:59 pm"
     },
     {
+      "date": "2026-11-20",
+      "course": "m115",
+      "title": "Exercise 04 (LEARN quiz)",
+      "note": "Fri 10:00 pm"
+    },
+    {
       "date": "2026-11-22",
       "course": "en192",
       "title": "Week 10: Peer Review Drafts worksheet",
       "note": "Sun 11:59 pm"
+    },
+    {
+      "date": "2026-11-24",
+      "course": "e150",
+      "title": "Project 4: C-style strings (Marmoset)",
+      "note": "Tue 10:00 pm. Graded individual work: Justin writes the code"
     },
     {
       "date": "2026-11-26",
@@ -5404,13 +5443,7 @@
       "date": "2026-12-08",
       "course": "e190",
       "title": "Group Deliverable 4",
-      "note": "Tue 11:59 pm"
-    },
-    {
-      "date": "2026-11-08",
-      "course": "e105",
-      "title": "Mastering Physics assignment",
-      "note": "End of the week (assumed Sun 11:59 pm like the last one, check LEARN)"
+      "note": "Groups 1-40 (one dropbox), Tue 11:59 pm"
     },
     {
       "date": "2026-12-10",
