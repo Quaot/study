@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:50:00-05:00",
+  "updated": "2026-11-09T23:00:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4933,7 +4933,7 @@
           "title": "Math 115 MOCK: W24 final, taught questions only, about 1.8 min per mark, closed book. Skip anything not taught. Also tutorial prep",
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf",
-          "note": "Not sat (Justin, Mon 9:52 pm). New day to be set"
+          "note": "Not sat (Justin, Mon 9:52 pm). Moved to Fri Nov 13, 7:00 pm (Justin's choice)"
         },
         {
           "start": "20:44",
@@ -5078,6 +5078,16 @@
           "title": "ECE 105 tutorial + weekly quiz (last 50 min)",
           "status": "planned",
           "note": "Room: DWE 3522A"
+        },
+        {
+          "start": "19:00",
+          "end": "20:30",
+          "course": "m115",
+          "unit": "m115-fx-mock",
+          "title": "Math 115 MOCK: W24 final, taught questions only, about 1.8 min per mark, closed book. Skip anything not taught",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf",
+          "note": "Moved from Mon Nov 9. Same PDF as before, in dOneSen 1109"
         }
       ]
     },
