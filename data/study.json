@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T22:20:00-05:00",
+  "updated": "2026-11-09T22:30:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4982,9 +4982,9 @@
           "course": "m115",
           "unit": "m115-fx-past",
           "title": "Math 115 EXAM: 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
-          "note": "Clashes with the ECE 198 presentation at 9:00. New time to be set"
+          "note": "Clashed with the ECE 198 presentation. Moved to Tue 7:00 pm (Justin's choice)"
         },
         {
           "start": "09:00",
@@ -5002,6 +5002,16 @@
           "title": "Math 115 tutorial",
           "status": "planned",
           "note": "Room: DWE 3516"
+        },
+        {
+          "start": "19:00",
+          "end": "20:20",
+          "course": "m115",
+          "unit": "m115-fx-past",
+          "title": "Math 115 EXAM: 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
+          "note": "Moved from 8:45 am. Sits after the tutorial now, so it checks 4.1-4.3 instead of previewing it. ECE 190 Deliverable 2 is due 11:59 pm"
         }
       ]
     },
