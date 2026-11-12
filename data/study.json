@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T00:00:00-05:00",
+  "updated": "2026-11-12T00:15:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5078,12 +5078,12 @@
           "end": "23:59",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 exam pack, Block 1: F25 midterm Q5, Q4, Q9, Q10, Q3 (21 marks, 52.5 min), closed book. Block 2 (F26 bonus Q11, Q12, 25 min) next",
+          "title": "ECE 150 practice exam (real midterm layout): F25 midterm Q5, Q4, Q9, Q10, Q3 and F26 Q11, Q12, 31 marks, 60 min, closed book, on paper",
           "status": "now",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Exam pack (F25 midterm misses and F26 bonus).pdf",
-          "note": "Asked for by Justin at 11:10 pm as an exam-style PDF. Block 1 runs to about 12:30. Block 2 still needs a day",
-          "doc": "ECE 150 - Exam pack (F25 midterm misses and F26 bonus).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1111/ECE%20150%20-%20Exam%20pack%20%28F25%20midterm%20misses%20and%20F26%20bonus%29.pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Practice exam (F25 misses and F26 bonus).pdf",
+          "note": "Asked for by Justin at 11:10 pm, rebuilt in the real ECE 150 paper layout (one question per page). Answer key is a separate PDF in dOneSen 1111",
+          "doc": "ECE 150 - Practice exam (F25 misses and F26 bonus).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1111/ECE%20150%20-%20Practice%20exam%20%28F25%20misses%20and%20F26%20bonus%29.pdf"
         }
       ]
     },
