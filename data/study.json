@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:10:00-05:00",
+  "updated": "2026-11-11T23:20:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5071,6 +5071,16 @@
           "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14. Also tutorial prep",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf"
+        },
+        {
+          "start": "23:15",
+          "end": "23:59",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 on computer: F25 midterm questions missed on the Oct 20 mock (Q5, Q4, Q9, Q10, Q3 = 21 marks, about 52 min). Write first, then compile and test",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\F25 midterm misses (2026-11-11)",
+          "note": "Asked for by Justin at 11:10 pm. Runs to about 12:05. Real exam questions, tests built from the question's examples"
         }
       ]
     },
