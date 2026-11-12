@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:25:00-05:00",
+  "updated": "2026-11-12T13:35:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5135,13 +5135,13 @@
         },
         {
           "start": "17:30",
-          "end": "18:00",
+          "end": "18:30",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 practice exam (real midterm layout), continue: Q5-7 (14 marks, about 27 min), closed book",
+          "title": "ECE 150 practice exam (real midterm layout), whole paper again: F25 midterm Q5, Q4, Q9, Q10, Q3 and F26 Q11, Q12, 31 marks, 60 min, closed book",
           "status": "planned",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Practice exam 2026-11-11 - F25 misses and F26 bonus.pdf",
-          "note": "Order (Justin, Nov 12): finish F25 misses and F26 (this, then F26 Q7 at 6:30), then F24, F23, F22. Type answers in the Q1-4 answers file, whole attempt before compiling. Key is the separate ANSWER KEY PDF"
+          "note": "Justin, Nov 12: redo the entire paper instead of only Q5-7. Fresh answers file: ECE 150\\2 Practice\\Practice exam 2026-11-11 - my answers (full, Nov 12).txt. Whole attempt before compiling. Key is the separate ANSWER KEY PDF, open after. Then F26 Q7 at 6:30, F24 Sat, F23 Sat night, F22 Sun"
         },
         {
           "start": "18:30",
