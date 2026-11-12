@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:30:00-05:00",
+  "updated": "2026-11-11T23:50:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5077,10 +5077,12 @@
           "end": "23:59",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 on computer: F25 midterm misses (Q5, Q4, Q9, Q10, Q3) plus F26 bonus Q11 and Q12 = 31 marks, about 77 min. Write first, then compile and test",
+          "title": "ECE 150 exam pack, Block 1: F25 midterm Q5, Q4, Q9, Q10, Q3 (21 marks, 52.5 min), closed book. Block 2 (F26 bonus Q11, Q12, 25 min) next",
           "status": "now",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\F25 midterm misses (2026-11-11)",
-          "note": "Asked for by Justin at 11:10 pm, bonus questions added at his request. About 77 min, so it runs past midnight or finishes in a second block. Tests built from the questions' examples"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Exam pack (F25 midterm misses and F26 bonus).pdf",
+          "note": "Asked for by Justin at 11:10 pm as an exam-style PDF. Block 1 runs to about 12:30. Block 2 still needs a day",
+          "doc": "ECE 150 - Exam pack (F25 midterm misses and F26 bonus).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1111/ECE%20150%20-%20Exam%20pack%20%28F25%20midterm%20misses%20and%20F26%20bonus%29.pdf"
         }
       ]
     },
