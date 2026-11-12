@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:47:00-05:00",
+  "updated": "2026-11-12T13:52:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5126,13 +5126,13 @@
         },
         {
           "start": "13:45",
-          "end": "15:15",
+          "end": "14:45",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 MOCK: whole F25 midterm, 48 marks, 90 min, closed book, on paper",
+          "title": "ECE 150 MOCK: rest of the F25 midterm: Q1, 2, 3, 6, 7, 8, 11, 12, 13, 14 (31 marks, 59 min), closed book, on paper",
           "status": "now",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
-          "note": "Started now (Justin, 1:45 pm). Order (Justin, Nov 12): whole F25 and F26 midterms, then F24, F23, F22 finals. Key: F25-M-S (answer key, rebuilt and tested, open after mock). Send photos after. Replaces the misses-only practice exam"
+          "note": "Started 1:45 pm. Q4, Q5, Q9 and Q10 were done Wed night in the practice exam (about 9-12 / 17), so they are skipped. Key: F25-M-S (answer key, rebuilt and tested, open after mock). Send photos after. Order (Justin, Nov 12): F25 and F26 midterms, then F24, F23, F22 finals"
         },
         {
           "start": "16:30",
