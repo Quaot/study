@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:00:00-05:00",
+  "updated": "2026-11-12T13:15:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5233,15 +5233,13 @@
         },
         {
           "start": "20:00",
-          "end": "21:05",
+          "end": "20:50",
           "course": "e150",
-          "unit": "e150-fx-new",
-          "title": "Catch-up: ECE 150 practice exam, new content paper 1: dynamic memory, pointers, searching (2.03-3.03), 34 marks, 65 min, closed book",
+          "unit": "e150-fx-past",
+          "title": "Catch-up: ECE 150 F23 final, the new-content questions only: Q5, Q7, Q9, Q11, Q12, Q13 (24 marks, 50 min), closed book, on paper",
           "status": "planned",
-          "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
-          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
-          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F23-F.pdf",
+          "note": "Real exam questions first (Justin, Nov 12). Q1-4, 6 and 8 were done in the Oct 17 pack. Skip Q10 and Q14 (classes, linked lists). The paper has marking notes printed under some questions: cover them with a sheet. Code questions on paper here, since this is a mock"
         }
       ]
     },
@@ -5264,12 +5262,29 @@
           "end": "21:05",
           "course": "e150",
           "unit": "e150-fx-new",
+          "title": "Catch-up: ECE 150 practice exam, new content paper 1: dynamic memory, pointers, searching (2.03-3.03), 34 marks, 65 min, closed book",
+          "status": "planned",
+          "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first)"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "blocks": [
+        {
+          "start": "20:00",
+          "end": "21:05",
+          "course": "e150",
+          "unit": "e150-fx-new",
           "title": "Catch-up: ECE 150 practice exam, new content paper 2: sorting and recursion (3.04-3.08), 33 marks, 63 min, closed book",
           "status": "planned",
           "doc": "ECE 150 - Practice exam (new content, paper 2).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 2).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%202%29.pdf",
-          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after"
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first)"
         }
       ]
     },
