@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:40:00-05:00",
+  "updated": "2026-11-12T12:50:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5112,7 +5112,7 @@
           "title": "Math 115 EXAM: 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
-          "note": "Not sat (Justin, Thu 12:40 pm). New time to be set"
+          "note": "Not sat (Justin, Thu 12:40 pm). Moved to tonight's 8 pm catch-up, starting 8:20 after the ECE 105 mock"
         },
         {
           "start": "12:35",
@@ -5151,6 +5151,16 @@
           "title": "ECE 105 MOCK: Keshavarzi practice final, taught problems only, timed. Also quiz prep",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 105 - Mock (Keshavarzi practice final).pdf"
+        },
+        {
+          "start": "20:20",
+          "end": "21:35",
+          "course": "m115",
+          "unit": "m115-fx-past",
+          "title": "Catch-up: Math 115 EXAM 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
+          "note": "Daily 8 pm catch-up block (Justin, Nov 12): work down the unfinished list until it is empty. Starts 8:20 because the ECE 105 mock runs to 8:15"
         }
       ]
     },
@@ -5185,6 +5195,16 @@
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1109\\Math 115 - Mock (W24 final).pdf",
           "note": "Moved from Mon Nov 9. Same PDF as before, in dOneSen 1109"
+        },
+        {
+          "start": "20:30",
+          "end": "21:30",
+          "course": "e105",
+          "unit": "e105-fx-mt",
+          "title": "Catch-up: ECE 105 Mock A problems 1-5 (50 marks, about 60 min), closed book, then send photos",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 105\\2 Practice\\PDF\\Mock A 2026-10-26 - ECE 105 practice midterm.pdf",
+          "note": "Daily 8 pm catch-up block (Justin, Nov 12): work down the unfinished list until it is empty. Starts 8:30 because the Math 115 W24 mock runs to 8:30. Short answers were done Oct 27; do only the 5 problems"
         }
       ]
     },
