@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T12:50:00-05:00",
+  "updated": "2026-11-12T13:00:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5230,6 +5230,18 @@
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf",
           "note": "Moved from 2026-11-11. Q7 and Q9 (recursion, searching, sorting) added Nov 12 now that 3.04-3.08 are taught"
+        },
+        {
+          "start": "20:00",
+          "end": "21:05",
+          "course": "e150",
+          "unit": "e150-fx-new",
+          "title": "Catch-up: ECE 150 practice exam, new content paper 1: dynamic memory, pointers, searching (2.03-3.03), 34 marks, 65 min, closed book",
+          "status": "planned",
+          "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after"
         }
       ]
     },
@@ -5246,6 +5258,18 @@
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
           "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10)"
+        },
+        {
+          "start": "20:00",
+          "end": "21:05",
+          "course": "e150",
+          "unit": "e150-fx-new",
+          "title": "Catch-up: ECE 150 practice exam, new content paper 2: sorting and recursion (3.04-3.08), 33 marks, 63 min, closed book",
+          "status": "planned",
+          "doc": "ECE 150 - Practice exam (new content, paper 2).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 2).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%202%29.pdf",
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after"
         }
       ]
     },
