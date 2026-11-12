@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:35:00-05:00",
+  "updated": "2026-11-12T13:45:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5135,13 +5135,13 @@
         },
         {
           "start": "17:30",
-          "end": "18:30",
+          "end": "19:00",
           "course": "e150",
           "unit": "e150-fx-mt",
-          "title": "ECE 150 practice exam (real midterm layout), whole paper again: F25 midterm Q5, Q4, Q9, Q10, Q3 and F26 Q11, Q12, 31 marks, 60 min, closed book",
+          "title": "ECE 150 MOCK: whole F25 midterm, 48 marks, 90 min, closed book, on paper",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Practice exam 2026-11-11 - F25 misses and F26 bonus.pdf",
-          "note": "Justin, Nov 12: redo the entire paper instead of only Q5-7. Fresh answers file: ECE 150\\2 Practice\\Practice exam 2026-11-11 - my answers (full, Nov 12).txt. Whole attempt before compiling. Key is the separate ANSWER KEY PDF, open after. Then F26 Q7 at 6:30, F24 Sat, F23 Sat night, F22 Sun"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
+          "note": "Order (Justin, Nov 12): whole F25 and F26 midterms, then F24, F23, F22 finals. Key: F25-M-S (answer key, rebuilt and tested, open after mock). Send photos after. Replaces the misses-only practice exam"
         },
         {
           "start": "18:30",
@@ -5149,9 +5149,9 @@
           "course": "e150",
           "unit": "e150-fx-mt",
           "title": "ECE 150: F26 midterm Q7 (call stack) on paper, closed book, then send a photo",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
-          "note": "Skipped in Tuesday's typed redo. Tracing questions stay on paper"
+          "note": "Folded into the whole F26 midterm on Fri 4:30 pm (Justin wants whole papers)"
         },
         {
           "start": "19:00",
@@ -5195,6 +5195,16 @@
           "title": "Math 115 Exercise 03 (LEARN quiz)",
           "status": "planned",
           "note": "Due Fri 10:00 pm. Free slot after the ECE 105 tutorial"
+        },
+        {
+          "start": "16:30",
+          "end": "18:00",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 MOCK: whole F26 midterm again, 47 marks plus 10 bonus (Q11, Q12), 90 min, closed book, on paper",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F26-M (blank, for redo).pdf",
+          "note": "Order (Justin, Nov 12): whole F25 and F26 midterms, then F24, F23, F22 finals. Free after the 3:30 one-off Math 115 lecture. Compare with your marked copy (23/47) after. Send photos"
         },
         {
           "start": "19:00",
