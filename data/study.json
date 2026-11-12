@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:15:00-05:00",
+  "updated": "2026-11-12T13:25:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5120,9 +5120,9 @@
           "course": "e150",
           "unit": "e150-fx-mt",
           "title": "ECE 150 practice exam (real midterm layout), continue: Q5-7 (14 marks, about 27 min), closed book",
-          "status": "now",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Practice exam 2026-11-11 - F25 misses and F26 bonus.pdf",
-          "note": "Type answers on the computer, whole attempt before compiling. Add them to the Q1-4 answers file. Key is the separate ANSWER KEY PDF, open after"
+          "note": "Not started before ENGL at 1:00. Moved to 5:30 pm, after the ECE 150 tutorial"
         },
         {
           "start": "16:30",
@@ -5132,6 +5132,16 @@
           "title": "ECE 150 tutorial",
           "status": "planned",
           "note": "Room: PSE 5353"
+        },
+        {
+          "start": "17:30",
+          "end": "18:00",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 practice exam (real midterm layout), continue: Q5-7 (14 marks, about 27 min), closed book",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Practice exam 2026-11-11 - F25 misses and F26 bonus.pdf",
+          "note": "Order (Justin, Nov 12): finish F25 misses and F26 (this, then F26 Q7 at 6:30), then F24, F23, F22. Type answers in the Q1-4 answers file, whole attempt before compiling. Key is the separate ANSWER KEY PDF"
         },
         {
           "start": "18:30",
