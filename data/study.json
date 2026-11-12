@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T17:15:00-05:00",
+  "updated": "2026-11-11T23:10:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -491,7 +491,7 @@
     {
       "course": "e150",
       "topic": "loops",
-      "why": "2026-10-12: loops Block 1. A counter must go up by 1 (++m), not by the loop index (m += k). Stop conditions are off by one: test the NEXT step before taking it (or trace n = 8 by hand). Edge cases missed: negative n, n = 0. Needed hints on 3 of 6 questions",
+      "why": "2026-10-12: loops Block 1. A counter must go up by 1 (++m), not by the loop index (m += k). Stop conditions are off by one: test the NEXT step before taking it (or trace n = 8 by hand). Edge cases missed: negative n, n = 0. Needed hints on 3 of 6 questions | 2026-11-10 F26 MT redo: Q2 off by one (loop ran to 0), Q13 while loops that never change their condition. Check: what inside the loop changes the condition? Trace the first example once",
       "exam_retest": "Redo WITHOUT help on Saturday Pass 2: 22F FE Q2 (ilog2), 22F FE Q1, 22F MT Q5. New exam retests: loops Block 2 (23F MT Q9, 23F MT Q3, 23F MT Q4)",
       "status": "weak"
     },
@@ -547,14 +547,14 @@
     {
       "course": "e150",
       "topic": "fn",
-      "why": "2026-10-15: functions/call stack Block 1 needed the answer key throughout (references vs values, tracing the stack)",
+      "why": "2026-10-15: functions/call stack Block 1 needed the answer key throughout (references vs values, tracing the stack) | 2026-11-10 F26 MT redo Q14: put & on parameters with literal defaults. Use & only when the caller's variable must change",
       "exam_retest": "Saturday Pass 2: functions Block 1 from blank, then the ECE 150 mock (Tue)",
       "status": "weak"
     },
     {
       "course": "e150",
       "topic": "bit",
-      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons | 2026-10-19 Pass 2: redone correctly from blank | 2026-10-20 F25 mock Q9: shift needs assignment (mask <<= 1), loop k from m to n-1",
+      "why": "2026-10-17 F23 diagnostic: bit masks. Read bit k: (n >> k) & 1u. Set |, flip ^, clear & ~(1u << k). Bracket & in comparisons | 2026-10-19 Pass 2: redone correctly from blank | 2026-10-20 F25 mock Q9: shift needs assignment (mask <<= 1), loop k from m to n-1 | 2026-11-10 F26 MT redo Q4: right on the second try with (n >> k) & 1u and a first flag (after hints, so not clean)",
       "exam_retest": "Thu 8:30 pm bitwise block",
       "status": "weak"
     },
@@ -568,7 +568,7 @@
     {
       "course": "e150",
       "topic": "digits",
-      "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild | 2026-10-19 Pass 2: redone correctly from blank",
+      "why": "2026-10-17 F23 diagnostic: digit manipulation with /10 and %10 (round3). Strip the sign first, divide until a fixed number of digits while counting a power of 10, rebuild | 2026-10-19 Pass 2: redone correctly from blank | 2026-11-10 F26 MT redo Q3 commas: no plan. Split by powers of 1000: n / d is the group, n %= d keeps the rest",
       "exam_retest": "Sunday Pass 2: redo F23 Q4 from blank",
       "status": "weak"
     },
@@ -5029,13 +5029,23 @@
         },
         {
           "start": "17:15",
-          "end": "18:20",
+          "end": "19:28",
           "course": "e150",
           "unit": "e150-fx-mt",
           "title": "ECE 150: redo the F26 midterm questions you lost marks on (Q2, 3, 4, 7, 13, 14, 15 = 26 marks), 65 min, closed book, on paper, then send photos",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
-          "note": "Moved from Sun Nov 8. Only the big misses, from the Oct 23 marked copy. Skips Q1, 5, 6, 8-10 (nearly full marks) and Q11-12 (bonus)"
+          "note": "Typed in a plain text file (no compiler), then reviewed question by question in chat. End time from the last save of the answer file (7:28 pm)",
+          "score": "About 8.5-11 / 21 on the six questions done (Q7 skipped). Midterm on the same questions: 4.5 / 21",
+          "missed": [
+            "Q2 integer_log 2/3: loop ran to n == 0, so off by one (counts digits). Loop while n >= b",
+            "Q3 commas 0.5-1/4: plz counted zeros wrong, print unfinished. Second try still had 4 bugs (copied assert, loop condition never changes, n % d, cout missing <<)",
+            "Q4 print_powers_2 first try 0.5-1/4 (smallest-first greedy, if (n = 0), endless else). Second try 3.5-4/4 with bit test and first flag",
+            "Q7 call stack: skipped (moved to a paper block)",
+            "Q13 correct_time 1.5-2/5: while loops never change seconds, > 1 should be >= 1. & part right. Rewrote correctly after seeing the fix",
+            "Q14 product 1/2: double & cannot take a literal default. Defaults in the declaration only was right",
+            "Q15 test table 3/3: every branch covered"
+          ]
         },
         {
           "start": "19:00",
@@ -5076,6 +5086,16 @@
           "title": "ECE 150 tutorial",
           "status": "planned",
           "note": "Room: PSE 5353"
+        },
+        {
+          "start": "18:30",
+          "end": "18:45",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150: F26 midterm Q7 (call stack) on paper, closed book, then send a photo",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1108\\ECE 150 - Midterm redo (F26, blank).pdf",
+          "note": "Skipped in Tuesday's typed redo. Tracing questions stay on paper"
         },
         {
           "start": "19:00",
