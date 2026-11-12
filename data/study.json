@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:58:00-05:00",
+  "updated": "2026-11-12T12:35:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -327,6 +327,12 @@
           "title": "3.04–3.05 Selection sort, insertion sort",
           "taught": "2026-11-09",
           "note": "Lecture reached the start of 3.06 Recursive algorithms (confirmed by Justin)"
+        },
+        {
+          "id": "rec",
+          "title": "3.06–3.08 Recursive algorithms, recursive functions, solving problems recursively",
+          "taught": "2026-11-11",
+          "note": "Justin, Thu Nov 12: just finished recursive algorithms"
         }
       ],
       "weakest_skill": "Writing code from a blank page (reported 2026-10-09)"
@@ -5109,6 +5115,16 @@
           "note": "Moved from 2026-11-10"
         },
         {
+          "start": "12:35",
+          "end": "13:00",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 practice exam (real midterm layout), continue: Q5-7 (14 marks, about 27 min), closed book",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\Practice exam 2026-11-11 - F25 misses and F26 bonus.pdf",
+          "note": "Type answers on the computer, whole attempt before compiling. Add them to the Q1-4 answers file. Key is the separate ANSWER KEY PDF, open after"
+        },
+        {
           "start": "16:30",
           "end": "17:20",
           "course": "e150",
@@ -5152,6 +5168,15 @@
           "note": "Room: DWE 3522A"
         },
         {
+          "start": "10:30",
+          "end": "11:30",
+          "course": "m115",
+          "unit": "m115-fx-new",
+          "title": "Math 115 Exercise 03 (LEARN quiz)",
+          "status": "planned",
+          "note": "Due Fri 10:00 pm. Free slot after the ECE 105 tutorial"
+        },
+        {
           "start": "19:00",
           "end": "20:30",
           "course": "m115",
@@ -5178,13 +5203,13 @@
         },
         {
           "start": "14:00",
-          "end": "15:20",
+          "end": "15:40",
           "course": "e150",
           "unit": "e150-fx-mock",
-          "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14. Also tutorial prep",
+          "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-10 = 42 marks), 100 min, closed book, on paper. Skip Q11-14 (linked lists, inheritance)",
           "status": "planned",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf",
-          "note": "Moved from 2026-11-11"
+          "note": "Moved from 2026-11-11. Q7 and Q9 (recursion, searching, sorting) added Nov 12 now that 3.04-3.08 are taught"
         }
       ]
     },
@@ -5199,7 +5224,8 @@
           "unit": "e150-fx-mock",
           "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
           "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf"
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10)"
         }
       ]
     },
