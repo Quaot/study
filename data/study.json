@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T23:50:00-05:00",
+  "updated": "2026-11-11T23:55:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5053,9 +5053,9 @@
           "course": "m115",
           "unit": "m115-fx-past",
           "title": "Math 115 EXAM: 4.1-4.3 (tutorial 5), 8 real exam questions, 72 min, closed book, then send photos",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1110\\Math 115 - Mock (tutorial 5 exam, 4.1 to 4.3).pdf",
-          "note": "Moved from 8:45 am. Sits after the tutorial now, so it checks 4.1-4.3 instead of previewing it. ECE 190 Deliverable 2 is due 11:59 pm"
+          "note": "Moved from 8:45 am. Sits after the tutorial now, so it checks 4.1-4.3 instead of previewing it. ECE 190 Deliverable 2 is due 11:59 pm. Not sat (Justin, Wed 11:55 pm). New day to be set"
         }
       ]
     },
@@ -5069,8 +5069,9 @@
           "course": "e150",
           "unit": "e150-fx-mock",
           "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-6, 8, 10 = 33 marks), 80 min, closed book, on paper. Skip Q7, 9, 11-14. Also tutorial prep",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf",
+          "note": "Not sat (Justin, Wed 11:55 pm). New day to be set"
         },
         {
           "start": "23:15",
