@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:45:00-05:00",
+  "updated": "2026-11-12T13:47:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5125,6 +5125,16 @@
           "note": "Not started before ENGL at 1:00. Moved to 5:30 pm, after the ECE 150 tutorial"
         },
         {
+          "start": "13:45",
+          "end": "15:15",
+          "course": "e150",
+          "unit": "e150-fx-mt",
+          "title": "ECE 150 MOCK: whole F25 midterm, 48 marks, 90 min, closed book, on paper",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
+          "note": "Started now (Justin, 1:45 pm). Order (Justin, Nov 12): whole F25 and F26 midterms, then F24, F23, F22 finals. Key: F25-M-S (answer key, rebuilt and tested, open after mock). Send photos after. Replaces the misses-only practice exam"
+        },
+        {
           "start": "16:30",
           "end": "17:20",
           "course": "e150",
@@ -5132,16 +5142,6 @@
           "title": "ECE 150 tutorial",
           "status": "planned",
           "note": "Room: PSE 5353"
-        },
-        {
-          "start": "17:30",
-          "end": "19:00",
-          "course": "e150",
-          "unit": "e150-fx-mt",
-          "title": "ECE 150 MOCK: whole F25 midterm, 48 marks, 90 min, closed book, on paper",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\F25-M (mock version).pdf",
-          "note": "Order (Justin, Nov 12): whole F25 and F26 midterms, then F24, F23, F22 finals. Key: F25-M-S (answer key, rebuilt and tested, open after mock). Send photos after. Replaces the misses-only practice exam"
         },
         {
           "start": "18:30",
