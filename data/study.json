@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T01:00:00-05:00",
+  "updated": "2026-11-16T11:55:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5319,19 +5319,29 @@
         },
         {
           "start": "21:30",
-          "end": "21:45",
+          "end": "22:05",
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 F23 final Q9 (6 marks): selection sort that removes duplicates (sort_unique), typed in a plain editor",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-F23-F-Q9.pdf",
-          "note": "Real exam question on new content (3.04-3.08). About 12 min at exam pace. Answer file: 2 Practice\\ECE150-F23-F-Q9 - my answers (2026-11-15).txt. Tests: 2 Practice\\Source\\F23-F-Q9-tests. Justin will finish it later | Nov 15: plain selection sort written, duplicates part not started. Bugs: std:size_t (one colon), compares with arr[cap] instead of arr[max_i], no return. Finish it next time | Finished after midnight (3 drafts with feedback). Final logic right except max_i{} instead of max_i{n} (fails 3 of 7 tests); with that and 4 syntax slips fixed, all 7 pass. About 3.5-4.5/6. Loop-start pattern again | Rewrote it twice from memory: last version passes all 7 tests once one missing ')' in the if is added (third time that slip appeared)"
+          "note": "Real exam question on new content (3.04-3.08). About 12 min at exam pace. Answer file: 2 Practice\\ECE150-F23-F-Q9 - my answers (2026-11-15).txt. Tests: 2 Practice\\Source\\F23-F-Q9-tests. Justin will finish it later | Nov 15: plain selection sort written, duplicates part not started. Bugs: std:size_t (one colon), compares with arr[cap] instead of arr[max_i], no return. Finish it next time"
         }
       ]
     },
     {
       "date": "2026-11-16",
       "blocks": [
+        {
+          "start": "11:15",
+          "end": "11:55",
+          "course": "e150",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 F23 final Q9 (sort_unique) finished, then rewritten twice from memory",
+          "status": "done",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-F23-F-Q9.pdf",
+          "note": "Start time estimated. Draft 2 found the max but checked duplicates after the swap; draft 3 had max_i{} instead of max_i{n} (fails 3 of 7 tests). Last from-memory version passes all 7 once one missing ')' in the if is added (third time that slip). About 5.5-6/6. Loop-start and bracket-count patterns"
+        },
         {
           "start": "20:00",
           "end": "21:30",
