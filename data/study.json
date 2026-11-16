@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T13:52:00-05:00",
+  "updated": "2026-11-15T20:30:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5268,14 +5268,32 @@
       "kind": "forward",
       "blocks": [
         {
+          "start": "12:15",
+          "end": "16:15",
+          "course": "en192",
+          "title": "ENGL Assignment 2: drafted Recommended Actions and the two smaller projects from sources (UK DfT noise camera reports, NoivelCam, GPS timing, GCC-PHAT). Design changed to four monitors",
+          "status": "done",
+          "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
+          "note": "Times from the chat session. Sources are in ENGL 192\\7 Readings. Notes for redoing the other sections are in the quote bank file"
+        },
+        {
           "start": "14:00",
           "end": "15:30",
           "course": "e150",
           "unit": "e150-fx-mock",
           "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
-          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10)"
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Not re-planned yet."
+        },
+        {
+          "start": "16:30",
+          "end": "18:00",
+          "course": "e105",
+          "unit": "e105-fx-new",
+          "title": "Mastering Physics assignment (due Sun 11:59 pm)",
+          "status": "done",
+          "note": "Submitted before dinner (Justin, Nov 15). End time estimated"
         },
         {
           "start": "20:00",
@@ -5283,11 +5301,21 @@
           "course": "e150",
           "unit": "e150-fx-new",
           "title": "Catch-up: ECE 150 practice exam, new content paper 1: dynamic memory, pointers, searching (2.03-3.03), 34 marks, 65 min, closed book",
-          "status": "planned",
+          "status": "moved",
           "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
-          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first)"
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Not re-planned yet."
+        },
+        {
+          "start": "20:15",
+          "end": "21:30",
+          "course": "m117",
+          "unit": "m117-fx-new",
+          "title": "Math 117 Problem Set 8 as a test paper (Riemann sums, definite integrals, FTC), 39 suggested marks, 75 min, on paper, for Monday's 8:30 tutorial",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 117\\2 Practice\\PDF\\MATH117-PS8-Q.pdf",
+          "note": "Answers (the sheet's printed ones) are in MATH117-PS8-S.pdf, open after. Send photos to mark"
         }
       ]
     },
@@ -5650,6 +5678,13 @@
       "course": "e190",
       "title": "ECE 190 final exam",
       "note": "4:00 pm-6:00 pm. Room TBA, check Odyssey"
+    },
+    {
+      "date": "2026-11-15",
+      "course": "e105",
+      "title": "Mastering Physics assignment",
+      "note": "Sun 11:59 pm. Done Nov 15",
+      "done": true
     }
   ],
   "log": [],
