@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T21:50:00-05:00",
+  "updated": "2026-11-16T00:30:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5325,7 +5325,7 @@
           "title": "ECE 150 F23 final Q9 (6 marks): selection sort that removes duplicates (sort_unique), typed in a plain editor",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-F23-F-Q9.pdf",
-          "note": "Real exam question on new content (3.04-3.08). About 12 min at exam pace. Answer file: 2 Practice\\ECE150-F23-F-Q9 - my answers (2026-11-15).txt. Tests: 2 Practice\\Source\\F23-F-Q9-tests. Justin will finish it later | Nov 15: plain selection sort written, duplicates part not started. Bugs: std:size_t (one colon), compares with arr[cap] instead of arr[max_i], no return. Finish it next time"
+          "note": "Real exam question on new content (3.04-3.08). About 12 min at exam pace. Answer file: 2 Practice\\ECE150-F23-F-Q9 - my answers (2026-11-15).txt. Tests: 2 Practice\\Source\\F23-F-Q9-tests. Justin will finish it later | Nov 15: plain selection sort written, duplicates part not started. Bugs: std:size_t (one colon), compares with arr[cap] instead of arr[max_i], no return. Finish it next time | Finished after midnight (3 drafts with feedback). Final logic right except max_i{} instead of max_i{n} (fails 3 of 7 tests); with that and 4 syntax slips fixed, all 7 pass. About 3.5-4.5/6. Loop-start pattern again"
         }
       ]
     },
