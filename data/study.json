@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T20:30:00-05:00",
+  "updated": "2026-11-15T21:00:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -4344,15 +4344,6 @@
           "note": "Replaced by the two practice mocks (papers first)"
         },
         {
-          "start": "13:25",
-          "end": "14:45",
-          "course": "e105",
-          "unit": "e105-mock",
-          "status": "now",
-          "title": "ECE 105 MOCK B1 (concepts): problems P1-P5 first, then short answers. Hard stop 2:45, send photos",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B1 (concepts midterm).pdf"
-        },
-        {
           "start": "11:00",
           "end": "11:50",
           "course": "e105",
@@ -4377,6 +4368,15 @@
           "title": "ECE 105: light review (formula sheet, your misses), no new problems",
           "status": "moved",
           "note": "Replaced by the two practice mocks (papers first)"
+        },
+        {
+          "start": "13:25",
+          "end": "14:45",
+          "course": "e105",
+          "unit": "e105-mock",
+          "status": "now",
+          "title": "ECE 105 MOCK B1 (concepts): problems P1-P5 first, then short answers. Hard stop 2:45, send photos",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1026\\ECE 105 - Mock B1 (concepts midterm).pdf"
         },
         {
           "start": "15:00",
@@ -5284,7 +5284,7 @@
           "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
           "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
-          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Not re-planned yet."
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Re-planned to Mon Nov 16, 8 pm."
         },
         {
           "start": "16:30",
@@ -5305,7 +5305,7 @@
           "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
-          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Not re-planned yet."
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Not sat on Sun Nov 15: the day went to the ENGL report, Mastering Physics and Math 117 Problem Set 8 for Monday's tutorial. Re-planned to Wed Nov 18, 8 pm."
         },
         {
           "start": "20:15",
@@ -5324,7 +5324,40 @@
       "blocks": [
         {
           "start": "20:00",
+          "end": "21:30",
+          "course": "e150",
+          "unit": "e150-fx-mock",
+          "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
+          "status": "planned",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10). Moved from Sun Nov 15. Real exam questions first (Justin), so the F22 mock comes before the two new-content papers. Send photos to mark"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "blocks": [
+        {
+          "start": "20:00",
           "end": "21:05",
+          "course": "e150",
+          "unit": "e150-fx-new",
+          "title": "Catch-up: ECE 150 practice exam, new content paper 1: dynamic memory, pointers, searching (2.03-3.03), 34 marks, 65 min, closed book",
+          "status": "planned",
+          "doc": "ECE 150 - Practice exam (new content, paper 1).pdf",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 1).pdf",
+          "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%201%29.pdf",
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Moved from Sun Nov 15. Tue evening is left for ECE 190 Deliverable 3."
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "kind": "cumulative",
+      "blocks": [
+        {
+          "start": "10:00",
+          "end": "11:05",
           "course": "e150",
           "unit": "e150-fx-new",
           "title": "Catch-up: ECE 150 practice exam, new content paper 2: sorting and recursion (3.04-3.08), 33 marks, 63 min, closed book",
@@ -5332,7 +5365,7 @@
           "doc": "ECE 150 - Practice exam (new content, paper 2).pdf",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 2).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%202%29.pdf",
-          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first)"
+          "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Moved from Mon Nov 16 to make room for the F22 mock. Thu is ECE 105 quiz prep, Fri evening left free."
         }
       ]
     },
