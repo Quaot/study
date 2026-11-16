@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T11:55:00-05:00",
+  "updated": "2026-11-16T12:10:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5341,6 +5341,16 @@
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-F23-F-Q9.pdf",
           "note": "Start time estimated. Draft 2 found the max but checked duplicates after the swap; draft 3 had max_i{} instead of max_i{n} (fails 3 of 7 tests). Last from-memory version passes all 7 once one missing ')' in the if is added (third time that slip). About 5.5-6/6. Loop-start and bracket-count patterns"
+        },
+        {
+          "start": "12:15",
+          "end": "19:45",
+          "course": "e150",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 practice set through the day: sorting, searching and recursion (F24 final Q7, Q10, Q9; F23 final Q11-13; New insertion sort), 29 marks",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
+          "note": "Between classes, before the 8 pm F22 mock. Code questions typed in the notes file (2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt), call stacks on paper. Key: ECE150-Algo-1116-S.pdf, open after a question. Send answers to mark"
         },
         {
           "start": "20:00",
