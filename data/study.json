@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T14:05:00-05:00",
+  "updated": "2026-11-17T18:25:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5430,9 +5430,34 @@
           "end": "14:20",
           "course": "en192",
           "title": "ENGL Assignment 2: technical report (15 min)",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
           "note": "Back to ECE 150 Q3 after"
+        },
+        {
+          "start": "18:30",
+          "end": "19:15",
+          "course": "en192",
+          "title": "ENGL Assignment 2: write one of the two smaller projects from the Draft 2b bullets",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
+          "note": "Bullets and quotes are in the quote bank, Draft 2b and its source table"
+        },
+        {
+          "start": "19:15",
+          "end": "20:15",
+          "course": "e198",
+          "title": "Bakfiets: #31 hub motor fit with the new torque arms and pigtails",
+          "status": "planned",
+          "note": "Parts arrived Nov 17. One hour cap: ECE 190 Deliverable 3 is due at 11:59 pm"
+        },
+        {
+          "start": "20:30",
+          "end": "23:30",
+          "course": "e190",
+          "title": "ECE 190 Group Deliverable 3 (due 11:59 pm)",
+          "status": "planned",
+          "note": "Group 14, the Groups 1-20 dropbox"
         }
       ]
     },
