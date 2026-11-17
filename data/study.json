@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T20:50:00-05:00",
+  "updated": "2026-11-16T22:02:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5364,13 +5364,13 @@
         },
         {
           "start": "20:50",
-          "end": "22:20",
+          "end": "22:02",
           "course": "m115",
           "unit": "m115-fx-past",
           "title": "Math 115 Tutorial 6 prep (4.4-4.7): exam pack on subspaces, bases and dimension, 8 real exam questions with a method review",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\Exam pack 2026-11-16 - Subspaces, bases and dimension.pdf",
-          "note": "For the Tue 10:30 tutorial (Tutorial 6 covers 4.4-4.7). Review page first, then the questions on paper. Solutions are at the back. Send photos to mark"
+          "note": "For the Tue 10:30 tutorial (Tutorial 6 covers 4.4-4.7). Review page first, then the questions on paper. Solutions are at the back. Send photos to mark | Did Q1-3 with help (set-builder notation, the Subspace Test with general vectors, why the parameter method gives a spanning and independent set; Reduction/Extraction Theorems). Stopped at Q4 (a). Q4-8 left for before the tutorial"
         }
       ]
     },
