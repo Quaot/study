@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:07:00-05:00",
+  "updated": "2026-11-16T22:39:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5374,13 +5374,13 @@
         },
         {
           "start": "22:05",
-          "end": "23:30",
+          "end": "22:39",
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 practice set: sorting, searching and recursion (F24 final Q7, Q10, Q9; F23 final Q11-13; New insertion sort), 29 marks",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
-          "note": "Moved from the daytime block. Code typed in 2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt, call stacks on paper. Key: ECE150-Algo-1116-S.pdf. Send answers to mark"
+          "note": "Moved from the daytime block. Code typed in 2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt, call stacks on paper. Key: ECE150-Algo-1116-S.pdf. Send answers to mark | Did Q1 (selection sort from the front + find_min) and Q2 (is_in with a helper), both full marks after one rewrite. First drafts: k started at 1, swapped on every smaller entry, return inside the loop, open intervals, returned the array index. Q3-Q7 left"
         }
       ]
     },
