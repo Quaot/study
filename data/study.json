@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T12:10:00-05:00",
+  "updated": "2026-11-16T20:35:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5348,19 +5348,19 @@
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 practice set through the day: sorting, searching and recursion (F24 final Q7, Q10, Q9; F23 final Q11-13; New insertion sort), 29 marks",
-          "status": "now",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
-          "note": "Between classes, before the 8 pm F22 mock. Code questions typed in the notes file (2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt), call stacks on paper. Key: ECE150-Algo-1116-S.pdf, open after a question. Send answers to mark"
+          "note": "Between classes, before the 8 pm F22 mock. Code questions typed in the notes file (2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt), call stacks on paper. Key: ECE150-Algo-1116-S.pdf, open after a question. Send answers to mark | Not started during the day. Not re-planned yet"
         },
         {
-          "start": "20:00",
-          "end": "21:30",
+          "start": "20:35",
+          "end": "22:05",
           "course": "e150",
           "unit": "e150-fx-mock",
           "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1115\\ECE 150 - Mock (F22 final).pdf",
-          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10). Moved from Sun Nov 15. Real exam questions first (Justin), so the F22 mock comes before the two new-content papers. Send photos to mark"
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE150-F22-F.pdf",
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10). Moved from Sun Nov 15. Real exam questions first (Justin), so the F22 mock comes before the two new-content papers. Send photos to mark | Started 8:35 pm (30 min late). Opened in Crammy from 6 Exams"
         }
       ]
     },
