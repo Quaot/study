@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:39:00-05:00",
+  "updated": "2026-11-17T13:15:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5400,6 +5400,20 @@
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
           "note": "Moved from the daytime block. Code typed in 2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt, call stacks on paper. Key: ECE150-Algo-1116-S.pdf. Send answers to mark | Did Q1 (selection sort from the front + find_min) and Q2 (is_in with a helper), both full marks after one rewrite. First drafts: k started at 1, swapped on every smaller entry, return inside the loop, open intervals, returned the array index. Q3-Q7 left"
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "blocks": [
+        {
+          "start": "13:10",
+          "end": "14:20",
+          "course": "en192",
+          "title": "ENGL Assignment 2: technical report work",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
+          "note": "Opened the spec, the shared Google Doc and the quote bank on the ENGL desktop. End time is a guess"
         }
       ]
     },
