@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:25:00-05:00",
+  "updated": "2026-11-17T18:45:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5439,25 +5439,26 @@
           "end": "19:15",
           "course": "en192",
           "title": "ENGL Assignment 2: write one of the two smaller projects from the Draft 2b bullets",
-          "status": "now",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
-          "note": "Bullets and quotes are in the quote bank, Draft 2b and its source table"
+          "note": "Bullets and quotes are in the quote bank, Draft 2b and its source table | Not done: Deliverable 3 first. Not re-planned yet"
+        },
+        {
+          "start": "18:45",
+          "end": "21:45",
+          "course": "e190",
+          "title": "ECE 190 Group Deliverable 3 (due 11:59 pm)",
+          "status": "now",
+          "note": "Group 14, the Groups 1-20 dropbox. Risk activity: instructions open on the 190 desktop, template ECE190-D3-Tmpl.docx",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\5 Projects\\ECE190-D3-Spec.pdf"
         },
         {
           "start": "19:15",
           "end": "20:15",
           "course": "e198",
           "title": "Bakfiets: #31 hub motor fit with the new torque arms and pigtails",
-          "status": "planned",
-          "note": "Parts arrived Nov 17. One hour cap: ECE 190 Deliverable 3 is due at 11:59 pm"
-        },
-        {
-          "start": "20:30",
-          "end": "23:30",
-          "course": "e190",
-          "title": "ECE 190 Group Deliverable 3 (due 11:59 pm)",
-          "status": "planned",
-          "note": "Group 14, the Groups 1-20 dropbox"
+          "status": "moved",
+          "note": "Parts arrived Nov 17. One hour cap: ECE 190 Deliverable 3 is due at 11:59 pm | Moved to the bay with the team (meeting Wed Nov 18). Notes: Desktop\\Personal\\Bakfiets meeting notes (Wed Nov 18).txt"
         }
       ]
     },
