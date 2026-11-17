@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T22:05:00-05:00",
+  "updated": "2026-11-16T22:07:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5350,7 +5350,7 @@
           "title": "ECE 150 practice set through the day: sorting, searching and recursion (F24 final Q7, Q10, Q9; F23 final Q11-13; New insertion sort), 29 marks",
           "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
-          "note": "Between classes, before the 8 pm F22 mock. Code questions typed in the notes file (2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt), call stacks on paper. Key: ECE150-Algo-1116-S.pdf, open after a question. Send answers to mark | Not started during the day. Not re-planned yet"
+          "note": "Between classes, before the 8 pm F22 mock. Code questions typed in the notes file (2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt), call stacks on paper. Key: ECE150-Algo-1116-S.pdf, open after a question. Send answers to mark | Not started during the day. Started 10:05 pm instead"
         },
         {
           "start": "20:00",
@@ -5360,7 +5360,7 @@
           "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
           "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE150-F22-F.pdf",
-          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10). Moved from Sun Nov 15. Real exam questions first (Justin), so the F22 mock comes before the two new-content papers. Send photos to mark | Not sat: Justin chose Math 115 Tutorial 6 prep (4.4-4.7) for the Tue 10:30 tutorial. Sat at 10:05 pm instead"
+          "note": "Recursion (Q6) counts as taught now. Skip classes and linked lists (Q7, Q8, Q10). Moved from Sun Nov 15. Real exam questions first (Justin), so the F22 mock comes before the two new-content papers. Send photos to mark | Not sat: Justin chose Math 115 Tutorial 6 prep (4.4-4.7) for the Tue 10:30 tutorial. Not re-planned yet (Justin chose algorithm practice at 10 pm)"
         },
         {
           "start": "20:50",
@@ -5374,13 +5374,13 @@
         },
         {
           "start": "22:05",
-          "end": "23:35",
+          "end": "23:30",
           "course": "e150",
-          "unit": "e150-fx-mock",
-          "title": "ECE 150 MOCK: F22 final, taught questions only, closed book, on paper",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 practice set: sorting, searching and recursion (F24 final Q7, Q10, Q9; F23 final Q11-13; New insertion sort), 29 marks",
           "status": "now",
-          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE150-F22-F.pdf",
-          "note": "Recursion (Q6) counts as taught. Skip classes and linked lists (Q7, Q8, Q10). Moved from 8 pm, after Math 115 Tutorial 6 prep. Send photos to mark"
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
+          "note": "Moved from the daytime block. Code typed in 2 Practice\\ECE150-Algo-1116-Q - my answers (2026-11-16).txt, call stacks on paper. Key: ECE150-Algo-1116-S.pdf. Send answers to mark"
         }
       ]
     },
