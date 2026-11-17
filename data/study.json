@@ -5238,8 +5238,9 @@
           "course": "m117",
           "unit": "m117-fx-mock",
           "title": "Math 117 MOCK: F22 final, taught questions only, closed book, timed",
-          "status": "planned",
-          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1114\\Math 117 - Mock (F22 final).pdf"
+          "status": "moved",
+          "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1114\\Math 117 - Mock (F22 final).pdf",
+          "note": "Not sat on Sat Nov 14 (the day went to building Crammy). Not re-planned yet"
         },
         {
           "start": "14:00",
@@ -5247,9 +5248,9 @@
           "course": "e150",
           "unit": "e150-fx-mock",
           "title": "ECE 150 MOCK: F24 final, taught questions only (Q1-10 = 42 marks), 100 min, closed book, on paper. Skip Q11-14 (linked lists, inheritance)",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1111\\ECE 150 - Mock (F24 final).pdf",
-          "note": "Moved from 2026-11-11. Q7 and Q9 (recursion, searching, sorting) added Nov 12 now that 3.04-3.08 are taught"
+          "note": "Moved from 2026-11-11. Q7 and Q9 (recursion, searching, sorting) added Nov 12 now that 3.04-3.08 are taught | Not sat on Sat Nov 14 (the day went to building Crammy). Not re-planned yet"
         },
         {
           "start": "20:00",
@@ -5257,9 +5258,19 @@
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "Catch-up: ECE 150 F23 final, the new-content questions only: Q5, Q7, Q9, Q11, Q12, Q13 (24 marks, 50 min), closed book, on paper",
-          "status": "planned",
+          "status": "moved",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\6 Exams\\ECE150-F23-F.pdf",
-          "note": "Real exam questions first (Justin, Nov 12). Q1-4, 6 and 8 were done in the Oct 17 pack. Skip Q10 and Q14 (classes, linked lists). The paper has marking notes printed under some questions: cover them with a sheet. Code questions on paper here, since this is a mock"
+          "note": "Real exam questions first (Justin, Nov 12). Q1-4, 6 and 8 were done in the Oct 17 pack. Skip Q10 and Q14 (classes, linked lists). The paper has marking notes printed under some questions: cover them with a sheet. Code questions on paper here, since this is a mock | Not sat on Sat Nov 14 (the day went to building Crammy). Not re-planned yet"
+        },
+        {
+          "start": "21:59",
+          "end": "23:15",
+          "course": "m115",
+          "unit": "m115-fx-new",
+          "status": "done",
+          "title": "Math 115 Nov 13 mock (kernel and range, rank-nullity), worked with help in chat",
+          "path": "C:\\Users\\Justin\\Downloads\\Math 115\\2 Practice\\PDF\\MATH115-Mock-1113-Q.pdf",
+          "note": "Times from the chat session. Asked about linear maps, subspaces, dimension, rank-nullity and nullity; reached Q1 (answered C). The answer file was left empty"
         }
       ]
     },
@@ -5268,13 +5279,13 @@
       "kind": "forward",
       "blocks": [
         {
-          "start": "12:15",
-          "end": "16:15",
+          "start": "14:00",
+          "end": "16:18",
           "course": "en192",
           "title": "ENGL Assignment 2: drafted Recommended Actions and the two smaller projects from sources (UK DfT noise camera reports, NoivelCam, GPS timing, GCC-PHAT). Design changed to four monitors",
           "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
-          "note": "Times from the chat session. Sources are in ENGL 192\\7 Readings. Notes for redoing the other sections are in the quote bank file"
+          "note": "Times from the chat session: about 15 min at 12:15, then 2:00 to 4:18 (12:30 to 2:00 went to the taskbar mod). Sources are in ENGL 192\\7 Readings. Notes for redoing the other sections are in the quote bank file"
         },
         {
           "start": "14:00",
@@ -5318,8 +5329,8 @@
           "note": "Answers (the sheet's printed ones) are in MATH117-PS8-S.pdf, open after. Send photos to mark | Stopped about 9:30 pm for one ECE 150 question; finishing later"
         },
         {
-          "start": "21:30",
-          "end": "22:05",
+          "start": "21:50",
+          "end": "22:07",
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 F23 final Q9 (6 marks): selection sort that removes duplicates (sort_unique), typed in a plain editor",
@@ -5357,7 +5368,7 @@
           "end": "17:44",
           "course": "e198",
           "status": "done",
-          "title": "Machine shop course on LEARN: readings and quizzes, passed",
+          "title": "Bakfiets: machine shop course on LEARN, readings and quizzes, passed",
           "note": "Times from the chat session where he worked through it"
         },
         {
