@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T13:50:00-05:00",
+  "updated": "2026-11-17T14:05:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5417,13 +5417,22 @@
         },
         {
           "start": "13:47",
-          "end": "15:00",
+          "end": "14:05",
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 practice set (sorting, searching, recursion), continued from Q3",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
-          "note": "Q1 (F24 Q7 selection sort) 6/6 and Q2 (F24 Q10 is_in) 4/4: both pass every test. Next: Q3 to Q7. End time is a guess"
+          "note": "Q1 (F24 Q7 selection sort) 6/6 and Q2 (F24 Q10 is_in) 4/4: both pass every test. Q3 (F23 Q11): FR right, F(3) slip (wrote 3, is 9), FC not started. Q4-Q7 left"
+        },
+        {
+          "start": "14:05",
+          "end": "14:20",
+          "course": "en192",
+          "title": "ENGL Assignment 2: technical report (15 min)",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ENGL 192\\3 Assignments\\ENGL192-A2-QuoteBank.md",
+          "note": "Back to ECE 150 Q3 after"
         }
       ]
     },
