@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T18:45:00-05:00",
+  "updated": "2026-11-17T22:05:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5445,11 +5445,11 @@
         },
         {
           "start": "18:45",
-          "end": "21:45",
+          "end": "22:00",
           "course": "e190",
           "title": "ECE 190 Group Deliverable 3 (due 11:59 pm)",
-          "status": "now",
-          "note": "Group 14, the Groups 1-20 dropbox. Risk activity: instructions open on the 190 desktop, template ECE190-D3-Tmpl.docx",
+          "status": "done",
+          "note": "Group 14, the Groups 1-20 dropbox. Risk activity: instructions open on the 190 desktop, template ECE190-D3-Tmpl.docx | Worked with Justin on the risk tables and justifications",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 190\\5 Projects\\ECE190-D3-Spec.pdf"
         },
         {
@@ -5459,6 +5459,16 @@
           "title": "Bakfiets: #31 hub motor fit with the new torque arms and pigtails",
           "status": "moved",
           "note": "Parts arrived Nov 17. One hour cap: ECE 190 Deliverable 3 is due at 11:59 pm | Moved to the bay with the team (meeting Wed Nov 18). Notes: Desktop\\Personal\\Bakfiets meeting notes (Wed Nov 18).txt"
+        },
+        {
+          "start": "22:05",
+          "end": "22:55",
+          "course": "e150",
+          "unit": "e150-fx-past",
+          "title": "ECE 150 practice set: finish Q3 (F23 Q11 values and FC), then Q4 (sigma and p)",
+          "status": "now",
+          "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
+          "note": "50 min (Justin)"
         }
       ]
     },
