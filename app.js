@@ -281,8 +281,18 @@
     });
 
     // ---------- road to the exams: every block tagged with a unit, laid out day by day ----------
+    // Real past-exam questions done out of the total, per course, from D.exam_questions.
+    const examQ = id => {
+      const e = ((D.exam_questions || {}).courses || []).find(x => x.course === id);
+      if (!e) return null;
+      return { papers: e.papers, done: e.papers.reduce((s, x) => s + x.done.length, 0), total: e.papers.reduce((s, x) => s + x.total, 0) };
+    };
     const renderRoad = () => {
       if (!D.roadmap) { $('#road').hidden = true; return; }
+      const eqAll = ((D.exam_questions || {}).courses || []).reduce((a, e) => {
+        const q = examQ(e.course);
+        return { done: a.done + q.done, total: a.total + q.total, names: [a.names, courses[e.course] ? courses[e.course].code : e.course].filter(Boolean).join(', ') };
+      }, { done: 0, total: 0, names: '' });
       const now = new Date(), nowM = now.getHours() * 60 + now.getMinutes();
       const late = (date, b) => b.status !== 'done' && (date < today || (date === today && mins(b.end) <= nowM));
       // Only blocks whose unit belongs to the current roadmap count (older units, e.g. midterm prep, are ignored).
@@ -336,7 +346,9 @@
           const when = s === 'done' ? 'done' : s === 'late' ? `${ul} missed` : next ? fmtDate(next.date, { weekday: 'short', month: 'short', day: 'numeric' }) : '';
           return `<div class="unit" data-s="${s}"><span class="st"></span><span class="ut">${esc(u.title)}</span><span class="ud">${esc(when)}</span></div>`;
         }).join('');
-        cols.push(`<div class="ucol" style="--c:${c.color}"><h4>${esc(c.code)}</h4><div class="when">New content done <b>${esc(fmtDate(finish))}</b>${mock ? ` · mock <b>${esc(fmtDate(mock.date))}</b>` : ''} · exam <b>${esc(fmtDate(r.exam))}, ${esc(r.time)}</b></div>${units}</div>`);
+        const eq = examQ(r.course);
+        const eqLine = eq ? `<div class="eq" title="${esc(eq.papers.map(x => `${x.paper}: ${x.done.length}/${x.total}`).join('\n'))}">Real exam questions done <b>${eq.done} / ${eq.total}</b></div>` : '';
+        cols.push(`<div class="ucol" style="--c:${c.color}"><h4>${esc(c.code)}</h4><div class="when">New content done <b>${esc(fmtDate(finish))}</b>${mock ? ` · mock <b>${esc(fmtDate(mock.date))}</b>` : ''} · exam <b>${esc(fmtDate(r.exam))}, ${esc(r.time)}</b></div>${eqLine}${units}</div>`);
       }
       road.innerHTML = out.join('');
       road.style.minWidth = `${150 + dates.length * 40}px`;
@@ -352,7 +364,8 @@
       $('[data-road-head]').innerHTML = `
         <div class="stat"><b>${esc(fmtDate(contentEnd, { weekday: 'short', month: 'short', day: 'numeric' }))}</b><span>Every topic learned and practised by this day</span></div>
         <div class="stat ${lateTotal ? 'late' : 'ok'}"><b>${lateTotal ? `${lateTotal} block${lateTotal === 1 ? '' : 's'} behind` : 'On schedule'}</b><span>${lateTotal ? 'Missed blocks need a new slot. Tell Claude' : 'Nothing missed so far'}</span></div>
-        <div class="stat"><b>${doneAll} / ${allWork.length}</b><span>Blocks done on the road to the exams</span></div>`;
+        <div class="stat"><b>${doneAll} / ${allWork.length}</b><span>Blocks done on the road to the exams</span></div>
+        ${eqAll.total ? `<div class="stat"><b>${eqAll.done} / ${eqAll.total}</b><span>Real exam questions done (${esc(eqAll.names)})</span></div>` : ''}`;
     };
     // ---------- exam cards: when, where, seat; click to open that day ----------
     const renderExams = () => {

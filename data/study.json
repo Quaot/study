@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T22:05:00-05:00",
+  "updated": "2026-11-17T22:57:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5466,9 +5466,9 @@
           "course": "e150",
           "unit": "e150-fx-past",
           "title": "ECE 150 practice set: finish Q3 (F23 Q11 values and FC), then Q4 (sigma and p)",
-          "status": "now",
+          "status": "done",
           "path": "C:\\Users\\Justin\\Downloads\\ECE 150\\2 Practice\\PDF\\ECE150-Algo-1116-Q.pdf",
-          "note": "50 min (Justin)"
+          "note": "50 min (Justin) | Q3 (F23 Q11): FR right, FC fixed after two tries, about 1.5-2/3. Q4 (F23 Q12): sigma and p pass every check after fixes (k*k shortcut, sum = vs +=, base case), about 2.5-3/3 final. Q5 (F24 Q9 call stack): left A(1,1,1) off the stack, about 2/3"
         }
       ]
     },
@@ -6338,5 +6338,147 @@
       "seat": "C-12",
       "end": "6:20 pm"
     }
-  ]
+  ],
+  "exam_questions": {
+    "note": "Real past-exam questions only (no invented ones). A question counts as done once he has attempted all of it under exam conditions or in a pack. Rebuilt on 17 Nov from the site log and the pack specs. Courses missing here have not been counted yet.",
+    "courses": [
+      {
+        "course": "e150",
+        "papers": [
+          {
+            "paper": "F21 midterm",
+            "total": 8,
+            "done": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "note": "Q8 is the Marmoset coding part (find a zero)"
+          },
+          {
+            "paper": "F22 midterm",
+            "total": 9,
+            "done": [
+              1,
+              3,
+              4,
+              5
+            ]
+          },
+          {
+            "paper": "F22 final",
+            "total": 10,
+            "done": [
+              1,
+              2,
+              3
+            ]
+          },
+          {
+            "paper": "F23 midterm",
+            "total": 9,
+            "done": [
+              1,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9
+            ]
+          },
+          {
+            "paper": "F23 final",
+            "total": 16,
+            "done": [
+              1,
+              2,
+              3,
+              4,
+              6,
+              8,
+              9,
+              11,
+              12
+            ]
+          },
+          {
+            "paper": "F24 midterm",
+            "total": 11,
+            "done": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11
+            ]
+          },
+          {
+            "paper": "F24 final",
+            "total": 14,
+            "done": [
+              3,
+              6,
+              7,
+              9,
+              10
+            ]
+          },
+          {
+            "paper": "F25 midterm",
+            "total": 14,
+            "done": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14
+            ]
+          },
+          {
+            "paper": "F26 midterm",
+            "total": 15,
+            "done": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8,
+              9,
+              10,
+              11,
+              12,
+              13,
+              14,
+              15
+            ],
+            "note": "Includes bonus Q11 and Q12"
+          }
+        ]
+      }
+    ]
+  }
 }

@@ -229,7 +229,10 @@ table.log { width: 100%; border-collapse: collapse; font-size: 15px; }
 .table-scroll { overflow-x: auto; }
 
 /* ---- road to the exams ---- */
-.road-head { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 4px; margin-bottom: 18px; }
+.road-head { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 4px; margin-bottom: 18px; }
+@media (max-width: 720px) { .road-head { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.ucol .eq { font-size: 13px; color: var(--muted); margin: 2px 0 8px; }
+.ucol .eq b { color: var(--fg); font-weight: 600; }
 .road-head .stat { background: var(--card); padding: 18px 20px; }
 .road-head .stat b { display: block; font-family: var(--serif); font-weight: 400; font-size: clamp(28px, 3.4vw, 44px); line-height: 1.05; }
 .road-head .stat span { font-size: 13px; color: var(--muted); }

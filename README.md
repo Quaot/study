@@ -22,6 +22,7 @@ Claude, and Claude updates the file:
 | `reviews` | Practice from before this site existed |
 | `weak` | `{ "course": "m117", "topic": "pfrac" }` entries, which go to the top of the due list |
 | `deadlines` | `date` (optional), `course`, `title`, `weight`, `note` |
+| `exam_questions` | Per course, every real past paper with its `total` questions and the question numbers `done`. The road to the exams shows the count |
 
 A topic counts as reviewed when a block that lists it in `covers` is marked `done`. Ticks and scores typed on the
 page stay in that browser until they're reported.
