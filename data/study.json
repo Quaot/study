@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:45:00-05:00",
+  "updated": "2026-11-24T21:00:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5628,6 +5628,14 @@
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         },
         {
+          "start": "18:26",
+          "end": "18:41",
+          "course": "en192",
+          "title": "ENGL Assignment 2: Gantt chart",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
+        },
+        {
           "start": "18:41",
           "end": "18:52",
           "course": "e198",
@@ -5636,12 +5644,28 @@
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         },
         {
+          "start": "18:52",
+          "end": "19:20",
+          "course": "en192",
+          "title": "ENGL Assignment 2: Gantt chart and quote bank",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
+        },
+        {
           "start": "19:20",
           "end": "19:51",
           "course": "e198",
           "title": "Bakfiets: lights post and issues for the next meeting",
           "status": "done",
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "19:51",
+          "end": "21:11",
+          "course": "en192",
+          "title": "ENGL Assignment 2: quote bank and final Gantt chart",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
         },
         {
           "start": "21:19",
@@ -5689,12 +5713,28 @@
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         },
         {
-          "start": "17:54",
-          "end": "18:46",
+          "start": "18:19",
+          "end": "19:11",
           "course": "e198",
           "title": "Bakfiets: steering pictures and files for the team",
           "status": "done",
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "20:00",
+          "end": "21:23",
+          "course": "en192",
+          "title": "ENGL Assignment 2: technical report draft",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
+        },
+        {
+          "start": "21:37",
+          "end": "22:55",
+          "course": "en192",
+          "title": "ENGL Assignment 2: technical report written and compiled",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
         },
         {
           "start": "23:02",
@@ -5797,6 +5837,14 @@
     {
       "date": "2026-11-24",
       "blocks": [
+        {
+          "start": "13:20",
+          "end": "13:52",
+          "course": "en192",
+          "title": "ENGL Week 11 peer review of Badawi and Zhong",
+          "status": "done",
+          "note": "Estimated from when the report files were saved; the chats for this work are not on this PC."
+        },
         {
           "start": "18:05",
           "end": "19:20",
