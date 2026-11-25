@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T20:30:00-05:00",
+  "updated": "2026-11-24T20:45:00-05:00",
   "term": "Fall 2026 · 1A Electrical Engineering",
   "rhythm": [
     {
@@ -5476,6 +5476,30 @@
       "date": "2026-11-18",
       "blocks": [
         {
+          "start": "00:16",
+          "end": "00:49",
+          "course": "e198",
+          "title": "Bakfiets: electrical post and new issues for the lights, with photos",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "11:09",
+          "end": "11:38",
+          "course": "e198",
+          "title": "Bakfiets: light strip lengths, LED current and the power board",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "16:58",
+          "end": "18:50",
+          "course": "e198",
+          "title": "Bakfiets: meeting prep, then the frame cutting and light tasks",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
           "start": "20:00",
           "end": "21:05",
           "course": "e150",
@@ -5492,6 +5516,14 @@
     {
       "date": "2026-11-19",
       "blocks": [
+        {
+          "start": "12:04",
+          "end": "12:37",
+          "course": "e198",
+          "title": "Bakfiets: purchase request for the screen and the budget update",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
         {
           "start": "12:38",
           "end": "14:31",
@@ -5521,6 +5553,14 @@
           "end": "18:45",
           "course": "e105",
           "title": "Torque as a cross product",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "21:44",
+          "end": "21:56",
+          "course": "e198",
+          "title": "Bakfiets: battery mount, brake lever and throttle issues and threads",
           "status": "done",
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         }
@@ -5570,6 +5610,62 @@
           "path": "C:\\Users\\Justin\\OneDrive - University of Waterloo\\dOneSen\\1112\\ECE 150 - Practice exam (new content, paper 2).pdf",
           "url": "https://uofwaterloo-my.sharepoint.com/personal/j227gu_uwaterloo_ca/Documents/dOneSen/1112/ECE%20150%20-%20Practice%20exam%20%28new%20content%2C%20paper%202%29.pdf",
           "note": "Daily 8 pm catch-up block. Real final questions on this content are all in the F22-F24 mocks, so this paper is course exercises plus New exam-style questions. Paper questions on paper, computer questions typed in a plain editor, then compiled. Answer key is the separate ANSWER KEY PDF, open after. Moved after the F22-F24 real questions (Justin: real exam questions first) | Moved from Mon Nov 16 to make room for the F22 mock. Thu is ECE 105 quiz prep, Fri evening left free."
+        },
+        {
+          "start": "14:50",
+          "end": "15:48",
+          "course": "e198",
+          "title": "Bakfiets: ESP32-S3 light strip wiring diagram and test",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "17:11",
+          "end": "17:35",
+          "course": "e198",
+          "title": "Bakfiets: steering: driving SolidWorks from code, jackshaft options",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "18:41",
+          "end": "18:52",
+          "course": "e198",
+          "title": "Bakfiets: steering: picking the simplest design",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "19:20",
+          "end": "19:51",
+          "course": "e198",
+          "title": "Bakfiets: lights post and issues for the next meeting",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "21:19",
+          "end": "21:28",
+          "course": "e198",
+          "title": "Bakfiets: lights documentation",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "21:56",
+          "end": "22:47",
+          "course": "e198",
+          "title": "Bakfiets: lights documentation PR, videos for GitHub",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "23:13",
+          "end": "23:41",
+          "course": "e198",
+          "title": "Bakfiets: steering model: fixing the geometry",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         }
       ]
     },
@@ -5577,10 +5673,26 @@
       "date": "2026-11-22",
       "blocks": [
         {
+          "start": "14:07",
+          "end": "16:54",
+          "course": "e198",
+          "title": "Bakfiets: cable steering redesign in CAD",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
           "start": "17:06",
           "end": "18:19",
           "course": "e198",
           "title": "GlideTrack final presentation: slides 5 to 8",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "17:54",
+          "end": "18:46",
+          "course": "e198",
+          "title": "Bakfiets: steering pictures and files for the team",
           "status": "done",
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         },
@@ -5597,6 +5709,22 @@
     {
       "date": "2026-11-23",
       "blocks": [
+        {
+          "start": "10:30",
+          "end": "10:40",
+          "course": "e198",
+          "title": "Bakfiets: 3D printing the steering parts",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "11:32",
+          "end": "12:33",
+          "course": "e198",
+          "title": "Bakfiets: animation of Annie's bent rod steering",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
         {
           "start": "12:19",
           "end": "13:14",
@@ -5615,6 +5743,22 @@
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         },
         {
+          "start": "13:49",
+          "end": "13:55",
+          "course": "e198",
+          "title": "Bakfiets: steering overview for the team",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
+          "start": "17:05",
+          "end": "17:23",
+          "course": "e198",
+          "title": "Bakfiets: reopened the SolidWorks parts, U-joint model started",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
           "start": "18:13",
           "end": "19:14",
           "course": "e150",
@@ -5624,6 +5768,14 @@
           "kind": "assignment"
         },
         {
+          "start": "18:58",
+          "end": "19:43",
+          "course": "e198",
+          "title": "Bakfiets: steering comparison: morph charts and Nishanth's model",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
+        },
+        {
           "start": "20:05",
           "end": "21:45",
           "course": "e150",
@@ -5631,6 +5783,14 @@
           "status": "done",
           "note": "Timed from chat message times; a gap over 30 minutes counts as a break.",
           "kind": "assignment"
+        },
+        {
+          "start": "21:44",
+          "end": "22:07",
+          "course": "e198",
+          "title": "Bakfiets: electrical update on the lights with labelled photos",
+          "status": "done",
+          "note": "Timed from chat message times; a gap over 30 minutes counts as a break."
         }
       ]
     },
